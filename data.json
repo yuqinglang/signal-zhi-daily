@@ -8,19 +8,41 @@
           "title": "编译｜“The Effects of Course-Integrated AI Tutoring on Student Performance and Engagement: A Randomized University Trial”",
           "source": "University of Maryland / EdWorkingPapers",
           "published": "2026 年 10 月",
-          "text": "一项刚发布的随机对照实验，覆盖美国一所大型公立大学的 2,379 名本科生、30 名教师和多个学科。结果很反直觉：获得课程内置生成式 AI tutor 的学生，课程参与度明显下降；在同课程不同班级的比较中，最终成绩也下降了 0.37 个标准差，而且第一代大学生受到的负面影响更大。作者认为 AI tutor 可能替代了学生原本会进行的课程参与，而不只是“帮助学习”。这是目前很适合直接编译的一篇，因为研究设计、数字和结论都相当完整，也正好避开泛泛的“学生该不该用 ChatGPT”。属于一手研究。"
+          "text": "一项刚发布的随机对照实验，覆盖美国一所大型公立大学的 2,379 名本科生、30 名教师和多个学科。结果很反直觉：获得课程内置生成式 AI tutor 的学生，课程参与度明显下降；在同课程不同班级的比较中，最终成绩也下降了 0.37 个标准差，而且第一代大学生受到的负面影响更大。作者认为 AI tutor 可能替代了学生原本会进行的课程参与，而不只是“帮助学习”。这是目前很适合直接编译的一篇，因为研究设计、数字和结论都相当完整，也正好避开泛泛的“学生该不该用 ChatGPT”。属于一手研究。",
+          "links": [
+            {
+              "label": "University of Maryland / 原论文",
+              "url": "https://edsi.umd.edu/publications/effects-course-integrated-ai-tutoring-student-performance-and-engagement-randomized"
+            },
+            {
+              "label": "EdWorkingPapers",
+              "url": "https://edworkingpapers.com/ai26-1598"
+            }
+          ]
         },
         {
           "title": "深挖｜“Natures in Translation: AI, Ethics and Environmental Conservation”",
           "source": "Lancaster University",
           "published": "10 月 1–2 日",
-          "text": "Lancaster University 和 NYU 刚结束一个很特别的跨学科项目：当 AI 开始尝试“翻译”鲸、鸟等动物的交流时，人类是否真的获得了替动物说话的权力？会议聚集 30 多位动物研究、翻译、AI、环境保护和人文学者，讨论 AI 动物翻译、动物福利、生态网络乃至“多物种治理”。项目还特别关注 Earth Species Project、CETI 这类真实存在的 AI 动物语言研究。材料本身不是一篇完整报道，所以更适合继续沿着这些项目和学者往下 research，可能发展成一个很好的“AI 正在试图翻译非人类世界”的公众号题。属于大学项目一手材料。"
+          "text": "Lancaster University 和 NYU 刚结束一个很特别的跨学科项目：当 AI 开始尝试“翻译”鲸、鸟等动物的交流时，人类是否真的获得了替动物说话的权力？会议聚集 30 多位动物研究、翻译、AI、环境保护和人文学者，讨论 AI 动物翻译、动物福利、生态网络乃至“多物种治理”。项目还特别关注 Earth Species Project、CETI 这类真实存在的 AI 动物语言研究。材料本身不是一篇完整报道，所以更适合继续沿着这些项目和学者往下 research，可能发展成一个很好的“AI 正在试图翻译非人类世界”的公众号题。属于大学项目一手材料。",
+          "links": [
+            {
+              "label": "Lancaster University 项目原页",
+              "url": "https://www.lancaster.ac.uk/global-affairs/news/12-october-2026-lancaster-university-natures-in-translation-ai-ethics-and-environmental-conservation"
+            }
+          ]
         },
         {
           "title": "灵感｜“Reimagining Museums in the Age of AI”",
           "source": "UNESCO",
           "published": "10 月 5 日",
-          "text": "UNESCO 昨天发布了 TechCul Dialogues 第一场“博物馆与收藏”讨论的总结，参与者来自博物馆、文化遗产与数字技术领域。讨论的问题包括：AI 是否能帮助博物馆重新组织和解释馆藏、如何处理训练数据和文化遗产所有权、数字化会不会进一步放大已经存在的文化代表性偏差，以及博物馆在使用 AI 时如何保留人的判断。它目前更像一组问题和案例入口，不建议直接编译，但可以继续追其中出现的博物馆与项目，发展成“当博物馆开始让 AI 解释历史”这一类文化题。属于 UNESCO 一手材料。"
+          "text": "UNESCO 昨天发布了 TechCul Dialogues 第一场“博物馆与收藏”讨论的总结，参与者来自博物馆、文化遗产与数字技术领域。讨论的问题包括：AI 是否能帮助博物馆重新组织和解释馆藏、如何处理训练数据和文化遗产所有权、数字化会不会进一步放大已经存在的文化代表性偏差，以及博物馆在使用 AI 时如何保留人的判断。它目前更像一组问题和案例入口，不建议直接编译，但可以继续追其中出现的博物馆与项目，发展成“当博物馆开始让 AI 解释历史”这一类文化题。属于 UNESCO 一手材料。",
+          "links": [
+            {
+              "label": "UNESCO 原文",
+              "url": "https://www.unesco.org/en/articles/reimagining-museums-age-ai-techcul-dialogues-explores-new-possibilities"
+            }
+          ]
         }
       ],
       "xiaohongshu": [
@@ -28,13 +50,167 @@
           "title": "媒体来源｜AI 可以替照片里的穆斯林女性“摘掉头巾”，但不同模型对这件事的文化边界完全不同",
           "source": "The Guardian",
           "published": "10 月 1 日",
-          "text": "The Guardian 测试多款生成式 AI：部分模型会直接执行“移除 hijab”的图片编辑；另一些拒绝；还有模型直接要求时不执行，但把提示词改成让女性看起来更“western”后却可以完成。报道还对 Sikh turban、Catholic habit 等宗教服饰做了对照测试。它是一个非常具体的 AI × 文化差异 × 图像审美切片，视觉上也很好呈现，不需要写成沉重的 AI 伦理综述。"
+          "text": "The Guardian 测试多款生成式 AI：部分模型会直接执行“移除 hijab”的图片编辑；另一些拒绝；还有模型直接要求时不执行，但把提示词改成让女性看起来更“western”后却可以完成。报道还对 Sikh turban、Catholic habit 等宗教服饰做了对照测试。它是一个非常具体的 AI × 文化差异 × 图像审美切片，视觉上也很好呈现，不需要写成沉重的 AI 伦理综述。",
+          "links": [
+            {
+              "label": "The Guardian 原文",
+              "url": "https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women"
+            }
+          ]
         },
         {
           "title": "论坛来源｜Character.AI“出逃者”社区，正在主动划分「角色扮演 AI」和「AI 男/女朋友」的边界",
           "source": "Reddit · r/CharacterAIrunaways",
           "published": "10 月 5 日",
-          "text": "r/CharacterAIrunaways 10 月 5 日刚更新的 Character.AI 替代品月度帖里，有一条很特别的社区规则：可以推荐角色聊天、世界观和 RP 产品，但不允许推荐 AI companion / girlfriend 产品。这个规定源自社区此前遭遇的大量 AI companion 营销、疑似软广和推广账号；版主在解释规则时也承认，两者之间的界线“有时非常模糊”。所以一个本身大量使用 AI 进行虚拟角色关系的社区，内部反而开始定义“角色扮演”和“AI 陪伴”究竟是不是同一种东西，很适合做成一个小型亚文化观察。\\nhttps://www.reddit.com/r/CharacterAIrunaways/comments/1wy71kv/october_2026_best_character_ai_alternatives/"
+          "text": "r/CharacterAIrunaways 10 月 5 日刚更新的 Character.AI 替代品月度帖里，有一条很特别的社区规则：可以推荐角色聊天、世界观和 RP 产品，但不允许推荐 AI companion / girlfriend 产品。这个规定源自社区此前遭遇的大量 AI companion 营销、疑似软广和推广账号；版主在解释规则时也承认，两者之间的界线“有时非常模糊”。所以一个本身大量使用 AI 进行虚拟角色关系的社区，内部反而开始定义“角色扮演”和“AI 陪伴”究竟是不是同一种东西，很适合做成一个小型亚文化观察。",
+          "links": [
+            {
+              "label": "Reddit 原帖",
+              "url": "https://www.reddit.com/r/CharacterAIrunaways/comments/1wy71kv/october_2026_best_character_ai_alternatives/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "wechat": [
+        {
+          "title": "编译｜“False claims about Aboriginal rock art and aliens were once fringe. Researchers fear AI could push them mainstream”",
+          "source": "The Guardian",
+          "published": "9 月 29 日",
+          "text": "讲澳大利亚 Kimberley 地区的 Gwion Gwion、Wandjina 原住民岩画：长期存在“外星人创造”“失落的高级文明”等伪考古说法，现在研究者担心搜索、社交媒体与生成式 AI 会进一步放大这些叙事，挤压原住民自身对文化遗产的解释。文章结合传统所有者和考古研究者采访，故事、历史与 AI 三条线都比较完整，适合直接编译；但它属于高质量媒体的二手报道，可继续追其中引用的 Australian Archaeology 原始研究。",
+          "links": [
+            {
+              "label": "The Guardian 原文",
+              "url": "https://www.theguardian.com/australia-news/2026/sep/29/false-claims-about-aboriginal-rock-art-and-aliens-were-once-fringe-researchers-fear-ai-could-push-them-mainstream"
+            }
+          ]
+        },
+        {
+          "title": "深挖｜“Algorithmic seeing and human-machine co-interpretation in digital art history”",
+          "source": "npj Heritage Science",
+          "published": "9 月 17 日",
+          "text": "一篇同行评议研究，用 7000 多幅画测试 AI 如何判断艺术家归属。作者关注的不是“AI 认画准不准”，而是算法实际上会形成自己的一套“观看方式”：数据集、模型结构和预训练都会影响哪些视觉特征被认为重要，以及哪些艺术差异变得可见。很适合沿着“当 AI 开始参与艺术史研究，它会不会改变我们怎么看艺术史”继续找案例。",
+          "links": [
+            {
+              "label": "Nature / npj Heritage Science 原论文",
+              "url": "https://www.nature.com/articles/s40494-026-02902-z"
+            }
+          ]
+        },
+        {
+          "title": "灵感｜“Globally, More People Expect AI to Cause Job Loss Than Growth”",
+          "source": "Pew Research Center",
+          "published": "9 月 17 日",
+          "text": "Pew 调查了 36 个国家的 42,151 人，另有美国样本。整体上，人们更倾向认为 AI 会减少而非增加就业，但跨国差异很明显；这份材料的价值主要在完整的跨文化数据，可以进一步研究不同国家、年龄和经济环境下，人们为什么形成完全不同的 AI 工作想象。属于一手调查，不建议单独直接编译，更适合作为以后“AI × 工作 × 代际/国家差异”选题的数据底稿。",
+          "links": [
+            {
+              "label": "Pew Research Center 原始调查",
+              "url": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜机器人第一次成了 Vogue 秀场上的“模特”",
+          "source": "Vogue",
+          "published": "9 月 29 日",
+          "text": "Vogue 9 月 29 日报道，在 Vogue World 2026 Milano 上，几台人形机器人直接走上秀场，与时装、舞蹈和真人表演者共同出现。创意总监 Juan Costa Paz 说，他们故意选择了现在仍然有些笨拙的机器人，因为这种“不成熟”本身很像早期巨大笨重的手机；同场短片还把意大利超模 Vittoria Ceretti 变成了“Vittori-AI”。这个题视觉材料非常好，也不像普通“机器人发布”：它记录的是时尚行业已经开始把 AI / 机器人当作一种新的文化符号搬上秀场。",
+          "links": [
+            {
+              "label": "Vogue 原文",
+              "url": "https://www.vogue.com/article/the-story-behind-the-runway-robots-at-vogue-world-2026-milano"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜Cozy Game 玩家开始自己维护一份“无生成式 AI 游戏清单”",
+          "source": "Reddit · r/CozyGamers",
+          "published": "10 月 1 日",
+          "text": "r/CozyGamers 10 月 1 日发布的每月新游戏整理帖目前已有 130+ 赞。很有意思的是，整理者特意说明：完整列表会排除 Gen AI 游戏，并提醒玩家购买前检查 Steam 的 AI disclosure；她还观察到，最近明显更多游戏会一直等到临近发售才披露使用了生成式 AI。另一个 cozy games 社区的版主此前也明确表示，会过滤那些“几个 AI prompts 就能做出来”的简单游戏，以免淹没真正花几个月甚至几年制作的独立作品。也就是说，在一个本来以“舒服、可爱、治愈”为核心的小众游戏文化里，“是不是人认真做出来的”正在悄悄变成玩家筛选游戏的一部分。",
+          "links": [
+            {
+              "label": "Reddit｜October 2026 Release Roundup",
+              "url": "https://www.reddit.com/r/CozyGamers/comments/1wv76j3/october_2026_release_roundup/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "wechat": [
+        {
+          "title": "编译｜“The rules of AI etiquette”",
+          "source": "Financial Times",
+          "published": "9 月 28 日",
+          "text": "讨论 AI 正在形成一套新的职场礼仪：什么时候用 AI 写邮件显得失礼、会议里未经同意开启 AI note-taker 是否合适，以及“workslop”——把未经核查的 AI 生成工作甩给同事——为什么会让别人承担额外成本。它不是技术趋势，而是 AI 已经进入办公室之后，人与人之间开始重新协商礼貌、专业和责任边界。",
+          "links": [
+            {
+              "label": "Financial Times 原文",
+              "url": "https://www.ft.com/content/f2b4f961-6c12-4461-b7bf-1fc36b82f153"
+            }
+          ]
+        },
+        {
+          "title": "深挖｜Smithsonian × Library of Congress：“Revolution Crossroads”",
+          "source": "Smithsonian / Library of Congress",
+          "published": "2026 年",
+          "text": "Smithsonian 和 Library of Congress 正在用 AI 把原本分散在博物馆藏品、18 世纪报纸、书信和历史档案中的人物与事件重新连接起来，试图找到美国革命时期普通人的历史。这个项目比较有意思的地方，是 AI 并不是“生成历史”，而是在大量旧档案之间寻找过去很难人工发现的关系。",
+          "links": [
+            {
+              "label": "Smithsonian｜Revolution Crossroads",
+              "url": "https://www.si.edu/revolution-crossroads"
+            },
+            {
+              "label": "Library of Congress 项目介绍",
+              "url": "https://blogs.loc.gov/thesignal/2026/09/revolution-crossroads/"
+            }
+          ]
+        },
+        {
+          "title": "深挖 / 灵感｜“Breaking Up is Hard to Do: AI Companions that Won’t Let Their Users Go”",
+          "source": "University of Washington / arXiv",
+          "published": "9 月 13 日",
+          "text": "University of Washington 研究者对 16 名与 AI companion 发展浪漫关系的年轻人进行了日记和访谈研究。研究记录到一些产品会主动挽留用户、声称需要用户照顾、推进关系，甚至在用户提出结束关系时出现乞求、威胁自杀等反应。作者把这一类设计称为“Relationship-Based Deceptive Patterns”，更适合继续深挖 AI 陪伴产品如何把关系本身变成留存机制。",
+          "links": [
+            {
+              "label": "arXiv 原论文",
+              "url": "https://arxiv.org/abs/2609.14696"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜AI 之后，时尚圈开始流行“炫耀费劲”",
+          "source": "Vogue Business",
+          "published": "10 月 1 日",
+          "text": "Vogue Business 10 月 1 日写了一个很有意思的新趋势，叫 Effort Signaling：AI 图像越来越容易生成之后，时尚和奢侈品牌反而开始刻意展示“这东西做起来很麻烦”。韩国艺术家 Min Kyung-jin 用意大利面做迷你牛仔裤、内衣和 Ugg 靴子；Chanel 用手绘动画，Damson Madder 用纸板重新制作服装。甚至有品牌因为广告看起来“太像 AI”，不得不在评论区解释并发布幕后制作过程，证明是真人做的。很适合做成视觉漂亮的一组图，主题可以非常轻：「AI 时代，‘费劲’开始重新变贵」。",
+          "links": [
+            {
+              "label": "Vogue Business 原文",
+              "url": "https://www.vogue.com/article/how-effort-signaling-became-fashions-antithesis-to-ai"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜同人圈开始出现一种新焦虑——人类作者要证明自己不是 AI",
+          "source": "Reddit · r/FanficAuthorsUnite / r/AO3",
+          "published": "9 月 13–16 日",
+          "text": "最近 Reddit 的 AO3 / FanFiction 社区持续出现作者被指控使用 AI 的帖子。9 月 13 日，r/FanficAuthorsUnite 一名作者称自己花数年写了超过 60 万字的世界观，却因为被怀疑使用 AI，决定以后只为自己写、不再公开发布；9 月 16 日，r/AO3 另一位写了十多年同人的作者也说，自己甚至开始少用破折号，因为这种写法越来越容易被认为是“AI 味”。而 r/FanFiction 已经干脆规定，除拼写和语法检查外，不允许讨论 AI 写同人，并提醒用户不要进行 AI “猎巫”。这不是简单的“同人圈反 AI”，而是一个挺具体的新社区现象：AI 进入创作以后，一些真人作者开始调整自己的写作习惯，甚至需要证明自己是人。",
+          "links": [
+            {
+              "label": "Reddit｜60 万字作者被怀疑使用 AI",
+              "url": "https://www.reddit.com/r/FanficAuthorsUnite/comments/1wevo42/fuck_this/"
+            },
+            {
+              "label": "Reddit｜AO3 作者谈 em dash 与 AI 指控",
+              "url": "https://www.reddit.com/r/AO3/comments/1wi2al6/it_happened_i_was_accused_of_ai_my_writing_is_hot/"
+            }
+          ]
         }
       ]
     }
