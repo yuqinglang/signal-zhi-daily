@@ -1,0 +1,42 @@
+{
+  "updated_at": "2026-10-06",
+  "days": [
+    {
+      "date": "2026-10-06",
+      "wechat": [
+        {
+          "title": "编译｜“The Effects of Course-Integrated AI Tutoring on Student Performance and Engagement: A Randomized University Trial”",
+          "source": "University of Maryland / EdWorkingPapers",
+          "published": "2026 年 10 月",
+          "text": "一项刚发布的随机对照实验，覆盖美国一所大型公立大学的 2,379 名本科生、30 名教师和多个学科。结果很反直觉：获得课程内置生成式 AI tutor 的学生，课程参与度明显下降；在同课程不同班级的比较中，最终成绩也下降了 0.37 个标准差，而且第一代大学生受到的负面影响更大。作者认为 AI tutor 可能替代了学生原本会进行的课程参与，而不只是“帮助学习”。这是目前很适合直接编译的一篇，因为研究设计、数字和结论都相当完整，也正好避开泛泛的“学生该不该用 ChatGPT”。属于一手研究。"
+        },
+        {
+          "title": "深挖｜“Natures in Translation: AI, Ethics and Environmental Conservation”",
+          "source": "Lancaster University",
+          "published": "10 月 1–2 日",
+          "text": "Lancaster University 和 NYU 刚结束一个很特别的跨学科项目：当 AI 开始尝试“翻译”鲸、鸟等动物的交流时，人类是否真的获得了替动物说话的权力？会议聚集 30 多位动物研究、翻译、AI、环境保护和人文学者，讨论 AI 动物翻译、动物福利、生态网络乃至“多物种治理”。项目还特别关注 Earth Species Project、CETI 这类真实存在的 AI 动物语言研究。材料本身不是一篇完整报道，所以更适合继续沿着这些项目和学者往下 research，可能发展成一个很好的“AI 正在试图翻译非人类世界”的公众号题。属于大学项目一手材料。"
+        },
+        {
+          "title": "灵感｜“Reimagining Museums in the Age of AI”",
+          "source": "UNESCO",
+          "published": "10 月 5 日",
+          "text": "UNESCO 昨天发布了 TechCul Dialogues 第一场“博物馆与收藏”讨论的总结，参与者来自博物馆、文化遗产与数字技术领域。讨论的问题包括：AI 是否能帮助博物馆重新组织和解释馆藏、如何处理训练数据和文化遗产所有权、数字化会不会进一步放大已经存在的文化代表性偏差，以及博物馆在使用 AI 时如何保留人的判断。它目前更像一组问题和案例入口，不建议直接编译，但可以继续追其中出现的博物馆与项目，发展成“当博物馆开始让 AI 解释历史”这一类文化题。属于 UNESCO 一手材料。"
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜AI 可以替照片里的穆斯林女性“摘掉头巾”，但不同模型对这件事的文化边界完全不同",
+          "source": "The Guardian",
+          "published": "10 月 1 日",
+          "text": "The Guardian 测试多款生成式 AI：部分模型会直接执行“移除 hijab”的图片编辑；另一些拒绝；还有模型直接要求时不执行，但把提示词改成让女性看起来更“western”后却可以完成。报道还对 Sikh turban、Catholic habit 等宗教服饰做了对照测试。它是一个非常具体的 AI × 文化差异 × 图像审美切片，视觉上也很好呈现，不需要写成沉重的 AI 伦理综述。"
+        },
+        {
+          "title": "论坛来源｜Character.AI“出逃者”社区，正在主动划分「角色扮演 AI」和「AI 男/女朋友」的边界",
+          "source": "Reddit · r/CharacterAIrunaways",
+          "published": "10 月 5 日",
+          "text": "r/CharacterAIrunaways 10 月 5 日刚更新的 Character.AI 替代品月度帖里，有一条很特别的社区规则：可以推荐角色聊天、世界观和 RP 产品，但不允许推荐 AI companion / girlfriend 产品。这个规定源自社区此前遭遇的大量 AI companion 营销、疑似软广和推广账号；版主在解释规则时也承认，两者之间的界线“有时非常模糊”。所以一个本身大量使用 AI 进行虚拟角色关系的社区，内部反而开始定义“角色扮演”和“AI 陪伴”究竟是不是同一种东西，很适合做成一个小型亚文化观察。\\nhttps://www.reddit.com/r/CharacterAIrunaways/comments/1wy71kv/october_2026_best_character_ai_alternatives/"
+        }
+      ]
+    }
+  ]
+}
