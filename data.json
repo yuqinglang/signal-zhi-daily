@@ -1,6 +1,73 @@
 {
-  "updated_at": "2026-10-06",
+  "updated_at": "2026-10-07",
   "days": [
+    {
+      "date": "2026-10-07",
+      "wechat": [
+        {
+          "title": "编译｜“Welcome to Britain's first AI classroom”",
+          "source": "The Times",
+          "published": "10 月 6 日",
+          "text": "The Times 走进伦敦西南部 Teddington School：这所中学刚获得英国首个 AI in Education Explorer Status。学校的做法很有反差——校内网络会屏蔽 AI 工具、学生白天也不能使用手机，但课堂会系统教学生怎样判断 AI 的答案、怎样披露自己在作业中使用了 AI，教师也会当场演示模型出错。报道中的学生还谈到，最初频繁使用 AI 后，有人反而开始担心自己“不会思考了”。它不是简单的“AI 进课堂”，而是一所学校怎样同时限制 AI、又教孩子与 AI 相处的现场故事，适合直接编译。属于高质量媒体原创报道。",
+          "links": [
+            {
+              "label": "The Times 原文",
+              "url": "https://www.thetimes.com/uk/education/article/britains-first-ai-classroom-lfkzv02wl"
+            }
+          ]
+        },
+        {
+          "title": "深挖｜“Who we become when we talk to machines”",
+          "source": "MIT News / Sherry Turkle",
+          "published": "9 月 29 日",
+          "text": "MIT News 围绕 Sherry Turkle 新书《Artificial Intimacy》整理了她最新一轮对 AI 陪伴的研究与访谈。Turkle 过去近 50 年一直研究人与技术的关系，这次把观察贯穿儿童、工作、爱情、亲子和衰老：她记录有人向 chatbot 询问自己是否“情感疏离”，也担心儿童会把内置聊天机器人的玩具当成真正朋友。她的核心研究问题不是机器人有没有感情，而是长期与这种永远回应、几乎不要求互惠的关系相处，会不会改变人学习亲密、冲突和同理心的方式。材料人物和案例很多，适合继续深挖“AI 正在重写亲密关系的基础设施”。属于 MIT 一手人物/研究材料。",
+          "links": [
+            {
+              "label": "MIT News 原文",
+              "url": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929"
+            }
+          ]
+        },
+        {
+          "title": "灵感｜《生成式人工智能应用发展报告（2026）》",
+          "source": "中国互联网络信息中心（CNNIC）",
+          "published": "9 月 29 日",
+          "text": "CNNIC 最新报告显示，截至 2026 年上半年，中国生成式 AI 用户已经突破 7 亿，普及率超过 50%。更值得留作选题底稿的是具体使用结构：76.0% 的用户主要拿 AI 回答问题，47.8% 用于图片/视频处理，37.6% 用于文本处理，32.5% 用于工作总结、会议纪要或 PPT；AI 综合助手和效率办公的使用次数同比都增长超过 100%。这份材料本身偏数据，不建议直接编译，但很适合以后与美国、欧洲或东亚其他地区的 AI 使用调查做跨文化对照，看看不同社会正在把 AI 变成什么样的日常工具。属于中国大陆官方研究机构一手材料。",
+          "links": [
+            {
+              "label": "CNNIC 原始发布",
+              "url": "https://www.cnnic.cn/n4/2026/0930/c326-11690.html"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜由青少年自己讲：AI 影像越来越难辨认后，他们怎么练“识破 AI”的能力",
+          "source": "KALW · tbh",
+          "published": "10 月 6 日",
+          "text": "KALW 的青少年节目 tbh 10 月 6 日发布一期由 teen producer Unaysah Ron 制作的节目，直接从青少年的日常刷手机经验出发：朋友曾被“狗狗自己挑选主人”的感人短视频吸引，后来才意识到这类内容可能由 AI 制作。节目没有把重点放在“AI 很危险”，而是讨论当 AI 媒体越来越难凭肉眼识别时，年轻人怎样建立 media literacy、核查来源和保持怀疑。这个角度很适合做成轻量的成长型小红书：不是教大家识别几个固定的 AI 痕迹，而是“AI 时代，年轻人需要重新学会怎么相信一张图/一段视频”。",
+          "links": [
+            {
+              "label": "KALW 原节目",
+              "url": "https://www.kalw.org/podcast/tbh-made-by-about-and-for-teenagers/2026-10-06/how-teens-are-navigating-a-world-with-ai"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜学生正在因为“用不用 AI”分成两派，甚至朋友之间会吵起来",
+          "source": "Reddit · r/Teachers",
+          "published": "10 月 4 日",
+          "text": "r/Teachers 一位教师 10 月 4 日发帖说，他最近明显感觉学生对 AI 的态度正在两极化：一部分学生每天使用，觉得“AI 都能做，为什么还要自己想”；另一部分则非常反感 AI，会把它和环境问题、AI slop 联系起来，甚至出现朋友因为 AI 使用而闹翻的情况。帖主还描述，学校管理层播放一份完全由 AI 制作的 presentation 时，一些学生直接离场，现场还有嘲笑和抱怨。帖子目前有 1,800+ 赞。它很适合做一个年轻人文化观察：AI 不再只是一个大家都想尝试的新工具，“是否使用 AI”正在变成某些年轻人的身份和价值观表达。注意这只是单个教师及评论区的社区观察，不宜扩大成整体青少年趋势。",
+          "links": [
+            {
+              "label": "Reddit 原帖",
+              "url": "https://www.reddit.com/r/Teachers/comments/1wx93jy/ive_noticed_something/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-06",
       "wechat": [
