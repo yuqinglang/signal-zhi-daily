@@ -1,6 +1,73 @@
 {
-  "updated_at": "2026-10-07",
+  "updated_at": "2026-10-08",
   "days": [
+    {
+      "date": "2026-10-08",
+      "wechat": [
+        {
+          "title": "编译｜“‘Pull the plug’: protesters resort to direct action against AI firms”",
+          "source": "The Guardian（原创采访报道）",
+          "published": "2026 年 10 月 6 日",
+          "text": "《卫报》跟访英国新兴反 AI 抗议团体 Pull The Plug：28 岁酒吧员工 Emma 与几名成员闯入科技行业晚宴，举起反对 AI 企业的横幅。报道还采访了 PauseAI 组织者、学生及环保人士；有人担忧未来工作，有人反对数据中心建设，也有人害怕先进 AI 失控。不同团体对是否采取直接行动存在分歧。人物、现场和冲突完整，适合编译；报道中的灾难预测属于受访者观点，不应写成既成事实。",
+          "links": [
+            {
+              "label": "The Guardian 原文",
+              "url": "https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-direct-action-ai-firms"
+            }
+          ]
+        },
+        {
+          "title": "深挖｜“‘Treasure trove’ of writings by Professor Stuart Hall made accessible for first time”",
+          "source": "University of Birmingham（大学项目一手发布）",
+          "published": "2026 年 10 月 7 日",
+          "text": "伯明翰大学公开牙买加裔英国文化研究学者 Stuart Hall 的数字档案，包括 3,100 多件手稿图像、24 小时以上录音及六小时以上影像。项目团队特意使用 Nightshade 处理部分档案图像，试图防止 AI 抓取、训练或歪曲这些文化材料。负责人 Rebecca Roach 认为，弱势群体的文化遗产不应未经同意被商业模型提取。适合继续研究“历史档案如何向公众开放，同时拒绝成为 AI 训练数据”；防护效果仍需独立核实。",
+          "links": [
+            {
+              "label": "伯明翰大学原始发布",
+              "url": "https://www.birmingham.ac.uk/news/2026/treasure-trove-of-writings-by-professor-stuart-hall-made-accessible-for-first-time"
+            }
+          ]
+        },
+        {
+          "title": "灵感｜《微短剧秋季点评会：技术改变了制播模式，但AI剧和真人剧各美其美》",
+          "source": "澎湃新闻（中国大陆媒体原创报道）",
+          "published": "2026 年 10 月 6 日",
+          "text": "北京举行的 2026 精品微短剧秋季点评会同时讨论 8 部真人剧与 4 部 AI 剧。全 AI 非遗剧《桃花潭记》以安徽泾县宣纸文化为背景，导演强调最终艺术选择仍由人完成；《咕噜比事务所》团队则表示，制作少儿动画时已不再把技术标准放在首位。与会学者讨论了 AI 剧和真人剧在题材、情感表达及横竖屏叙事上的差异。适合沿着具体作品与创作者继续追访，而非写成笼统的“AI 取代演员”新闻。",
+          "links": [
+            {
+              "label": "澎湃新闻原文",
+              "url": "https://www.thepaper.cn/newsDetail_forward_31714450"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜英国妈妈论坛突然冒出 AI 写帖指令，用户追问：我们到底在和谁聊天？",
+          "source": "The Guardian（原创报道）",
+          "published": "2026 年 10 月 7 日",
+          "text": "英国育儿论坛 Mumsnet 的“我是不是太不讲理了”（AIBU）讨论区里，一名用户求助家庭矛盾，却意外出现一段教 AI 如何撰写论坛回复的详细指令。网友担心原本由真人互相提供的生活建议被 AI 混入。创始人随后解释：网站确实用 AI 帮用户建议帖子标题，但没有用它代写帖子或回复；一些用户仍不信服。适合做成一组“真人社区为什么开始怀疑自己在和 AI 说话”的轻观察，注意不要把 AI 代写当成已证实事实。",
+          "links": [
+            {
+              "label": "The Guardian 原始报道",
+              "url": "https://www.theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜兴趣圈八卦社区宣布：禁 AI，但不允许“凭感觉抓 AI”",
+          "source": "Reddit · r/HobbyDrama（版主公告与社区讨论）",
+          "published": "2026 年 10 月 5 日（10 月 7 日仍有讨论）",
+          "text": "Reddit 的 r/HobbyDrama 在季度社区讨论帖里重申：禁止 AI 生成的帖子与评论，但版主不会因为传闻或“看着像 AI”就删帖，必须有确凿证据。评论区随即追问：到底什么才算确凿证据？有人说作者承认或遗留提示词才算，也有人担心误伤真人作者。它展示了一个有趣的社区治理难题：既想保留真人讲述的兴趣圈故事，也不愿把反 AI 变成无证据的指控。",
+          "links": [
+            {
+              "label": "Reddit 社区原帖",
+              "url": "https://www.reddit.com/r/HobbyDrama/comments/1wy9cxu/meta_rhobbydrama_octobernovemberdecember_2026/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "wechat": [
