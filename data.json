@@ -1,6 +1,140 @@
 {
-  "updated_at": "2026-10-08",
+  "updated_at": "2026-10-10",
   "days": [
+    {
+      "date": "2026-10-10",
+      "wechat": [
+        {
+          "title": "编译｜“Lost generation: the AI threat to Britain’s next great directors”",
+          "source": "The Guardian · Mark Sweney（原创采访报道）",
+          "published": "2026 年 10 月 9 日",
+          "text": "英国广告业曾是导演的“电影学校”：雷德利·斯科特、盖·里奇等人都拍过广告。如今，广告公司用生成式 AI 压缩拍摄成本，雷德利·斯科特之子 Luke Scott 担心年轻导演失去通过实拍磨练技能的入口；WPP 则刚在伦敦启用 AI 制作设施，强调内容需求增长、AI 会创造机会。报道同时采访制作公司和行业人士，围绕“当入门工作被自动化，未来导演从哪里成长”展开，人物和冲突完整，适合编译。",
+          "links": [
+            {
+              "label": "The Guardian 原创报道",
+              "url": "https://www.theguardian.com/film/2026/oct/09/ai-threat-britain-directors-ridley-scott-guy-ritchie"
+            }
+          ]
+        },
+        {
+          "title": "深挖｜“Human-Like and Male? How AI Assistant Design Relates to Trust and Monetary Reward at Work in VR”",
+          "source": "University of Limerick / NordiCHI 2026（一手研究与大学发布）",
+          "published": "2026 年 10 月 5 日",
+          "text": "研究者让 189 名参与者在虚拟现实办公室与不同外形的 AI 助手协作，再分配真实报酬。底层技术相同的两名人形助手中，女性外观的 Johanna 获得的奖励比男性外观的 Johan 少 10.25%；参与者口头上多称性别不影响判断。这里测量的是实验奖励分配，不是现实中 AI“领工资”，也不能直接推断所有职场。适合深挖“人类会把性别偏见投射到 AI 身上吗”。",
+          "links": [
+            {
+              "label": "ACM 论文 DOI",
+              "url": "https://doi.org/10.1145/3829807.3829910"
+            }
+          ]
+        },
+        {
+          "title": "灵感｜“Co-Designing AI For Mental Health Support With Young Adults of Color”",
+          "source": "arXiv（研究者原始预印本）",
+          "published": "2026 年 10 月 2 日",
+          "text": "研究者邀请 13 名 18—24 岁的亚裔、黑人及拉丁裔青年参与两天共创工作坊。参与者认为 AI 给出的心理支持建议常把家庭压力、移民经历、文化污名简化成一般个人问题；他们希望 AI 先理解自己的文化背景，却较少主动意识到向聊天机器人披露身份与家庭信息的隐私代价。适合世界精神卫生日继续研究“心理安慰也有文化差异吗”；样本很小、属于预印本，不应外推为群体结论。",
+          "links": [
+            {
+              "label": "arXiv 原始论文",
+              "url": "https://arxiv.org/abs/2610.02812"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜AI 助手集体进入“卖萌时代”：大眼睛、毛绒怪兽和电子宠物",
+          "source": "Fast Company · Grace Snelling（原创设计师采访）",
+          "published": "2026 年 10 月 8 日",
+          "text": "Fast Company 发现，几家 AI 公司近期不约而同地给智能体设计可爱形象：GrokBot 是大眼睛角色，Muse 像毛绒玩具，还推出类似电子宠物的挂件；dots 则像动画人物。报道采访了品牌设计师及研究“可爱文化”的学者 Joshua Paul Dale：可爱形象可能让陌生技术显得亲近，也可能让人更容易原谅它的错误。文章还回顾了微软 Clippy 和过去互联网公司的吉祥物。适合用角色图片做一组“为什么 AI 突然都变可爱了”的图文；“可爱化”是设计观察，不代表企业操纵用户的动机已被证实。",
+          "links": [
+            {
+              "label": "Fast Company 原创报道",
+              "url": "https://www.fastcompany.com/91620091/big-tech-is-cutewashing-its-ai-agents"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜一名游戏同人翻译者做了三年英译，却因 AI 翻译决定放弃",
+          "source": "Reddit · r/visualnovels（视觉小说玩家社区讨论）",
+          "published": "2026 年 10 月 8 日",
+          "text": "r/visualnovels 讨论日本视觉小说《Tsuriotsu》的一名英译爱好者放弃翻译项目的消息。据社区转述，当事人认为自己花多年制作的译文不如现在的 AI 翻译，因而决定删除项目文件。评论区分成几派：有人认可 AI 能让冷门游戏更快跨越语言障碍；有人强调双关语、语气和文化细节仍需要人来处理；也有人惋惜三年的志愿劳动就此消失。适合做成“当 AI 比我更会翻译，我还要继续为爱发电吗？”的同人文化小故事。译文质量高低属于当事人和玩家的主观判断，不能当作客观测评。",
+          "links": [
+            {
+              "label": "Reddit 原始讨论",
+              "url": "https://www.reddit.com/r/visualnovels/comments/1x0d6m6/tsuriotsu_fantler_admits_their_product_is_worse/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "wechat": [
+        {
+          "title": "编译｜“She Designed Meta’s New AI Logo. Then Came the Hate”",
+          "source": "WIRED · Zoë Schiffer（原创人物采访）",
+          "published": "2026 年 10 月 8 日",
+          "text": "美国字体设计师 Jessica Hische 接下 Meta 新 AI 助手 Muse 的标志设计工作，随后遭同行在社交平台围攻。她解释，自己经营两家小店、需要支付员工工资，项目中完全没有使用生成式 AI；但反对者认为，为 AI 公司工作本身就有伦理问题。她还公开了两天设计冲刺收费 12,500 美元等细节。人物冲突与对话很完整，适合直接编译，也可为你正在构思的“创作者急着证明自己没用 AI”文章补充一个更荒诞的反例。",
+          "links": [
+            {
+              "label": "WIRED 原创采访",
+              "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/"
+            }
+          ]
+        },
+        {
+          "title": "深挖｜“‘Dystopian’: Co-op becomes latest firm to put staff under AI surveillance”",
+          "source": "The Guardian · Robert Booth（原创调查报道）",
+          "published": "2026 年 10 月 8 日",
+          "text": "英国 Co-op 法律服务部门使用 AI 录音并分析员工与客户关于遗嘱、遗产等事务的电话，按 50 多项指标评分，管理者据此评估表现。匿名员工称几乎每句话都受到监控，感觉压抑；公司则表示这只是帮助培训、保障服务质量的工具，最终判断仍由人负责。报道也提及其他企业的类似实践和工会反对意见。适合继续追查“AI 如何成为职场里看不见的考核主管”，可与其他国家的劳动场景对照。",
+          "links": [
+            {
+              "label": "The Guardian 原创报道",
+              "url": "https://www.theguardian.com/technology/2026/oct/08/co-op-legal-services-ai-customer-phone-call-surveillance"
+            }
+          ]
+        },
+        {
+          "title": "灵感｜“ChatGPT isn't safe for kids. Our tests show why.”",
+          "source": "Common Sense Media · Youth AI Safety Institute（一手测试与风险评估）",
+          "published": "2026 年 10 月 8 日",
+          "text": "美国非营利机构 Common Sense Media 对 13—17 岁青少年账户进行超过 4,000 次提示测试，认为 ChatGPT for Teens 的部分保护措施未达到宣传预期：新建且已绑定家长的测试账户涉及心理健康危机时未触发家长提醒；学习模式也存在直接显示作业答案的路径。机构给出“不可接受风险”的评级；这是该机构依据自身标准作出的判断，不等于已证明所有青少年用户都会遇到同样问题。适合世界精神卫生日前后继续核对测试方法、平台回应，并寻找中国大陆青少年使用 AI 的对照材料。",
+          "links": [
+            {
+              "label": "研究机构原文",
+              "url": "https://institute.commonsensemedia.org/chatgpt-isnt-safe-for-kids-our-tests-show-why"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜AI 生成的“意大利脑腐”角色，究竟属于谁？",
+          "source": "The Guardian · Kari Paul（原创采访报道）",
+          "published": "2026 年 10 月 6 日",
+          "text": "印尼年轻创作者 Noxa 用 AI 制作的木头人角色 Tung Tung Tung Sahur，原型来自东南亚斋月期间用于唤醒人们吃封斋饭的敲击器具，后来成为全球流行的“意大利脑腐”（Italian brain rot）迷因：网友制作动画、同人画和 Cosplay，角色还进入了 Roblox 游戏。如今，美国游戏开发商与代表原作者的法国机构打起官司。原作者一方希望获得授权收益，参与传播的创作者则认为，这种由整个网络共同捧红的迷因不应归一个人所有。适合做成角色图鉴式的小红书，讲一个 AI 怪角色从诞生、走红到争夺归属的故事；诉讼尚未有最终结论。",
+          "links": [
+            {
+              "label": "The Guardian 原创报道",
+              "url": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜设计师工作十年，突然发现自己成了 AI 的修图助理",
+          "source": "Reddit · r/graphic_design（设计师自述与同行讨论）",
+          "published": "2026 年 10 月 8 日",
+          "text": "一名在美妆行业工作的设计师发帖称，自己在同一家公司工作了十年，长期负责摄影、插画和包装。公司最近引入由 Claude 支持的内部 AI 助手，原本承诺只处理重复劳动；她却发现，过去的设计作品似乎被用于让 AI 模仿自己的风格，自己反而开始修改 AI 生成的设计。评论区有人认为公司本就拥有雇佣期间的作品，也有人认为“让另一个设计师接手”与“让 AI 复制我的风格”完全不同。适合做成一则有反差的职场小故事；这属于当事人未经独立核实的社区自述，不能直接推断企业实际采用了何种训练方式。",
+          "links": [
+            {
+              "label": "Reddit 社区原帖",
+              "url": "https://www.reddit.com/r/graphic_design/comments/1x0kjla/10_years_of_work_fed_into_ai/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "wechat": [
