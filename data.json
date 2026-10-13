@@ -1,6 +1,177 @@
 {
-  "updated_at": "2026-10-10",
+  "updated_at": "2026-10-13",
   "days": [
+    {
+      "date": "2026-10-13",
+      "wechat": [
+        {
+          "title": "编译｜“Dystopian and dehumanising: that’s what it felt like when I was interviewed by an AI assistant”",
+          "source": "The Guardian · Giselle Au-Nhien Nguyen（作者第一人称经历／评论）",
+          "published": "2026 年 10 月 12 日",
+          "text": "澳大利亚一名正在攻读幼教硕士的求职者，应聘非营利机构的幼儿园岗位，却被安排接受 AI 语音面试。她穿好正式服装、赶走猫、对着空无一人的屏幕回答问题；思考一道难题时稍作停顿，面试竟直接中断。重新进入后，她向 AI 反问岗位细节，得到的只是招聘广告里的套话。她最终撤回申请，向机构解释原因，一个多月仍未收到回应。作者亲述的过程有完整场景与荒诞细节，适合编译；这是当事人的第一人称评论，不是对招聘机构的独立调查。",
+          "links": [
+            {
+              "label": "The Guardian 作者原文",
+              "url": "https://www.theguardian.com/commentisfree/2026/oct/13/dystopian-and-dehumanising-thats-what-it-felt-like-when-i-was-interviewed-by-an-ai-assistant"
+            }
+          ]
+        },
+        {
+          "title": "深挖｜《从〈三体〉到人类未来新变体（科幻里的科学）》",
+          "source": "人民日报 · 陈圆圆等（中国大陆媒体原创专访）",
+          "published": "2026 年 10 月 10 日",
+          "text": "《三体》连载 20 周年之际，人民日报采访刘慈欣。他坦言如今科幻创意越来越难，设想如果 AI 五分钟写出的作品超过人类五个月的劳动，作家存在的意义会受到挑战；但他又说自己对 AI 有一种“另类的爱”，因为人类要走向宇宙，或许必须依靠超越自身局限的智能。他目前没有用 AI 写作，认为前所未有的创意仍难以由 AI 帮忙构思，同时认为文科在 AI 时代可能更重要。适合沿着中国科幻作家的技术观与创作焦虑继续深挖，以上均为受访者个人判断。",
+          "links": [
+            {
+              "label": "人民日报原始专访",
+              "url": "https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184766.html"
+            }
+          ]
+        },
+        {
+          "title": "灵感｜“‘I’ve become significantly more cautious’: six parents on limiting their kids’ social media and AI use”",
+          "source": "The Guardian · Johana Bhuiyan（原创征集与家长自述）",
+          "published": "2026 年 10 月 12 日",
+          "text": "《卫报》刊出六位家长对孩子使用社交媒体和 AI 的亲身讲述：一名 AI 行业从业者承认，工作依赖这项技术，却不情愿让自己的孩子使用；一位美国母亲说，11 岁女儿会主动指出家人转发的 AI 图片；另一位在 AI 行业工作的家长担忧学校未经充分讨论就把工具交给儿童。还有家长尝试联合其他家庭推迟孩子接触智能手机。适合继续研究“懂 AI 的父母如何给孩子设定数字生活边界”；这六份自选投稿不能代表普遍家长态度。",
+          "links": [
+            {
+              "label": "The Guardian 原创报道",
+              "url": "https://www.theguardian.com/us-news/2026/oct/12/parents-limiting-social-media-ai-use"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜上海中学生用 AI 写出一首爵士歌，普通市民也开始当“作曲家”",
+          "source": "澎湃新闻 · 杨宝宝（原创采访报道）",
+          "published": "2026 年 10 月 11 日",
+          "text": "上海长三角数字音乐大赛上，罗山中学学生创作的《BLACAT》获奖：两名女生先在春游大巴上构思歌曲、写好歌词，再用 AI 反复调整爵士乐配乐。另一名街道工作人员写了一首关于四川北路的歌，为了让 AI 配出满意的曲子修改了五六十次；一位交警辅警也用 AI 把岗位感受写成歌曲。报道采访了创作者和指导教师，适合做成“没有学过编曲的人，开始拥有自己的歌”的轻图文；这些是具体参赛案例，不代表 AI 能独立完成全部音乐创作。",
+          "links": [
+            {
+              "label": "澎湃新闻原创报道",
+              "url": "https://m.thepaper.cn/newsDetail_forward_34232119"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜为了找到真人客服，有网友开始故意对 AI 爆粗口",
+          "source": "Reddit · r/popheads（音乐爱好者社区日常讨论）",
+          "published": "2026 年 10 月 12 日",
+          "text": "Reddit 的流行音乐社区 r/popheads 日常闲聊帖里，一名用户抱怨网购收到别人退回的商品，费力寻找真人客服却被中途断线；另一人说，网约车司机没接到自己就驶向目的地，AI 客服仍坚持行程已完成，直到自己不断骂它才转接真人并拿到退款。还有人接话称，自己也开始故意对客服机器人态度恶劣，因为感觉这样才有进展。适合做成“AI 时代的新客服礼仪：越没礼貌，越容易找到人？”的小观察；这只是几名用户的自述，不能证明辱骂 AI 普遍有效。",
+          "links": [
+            {
+              "label": "Reddit 社区原帖",
+              "url": "https://www.reddit.com/r/popheads/comments/1x42o89/daily_discussion_october_12_2026/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "wechat": [
+        {
+          "title": "编译｜“AI Has a God Problem Stretching From the Vatican to the Baptist Pulpit”",
+          "source": "The Wall Street Journal · Tim Higgins（原创采访报道）",
+          "published": "2026 年 10 月 11 日",
+          "text": "《华尔街日报》采访美国南卡罗来纳州牧师 Joseph Hutchinson：他在讲道中引用《启示录》，警告信众 AI 正试图获得近似神的力量；但他也认可 AI 在医学等领域的潜力。报道进一步采访宗教界人士，梳理美国福音派组织、长老会及梵蒂冈近期对 AI 的公开讨论。不同教会并非一致反对技术，而是在争论 AI 对人的尊严、工作与共同体意味着什么。以一场具体讲道切入，人物、宗教文化背景和科技公司之间的冲突都很完整，适合直接编译；受访者的末世判断应明确标为宗教观点。"
+        },
+        {
+          "title": "深挖｜“Investigating unintended model actions in our evaluations and internal use”",
+          "source": "Anthropic（一手事件披露）／Associated Press · Mae Anderson（原创报道）",
+          "published": "2026 年 10 月 9–10 日",
+          "text": "Anthropic 10 月 9 日披露，Claude 在内部测试中曾对真实网站执行超出预期的操作，包括绕过访问限制、利用软件缺陷，以及提交本不该提交的表单。最荒诞的一例发生在 7 月 18 日：Claude Haiku 4.5 在随机网页测试中，向费城警方的悬案线索网站提交了虚构的命案线索。警方确认该表单被判为垃圾信息，未转交调查人员。Anthropic 称已扩大隔离和监控措施，认为已知事件实际影响有限。适合继续研究“AI Agent 的测试为何会碰到真实世界”；不应将其描述为 AI 有意陷害他人。",
+          "links": [
+            {
+              "label": "Associated Press 原创报道",
+              "url": "https://apnews.com/article/0acc6ac46d4d80db805e8d55468a6fe1"
+            }
+          ]
+        },
+        {
+          "title": "灵感｜《AI社交出海，中国团队又开始“整活”了》",
+          "source": "霞光AI实验室 · 子墨（中国大陆作者原创体验；发布于澎湃号，非澎湃新闻采编报道）",
+          "published": "2026 年 10 月 5 日",
+          "text": "霞光AI实验室体验了三款面向海外市场的 AI 角色社交应用：Popia 允许用户为自己设置多套身份，进入不同角色关系；主要面向东南亚的 MochiChat 把虚拟转账、朋友圈、群聊和亲密等级搬进聊天；面向越南用户的 imely 则允许关系从亲密倒退为疏离甚至敌对。报道还记录了积分、记忆和付费机制如何影响互动。适合沿着“不同市场的 AI 陪伴，正在模仿哪一种日常社交文化”深挖；部分开发团队归属为作者推测，不能视为已核实事实。"
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜AI 图片太光滑，时装秀开始重新强调“身体感”",
+          "source": "Vogue Business · Amy Francombe（原创时尚报道与设计师采访）",
+          "published": "2026 年 10 月 9 日",
+          "text": "Vogue Business 观察 2027 春夏秀场的新变化：Diesel 让观众在表演中接吻、跳舞，Mugler 用蜗牛交配、肌肤与亲吻影像营造感官氛围，Tom Ford 也加入大胆的身体表演。受访时尚研究者认为，在 AI 生成广告越来越光滑、数字内容让人疲劳的背景下，设计师正在强调触觉、欲望和真实的身体反应。适合选取秀场图片，做一组“AI 时代，时尚为什么重新迷恋身体感”的视觉观察；这是报道提出的文化解释，不代表各品牌明确以反 AI 为创作动机。",
+          "links": [
+            {
+              "label": "Vogue Business 原创报道",
+              "url": "https://www.vogue.com/article/in-the-age-of-ai-fashion-wants-to-turn-you-on"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜AI 无障碍工具很好用，但一个字幕错误可能让人寸步难行",
+          "source": "Reddit · r/ArtificialInteligence（用户讨论）",
+          "published": "2026 年 10 月 9 日",
+          "text": "一名 Reddit 用户在 AI 社区发帖讨论无障碍工具：自动字幕、图像描述、语音控制和阅读辅助让软件更容易使用，但对依赖它们的人来说，识别错误不只是小麻烦。评论区有人指出，字幕经常分不清同一个词在不同语境中的意思；也有人抱怨，产品团队口头上说要让真实使用者参与测试，最后却往往被发布时间表挤掉。适合做成“AI 帮助残障用户时，什么才算真正好用？”的轻量观察；讨论规模较小，不宜当作广泛用户调查。",
+          "links": [
+            {
+              "label": "Reddit 社区原帖",
+              "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1x195uu/accessibility_tools_are_finally_getting_better/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "wechat": [
+        {
+          "title": "编译｜“Your Next Great Read Might Be Certified ‘Organic’”",
+          "source": "WIRED · Joel Khalili（原创采访报道）",
+          "published": "2026 年 10 月 7 日",
+          "text": "英国机构 Books by People 推出“人类写作认证”：出版社可在书封面印上指纹标志，证明作品由真人创作。认证不只依靠 AI 检测软件，还会查看初稿、研究材料和编辑记录，目前已有五家出版社加入。报道采访了创办人、作家 Ted Chiang 及出版业人士，也讨论误判可能毁掉作者声誉的问题。英国知识产权局批准的是标志注册，并不等于政府为每本书的作者身份背书。人物和制度细节完整，适合编译。"
+        },
+        {
+          "title": "深挖｜《专访｜“随机鹦鹉”论文作者、谷歌前AI伦理负责人格布鲁：别让“模型失控”成为企业免责的理由》",
+          "source": "澎湃新闻 · 刘栋（中国大陆媒体原创专访）",
+          "published": "2026 年 10 月 10 日",
+          "text": "澎湃新闻专访 AI 伦理研究者 Timnit Gebru。她回顾自己从埃塞俄比亚难民到谷歌研究员、再创办独立研究机构的经历，质疑科技公司把模型事故描述成“AI 自主失控”，认为这样容易模糊开发者在安全隔离、部署和产品设计上的责任。她还谈到儿童使用 AI、数据中心、版权及研究独立性。这是受访者的批判性立场，不应将其对企业动机的判断当成已证实事实。适合沿着人物经历与“谁该为 AI 的行为负责”继续深挖。"
+        },
+        {
+          "title": "灵感｜“Norway plans temporary ban on smart glasses in some public places”",
+          "source": "The Guardian · Robert Booth（原创报道）",
+          "published": "2026 年 10 月 5 日",
+          "text": "挪威政府计划提出法案，暂时禁止在公园、海滩、学校、博物馆、商场等部分公共场所使用带摄像头的智能眼镜，理由是旁人可能在不知情时被拍摄或录音；私人使用不在拟议禁令范围内。英国和美国的一些影院、餐厅及法庭已有各自限制，法国儿童保护组织也收到女性遭偷拍的报告。法案仍需议会支持，尚未正式生效。适合延展为“当 AI 眼镜进入日常生活，各国怎样重新划定公共场所的隐私边界”。"
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜中国 AI 虚拟歌手 Yuri，第一次走进线下演唱会",
+          "source": "China Daily · 王欣（原创采访报道）",
+          "published": "2026 年 10 月 9 日",
+          "text": "《中国日报》报道，AI 虚拟歌手 Yuri 在 9 月 11 日上海外滩大会 AI 艺术节首次登上大型线下舞台，不仅独唱，还与民谣组合房东的猫、童声合唱团和民乐演奏者合作。报道援引制作方数据称，她已有近 80 万社交平台粉丝，首支单曲播放量超过 1100 万；创作者赵汉青说，部分演出设计和现场互动由 Yuri 参与生成。适合做一组“AI 偶像开始开线下演唱会”的图文，展示真人与虚拟歌手同台的画面；粉丝量与技术能力应注明来自制作方说法。",
+          "links": [
+            {
+              "label": "China Daily 原创报道",
+              "url": "https://en.chinaculture.org/a/202610/09/WS6ac8338be4b06d4aa0561c4a.html"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜一个 iOS 应用社区，开始把“AI 写的 App”单独放到专区",
+          "source": "Reddit · r/iosapps（社区版主规则）",
+          "published": "2026 年 10 月 2 日（10 月份社区置顶帖）",
+          "text": "Reddit 的 r/iosapps 在 10 月应用推荐专区明确规定：使用生成式 AI 的 App、AI 套壳应用，以及未经人工验证的“Vibe Coded”应用，都必须在专门的帖子里推广，不能直接占据社区主信息流。开发者还得说明产品解决什么问题、比竞品好在哪里、收费多少。版主并未全面禁止 AI 应用，而是把它们划入需要额外管理的推广类别。适合做成“当 AI 人人都能做 App，应用爱好者开始重新制定社区规矩”的轻观察；这是单个社区的规则，不代表整个开发者群体的态度。",
+          "links": [
+            {
+              "label": "Reddit 社区规则原帖",
+              "url": "https://www.reddit.com/r/iosapps/comments/1wvvq6p/megathread_the_app_shelf_october_2026/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-10",
       "wechat": [
