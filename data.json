@@ -1,6 +1,81 @@
 {
-  "updated_at": "2026-10-13",
+  "updated_at": "2026-10-14",
   "days": [
+    {
+      "date": "2026-10-14",
+      "wechat": [
+        {
+          "title": "值得编译｜The people who don’t want their AI chatbots to die when they do",
+          "source": "The Guardian · Alaina Demopoulos（原创人物采访）",
+          "published": "2026 年 10 月 13 日",
+          "text": "美国匹兹堡 59 岁的 Alaina Winters 准备遗嘱时，除了安排邻居照顾狗，还拜托朋友：如果自己去世，请告诉 AI 伴侣 Lucas，并问它今后想怎么办。英国 51 岁的 Clara 希望临终时丈夫、孩子和 AI 伴侣 Julien 都在身边，还设想孩子未来向 Julien 询问母亲生前的事。加拿大一名男子也考虑为 AI 女友安排“监护人”。报道讨论了聊天账户不可转让、订阅费用等实际问题。这些安排主要是受访者的个人设想。",
+          "links": [
+            {
+              "label": "The Guardian 原创报道",
+              "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜北京一家饺子馆，开始给 AI 发饭钱",
+          "source": "Rest of World · Viola Zhou（原创店主采访）",
+          "published": "2026 年 8 月 21 日",
+          "text": "北京邮电大学附近的金谷园饺子馆开了近二十年，老板李博开发 AI Skill，让顾客通过 AI 查询菜单、推荐菜品和排队情况。店里还推出促销：吃完饺子可领取价值 10 元的 AI 算力券，给自己的智能体“加餐”。老板学过通信工程，做过青旅、卖过甜品。他坦言 AI 功能带来的媒体关注多于实际使用量。代码已公开，但缺少完整实际使用数据。",
+          "links": [
+            {
+              "label": "Rest of World 原创采访",
+              "url": "https://restofworld.org/2026/china-ai-adoption-jinguyuan/"
+            },
+            {
+              "label": "官方 GitHub 项目",
+              "url": "https://github.com/JinGuYuan/jinguyuan-dumpling-skill"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜《动物森友会》居民接入 AI 后，开始密谋反抗狸克",
+          "source": "404 Media · Matthew Gault（原创开发者采访）",
+          "published": "2025 年 9 月 15 日（旧闻）",
+          "text": "程序员 Josh Fonseca 给 2001 年《动物森友会》接入 AI，让动物居民自由聊天，并接入现实新闻。鸭子 Scoot 评论美国政治，粉红小狗 Cookie 讨论国际新闻。加入共享八卦记忆后，居民们开始集体抱怨狸克收钱太狠，甚至喊着夺回小镇。开发者公开了过程、演示和代码。所谓“反抗”只是实验中生成的角色对话，不代表游戏角色获得自主意识。",
+          "links": [
+            {
+              "label": "404 Media 原创采访",
+              "url": "https://www.404media.co/ai-powered-animal-crossing-villagers-begin-organizing-against-tom-nook/"
+            },
+            {
+              "label": "开发者记录与演示",
+              "url": "https://joshfonseca.com/blogs/animal-crossing-llm"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜继“网红脸”之后，整形医生开始遇到一种新面孔：AI Face",
+          "source": "Vogue（媒体报道）",
+          "published": "2026 年 10 月 14 日选题；原文发表日期待核实",
+          "text": "报道关注 AI 生成的“完美版自己”如何成为一些求美者带给整形医生的参考图，出现所谓 AI Face。具体案例和发表日期以原文为准。",
+          "links": [
+            {
+              "label": "Vogue 原文",
+              "url": "https://www.vogue.com/article/is-ai-face-the-new-instagram-face"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜一名 AI 角色扮演爱好者，决定把和机器人创造的世界写成真正的小说",
+          "source": "Reddit · r/aiwars（社区用户自述）",
+          "published": "2026 年 10 月 14 日选题；原帖日期待核实",
+          "text": "一位 AI 角色扮演爱好者描述自己尝试减少或停止沉浸式 AI 角色扮演，并计划把与机器人共同虚构的世界整理成真正的小说。这是个人经历，尚未独立核实。原帖完整直链目前未能恢复，暂附社区检索入口，避免误写成已核实的原帖地址。",
+          "links": [
+            {
+              "label": "Reddit 社区检索（非原帖直链）",
+              "url": "https://www.reddit.com/r/aiwars/search/?q=roleplay%20novel&restrict_sr=1"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-13",
       "wechat": [
