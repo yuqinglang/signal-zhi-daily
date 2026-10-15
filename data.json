@@ -3,7 +3,44 @@
   "days": [
     {
       "date": "2026-10-15",
-      "wechat": [],
+      "wechat": [
+        {
+          "title": "值得编译｜“I Like My Big Rat Wife”: Meet the People Using Chatbots to Write Custom Fiction",
+          "source": "WIRED · Joel Khalili（原创人物采访）",
+          "published": "2026 年 9 月 14 日",
+          "text": "巴西 36 岁的软件工程师 Petra Ferraz de Novaes 下班后喜欢用 AI 编写私人奇幻小说：让精灵战士挑战亚马逊女王，或进入《星球大战》、宝可梦的世界，故事可以无限续写。美国印第安纳州 40 岁的 Razrien 则用 AI 创造脾气暴躁的巨型老鼠妻子和八英尺高的狼人妈妈，反复与角色互动，还专门比较不同模型对特定幻想的表现。报道也采访研究者，提到有用户数千次改写同一篇游戏同人故事。这些都是受访者的私人创作与角色扮演，不是真实发生的奇幻经历。",
+          "links": [
+            {
+              "label": "WIRED 原创报道",
+              "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜俄罗斯女子用 AI 伪造熊出没，结果惊动猎熊人",
+          "source": "Reuters · Alessandra Prentice（原创报道，依据法院通报）",
+          "published": "2026 年 10 月 14 日；事件发生于 9 月",
+          "text": "俄罗斯远东阿穆尔州马格达加奇镇的一名女子想捉弄朋友，用 ChatGPT 生成棕熊在当地街道闲逛的照片。图片在聊天软件中传播，居民报警，当地负责人派野生动物管理人员寻找不存在的熊。女子后来向警方承认造假，本周被法院罚款 1.5 万卢布。当地原本就因真实熊袭击事件而紧张；9 月另一名女子也因发布虚假熊照片被罚款。路透社依据法院消息报道，没有采访涉事女子本人。",
+          "links": [
+            {
+              "label": "Reuters 原创报道",
+              "url": "https://www.reuters.com/lifestyle/russia-cracks-down-ai-bears-real-attacks-spread-fear-2026-10-14/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜阿联酋小学生学习指挥“假装是机器人的老师”",
+          "source": "Rest of World · Ananya Bhattacharya（原创学校及家长采访）",
+          "published": "2026 年 10 月 13 日",
+          "text": "阿联酋将 AI 纳入中小学必修课程，但迪拜 Al Khawaneej 学校的一至三年级学生主要通过故事、讨论和角色扮演学习 AI。老师会假装成机器人，让孩子不断修改指令，直到“机器人”正确理解要求；也会让学生找出 AI 的错误。另一所学校 Rugby School Dubai 已让七八岁孩子戴 VR 头显探索石器时代洞穴壁画，校长希望未来还能用 AI“采访法老”。需要区分：VR 课堂已经开展，AI 采访法老仍是教学设想。",
+          "links": [
+            {
+              "label": "Rest of World 原创报道",
+              "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/"
+            }
+          ]
+        }
+      ],
       "xiaohongshu": [
         {
           "title": "媒体来源｜AI 朋友终于变得温柔体贴了，人类却开始怀念那个讨厌鬼",
