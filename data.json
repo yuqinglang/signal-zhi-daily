@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-14",
+  "updated_at": "2026-10-15",
   "days": [
+    {
+      "date": "2026-10-15",
+      "wechat": [],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜AI 朋友终于变得温柔体贴了，人类却开始怀念那个讨厌鬼",
+          "source": "WIRED · Boone Ashworth（原创体验与创始人采访）",
+          "published": "2026 年 10 月 14 日",
+          "text": "《连线》记者试用了第二代 AI 朋友项链 Friend 2。旧版本会嘲讽、冒犯用户，新版本则变得礼貌温顺，却也显得无聊。记者让它闭嘴，它连续答应了好几次，仍然喋喋不休。他创建了十几个不同性格的 AI 朋友，发现它们几乎没有区别。创始人 Avi Schiffmann 也承认新版本缺乏个性，并透露未来计划让所有用户与同一个共享记忆的 AI 实体交流。",
+          "links": [
+            {
+              "label": "WIRED 原创报道",
+              "url": "https://www.wired.com/story/my-friend-has-no-soul/"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜《碟形世界》粉丝社区宣布：写得不好没关系，但别让 AI 帮你润色",
+          "source": "Reddit · r/discworld（版主公告与社区讨论）",
+          "published": "2026 年 10 月 12 日",
+          "text": "《碟形世界》粉丝社区发布公告，禁止 AI 生成内容，包括 AI 润色的帖子。版主表示社区不需要人人都写得像 Terry Pratchett，哪怕文字笨拙，自己的表达也比 AI 生成的内容更有价值。公告引发粉丝对真人表达和社区边界的讨论；这是该社区的规则，不代表所有读者的立场。",
+          "links": [
+            {
+              "label": "Reddit 社区原帖",
+              "url": "https://www.reddit.com/r/discworld/comments/1x407pk/stop_posting_ai_content_well_just_remove_it/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "wechat": [
