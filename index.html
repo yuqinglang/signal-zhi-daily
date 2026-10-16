@@ -30,6 +30,20 @@
     h1{font-size:30px;line-height:1.1;margin:0;font-weight:700;letter-spacing:-.03em}
     .sub{font-size:13px;color:var(--muted);margin-top:10px}
     .updated{font-size:12px;color:var(--muted);white-space:nowrap}
+    .search-area{margin:-8px 0 44px;max-width:720px}
+    .search-label{display:block;font-size:12px;font-weight:700;letter-spacing:.08em;margin-bottom:10px}
+    .search-box{display:flex;align-items:center;border:1px solid #aaa;background:#fff}
+    .search-box:focus-within{border-color:#0a0a0a;outline:1px solid #0a0a0a}
+    .search-input{font:inherit;font-size:14px;width:100%;min-width:0;border:0;outline:0;padding:12px 14px;background:transparent;color:var(--text)}
+    .search-clear{border:0;background:transparent;padding:10px 14px;cursor:pointer;color:var(--muted);font-size:18px}
+    .search-results{margin-top:12px;max-height:320px;overflow-y:auto;border:1px solid var(--line);background:#fff}
+    .search-hit{display:block;padding:12px 14px;border-bottom:1px solid var(--line);font-size:13px;line-height:1.5}
+    .search-hit:last-child{border-bottom:0}
+    .search-hit:hover,.search-hit:focus{background:var(--soft)}
+    .search-hit small{display:block;color:var(--muted);margin-bottom:3px}
+    .search-note{font-size:12px;color:var(--muted);margin-top:8px}
+    .item{scroll-margin-top:28px}
+    .item:target{background:#f4f4f4;outline:8px solid #f4f4f4}
     .day{padding:0 0 48px;margin-bottom:36px;border-bottom:1px solid var(--line)}
     .date{font-size:13px;font-weight:700;letter-spacing:.06em;margin-bottom:28px}
     .grid{display:grid;grid-template-columns:1fr 1fr;gap:48px}
@@ -65,22 +79,31 @@
       </div>
       <div class="updated" id="updated">Loading…</div>
     </header>
+    <section class="search-area" aria-label="搜索历史选题">
+      <label class="search-label" for="topic-search">搜索历史选题</label>
+      <div class="search-box">
+        <input class="search-input" id="topic-search" type="search" placeholder="输入关键词，例如：机器人、游戏、陪伴…" autocomplete="off" aria-controls="search-results" />
+        <button class="search-clear" id="search-clear" type="button" aria-label="清空搜索" hidden>×</button>
+      </div>
+      <div class="search-note" id="search-note">搜索标题、摘要、来源与日期；点击结果跳转到对应新闻。</div>
+      <div class="search-results" id="search-results" role="region" aria-label="搜索结果" hidden></div>
+    </section>
     <div id="feed"></div>
     <footer>内容与每日定时任务消息保持一致 · 自动更新</footer>
   </main>
   <script>
     const esc=(s='')=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'","&#039;");
     const linkify=(text='')=>esc(text).replace(/(https?:\/\/[^\s<]+)/g,'<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>');
-    function renderItem(item){
+    function renderItem(item,id){
       const title=item.title?'<div class="item-title">'+esc(item.title)+'</div>':'';
       const meta=[item.type,item.source,item.published].filter(Boolean);
       const metaHtml=meta.length?'<div class="item-meta">'+meta.map(esc).join(' · ')+'</div>':'';
       const links=(item.links||[]).map(l=>'<a class="source-link" href="'+esc(l.url)+'" target="_blank" rel="noopener noreferrer">'+esc(l.label||'原始链接')+' ↗</a>').join('');
       const linksHtml=links?'<div class="item-links">'+links+'</div>':'';
-      return '<article class="item">'+title+metaHtml+'<div class="item-body">'+linkify(item.text||'')+'</div>'+linksHtml+'</article>';
+      return '<article class="item" id="'+esc(id)+'">'+title+metaHtml+'<div class="item-body">'+linkify(item.text||'')+'</div>'+linksHtml+'</article>';
     }
-    function renderSection(name,items){
-      return '<section><div class="section-title">'+esc(name)+'</div>'+(items?.length?items.map(renderItem).join(''):'<div class="empty">暂无内容</div>')+'</section>';
+    function renderSection(name,items,date,kind){
+      return '<section><div class="section-title">'+esc(name)+'</div>'+(items?.length?items.map((item,i)=>renderItem(item,'topic-'+date+'-'+kind+'-'+i)).join(''):'<div class="empty">暂无内容</div>')+'</section>';
     }
     async function boot(){
       try{
@@ -88,7 +111,27 @@
         const data=await r.json();
         document.getElementById('updated').textContent='更新于 '+(data.updated_at||'—');
         const days=[...(data.days||[])].sort((a,b)=>String(b.date).localeCompare(String(a.date)));
-        document.getElementById('feed').innerHTML=days.map(day=>'<section class="day"><div class="date">'+esc(day.date)+'</div><div class="grid">'+renderSection('微信公众号选题',day.wechat||[])+renderSection('小红书选题',day.xiaohongshu||[])+'</div></section>').join('');
+        const index=days.flatMap(day=>[
+          ...(day.wechat||[]).map((item,i)=>({item,date:day.date,kind:'公众号',id:'topic-'+day.date+'-wechat-'+i})),
+          ...(day.xiaohongshu||[]).map((item,i)=>({item,date:day.date,kind:'小红书',id:'topic-'+day.date+'-xiaohongshu-'+i}))
+        ]);
+        const input=document.getElementById('topic-search');
+        const results=document.getElementById('search-results');
+        const note=document.getElementById('search-note');
+        const clear=document.getElementById('search-clear');
+        const updateSearch=()=>{
+          const q=input.value.trim().toLocaleLowerCase();
+          clear.hidden=!q;
+          results.hidden=!q;
+          if(!q){results.innerHTML='';note.textContent='搜索标题、摘要、来源与日期；点击结果跳转到对应新闻。';return;}
+          const matches=index.filter(({item,date})=>[item.title,item.text,item.source,item.published,item.type,date].filter(Boolean).join(' ').toLocaleLowerCase().includes(q));
+          note.textContent='找到 '+matches.length+' 条相关选题';
+          results.innerHTML=matches.length?matches.map(({item,date,kind,id})=>'<a class="search-hit" href="#'+esc(id)+'"><small>'+esc(date)+' · '+esc(kind)+' · '+esc(item.source||'')+'</small>'+esc(item.title||'未命名选题')+'</a>').join(''):'<div class="empty">没有找到相关选题，试试其他关键词。</div>';
+        };
+        input.addEventListener('input',updateSearch);
+        clear.addEventListener('click',()=>{input.value='';updateSearch();input.focus();});
+        results.addEventListener('click',e=>{if(e.target.closest('a')){results.hidden=true;note.textContent='已跳转至选题；继续输入可重新搜索。';}});
+        document.getElementById('feed').innerHTML=days.map(day=>'<section class="day"><div class="date">'+esc(day.date)+'</div><div class="grid">'+renderSection('微信公众号选题',day.wechat||[],day.date,'wechat')+renderSection('小红书选题',day.xiaohongshu||[],day.date,'xiaohongshu')+'</div></section>').join('');
       }catch(e){
         document.getElementById('updated').textContent='读取失败';
         document.getElementById('feed').innerHTML='<div class="empty">data.json 暂时无法读取。</div>';
