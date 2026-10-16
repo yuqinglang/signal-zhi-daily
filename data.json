@@ -45,7 +45,40 @@
           ]
         }
       ],
-      "xiaohongshu": []
+      "xiaohongshu": [
+        {
+          "title": "媒体｜AI 太厉害了，一个游戏爱好者社区决定原地解散",
+          "source": "404 Media · Jason Koebler（原创报道）",
+          "published": "2026 年 10 月 15 日",
+          "text": "游戏逆向工程社区 decomp.dev 宣布关闭。过去，爱好者会分工合作，花费大量时间把游戏程序拆解、研究并重新构建；这种高难度的协作本身就是社群活动的重要部分。网站解释，随着 AI 能大幅加快反编译和相关工作，原先需要多人长期协作的项目变得容易得多，社区赖以维系的共同挑战也发生了变化。关闭原因来自网站自身说明，并不代表所有游戏逆向工程社区都面临相同情况。",
+          "links": [
+            {
+              "label": "404 Media 原创报道",
+              "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/"
+            }
+          ]
+        },
+        {
+          "title": "论坛｜Character.AI 申请破产后，玩家开始抢救聊天记录和未完的故事",
+          "source": "Reddit · r/CharacterAI（用户讨论）；Character.AI 官方公告",
+          "published": "2026 年 10 月 12—15 日",
+          "text": "Character.AI 宣布进入美国《破产法》第 11 章程序，计划通过法院监督出售公司。消息传出后，角色扮演社区的用户开始担心自己多年创造的角色、对话记录和共同编写的故事会消失。有用户建议尽快导出聊天、保存角色设定，也有人呼吁大家不要把破产保护误传成平台已经关闭。官方明确表示平台目前仍在运行；如果找不到合适的买家，才可能终止运营。因此，社区里的抢救和迁移讨论是预防行动，不是已经关站的结果。",
+          "links": [
+            {
+              "label": "Reddit 社区原帖：保存聊天与不要恐慌",
+              "url": "https://www.reddit.com/r/CharacterAI/comments/1x67rb4/i_wasnt_planning_on_posting_anything_on_the/"
+            },
+            {
+              "label": "Reddit 社区原帖：讨论如何保存平台",
+              "url": "https://www.reddit.com/r/CharacterAI/comments/1x6wqxa/saving_characterai_a_proposal_for_our_community/"
+            },
+            {
+              "label": "Character.AI 官方公告",
+              "url": "https://blog.character.ai/an-update-on-character-ai/"
+            }
+          ]
+        }
+      ]
     },
     {
       "date": "2026-10-15",
