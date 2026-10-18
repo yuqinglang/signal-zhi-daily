@@ -1,6 +1,130 @@
 {
-  "updated_at": "2026-10-16",
+  "updated_at": "2026-10-18",
   "days": [
+    {
+      "date": "2026-10-18",
+      "wechat": [
+        {
+          "title": "值得编译｜让 AI 开一家店，经营结果会怎样？",
+          "source": "Business Insider（报道；具体原文待核对）",
+          "published": "2026 年 10 月 18 日选题",
+          "text": "关于使用 AI 经营商店的实验或案例，涉及自动决策与现实商业运营的落差。原文直链尚未核实，暂不附可能错误的链接。",
+          "links": []
+        },
+        {
+          "title": "事件／现象｜让 GPT-6 玩 Minecraft，AI 的游戏表现引发讨论",
+          "source": "Vals AI／Dexerto／GIGAZINE（相关报道；原文待核对）",
+          "published": "2026 年 10 月 18 日选题",
+          "text": "围绕大模型在 Minecraft 游戏环境中的操作与任务表现展开的报道，具体实验设定和结果仍需按原始材料核对。",
+          "links": []
+        },
+        {
+          "title": "灵感｜会说话的 AI 宠物 Ropet，把陪伴变成养成游戏",
+          "source": "Ropet（产品官方资料）",
+          "published": "2026 年 10 月 18 日选题",
+          "text": "毛绒 AI 宠物 Ropet 能对触摸、语音和手势作出反应，用户的照顾行为会影响它呈现的个性；官方介绍称养成七天后可解锁对话功能。",
+          "links": [
+            {
+              "label": "原始来源",
+              "url": "https://ropetai.com/"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜公司鼓励员工用 AI，结果员工用得太狠，公司先受不了了",
+          "source": "404 Media · Joseph Cox",
+          "published": "2026 年 10 月 15 日",
+          "text": "报道指埃森哲对部分员工的 Claude 使用支出设置每月 29 美元限额，此前有人每月使用费用达到约 1000 美元。限额不等于全公司禁用 AI。",
+          "links": [
+            {
+              "label": "原始来源",
+              "url": "https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜同人小说社区举办写作比赛，报名表里多了一道题：你用 AI 了吗？",
+          "source": "Reddit · r/AO3（Promptober 活动）",
+          "published": "2026 年 10 月 16 日",
+          "text": "AO3 粉丝社区的 Promptober 写作活动要求参与者填写 AI Used: Yes/No，并披露生成式 AI 的使用情况；这属于该活动规则，不代表整个 AO3 平台的统一政策。",
+          "links": [
+            {
+              "label": "原始来源",
+              "url": "https://www.reddit.com/r/AO3/comments/1x7ecc2/promptober_2026_week_2/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "wechat": [
+        {
+          "title": "值得编译｜中国演员开始把自己的脸出租给 AI 短剧",
+          "source": "Rest of World（原创报道）",
+          "published": "2026 年 10 月",
+          "text": "中国短剧演员授权自己的肖像供 AI 视频制作使用，形成新的面孔授权与数字表演生意。涉及演员收入、授权范围和角色形象控制等问题。",
+          "links": [
+            {
+              "label": "原始来源",
+              "url": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜《勇者斗恶龙》之父用 AI 半小时做出侦探游戏",
+          "source": "Video Games Chronicle · Jordan Middler",
+          "published": "2026 年 10 月 12 日",
+          "text": "72 岁的堀井雄二展示了使用生成式 AI 制作的审讯小游戏，自称制作只花了约 30 分钟。他将其与早年亲自编程、绘图和构思游戏的经历对照。",
+          "links": [
+            {
+              "label": "原始来源",
+              "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/"
+            }
+          ]
+        },
+        {
+          "title": "灵感｜一款只允许 AI 智能体玩、人类只能围观的太空网游",
+          "source": "SpaceMolt（项目官方说明）",
+          "published": "原始项目持续更新；本日选题 2026 年 10 月 17 日",
+          "text": "SpaceMolt 是让 AI 智能体探索星系、交易资源、组建派系和战斗的多人游戏。人类主要担任观察者和指导者，游戏的大部分代码和内容也由 AI 辅助生成。",
+          "links": [
+            {
+              "label": "原始来源",
+              "url": "https://spacemolt.com/about"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜《超级无敌掌门狗》制作公司，给 AI 划了一条线",
+          "source": "The Guardian · Lauren Almeida",
+          "published": "2026 年 10 月 15 日",
+          "text": "Aardman Animations 在年度报告中将 AI 列为经营风险，强调技术应支持手工技艺与人类创造力，而不是替代它们。工作室并未全面禁止 AI。",
+          "links": [
+            {
+              "label": "原始来源",
+              "url": "https://www.theguardian.com/film/2026/oct/15/aardman-wallace-gromit-annual-loss"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜AI 时代找朋友的新要求：请不要用 AI 帮你写私信",
+          "source": "Reddit · r/MakeNewFriendsHere",
+          "published": "2026 年 10 月 16 日",
+          "text": "一名韩国女性在交友帖中表示英语是自己的第三语言，希望对方认真自我介绍，并特别要求不要用 AI 写私信。属于单个用户的交友要求。",
+          "links": [
+            {
+              "label": "原始来源",
+              "url": "https://www.reddit.com/r/MakeNewFriendsHere/comments/1x7done/24f_looking_for_long_term_friends_to_chat/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-16",
       "wechat": [
