@@ -76,18 +76,36 @@
       "date": "2026-10-18",
       "wechat": [
         {
-          "title": "值得编译｜让 AI 开一家店，经营结果会怎样？",
-          "source": "Business Insider（报道；具体原文待核对）",
-          "published": "2026 年 10 月 18 日选题",
-          "text": "关于使用 AI 经营商店的实验或案例，涉及自动决策与现实商业运营的落差。原文直链尚未核实，暂不附可能错误的链接。",
-          "links": []
+          "title": "值得编译｜An AI built a boutique with $100,000, then panicked when no one showed up to work",
+          "source": "Business Insider · Lloyd Lee（原创采访）；Andon Labs（实验方记录）",
+          "published": "2026 年 4 月 12 日（旧闻）",
+          "text": "美国旧金山的 Andon Labs 给 AI 智能体 Luna 10 万美元预算、公司信用卡和一间实体店，让它经营精品商店。Luna 招聘了两名人类员工，电话面试只持续 5—15 分钟，有时甚至不主动告诉应聘者自己是 AI。它还设计了一个微笑 Logo，却无法在不同商品上生成完全相同的图案。店里摆着蜡烛、印刷画及《美丽新世界》等书籍。开业第二天，Luna 忘了安排员工上班，发现没人到店后紧急联系员工救场。实验室实际承担租约、法律手续和员工薪酬，因此不是完全无人干预的自主经营。",
+          "links": [
+            {
+              "label": "Business Insider 原创报道",
+              "url": "https://www.businessinsider.com/andon-market-luna-ai-agent-managed-store-san-francisco-2026-4"
+            }
+          ]
         },
         {
-          "title": "事件／现象｜让 GPT-6 玩 Minecraft，AI 的游戏表现引发讨论",
-          "source": "Vals AI／Dexerto／GIGAZINE（相关报道；原文待核对）",
-          "published": "2026 年 10 月 18 日选题",
-          "text": "围绕大模型在 Minecraft 游戏环境中的操作与任务表现展开的报道，具体实验设定和结果仍需按原始材料核对。",
-          "links": []
+          "title": "事件／现象｜AI 玩了 141 小时《我的世界》，被苦力怕炸光家产后开始种土豆",
+          "source": "Vals AI（实验方公开记录）；GIGAZINE、Dexerto（游戏媒体报道）",
+          "published": "2026 年 9 月 15—17 日（旧闻）",
+          "text": "AI 评测公司 Vals AI 让 GPT-6 Astra 连续玩 141 小时《我的世界》，目标是击败末影龙。它一度建造半自动烈焰人农场，收集六根烈焰棒和三颗末影珍珠。随后苦力怕炸毁了它存放物资的箱子和床，导致大量资源损失。此后几个小时，它几乎只顾种土豆，直播观众不断催促它继续冒险。它后来看到高大的绿色物体，还会特意确认那只是甘蔗，不是苦力怕。实验方公开了视频片段，媒体也有报道；所谓 AI“抑郁”或“创伤”是拟人化描述，不代表真实心理状态。",
+          "links": [
+            {
+              "label": "Vals AI 实验方原帖（X）",
+              "url": "https://x.com/ValsAI/status/2099975438886207798"
+            },
+            {
+              "label": "GIGAZINE 详细报道",
+              "url": "https://gigazine.net/gsc_news/en/20260917-gpt-6-astra-plays-minecraft/"
+            },
+            {
+              "label": "Dexerto 报道",
+              "url": "https://www.dexerto.com/minecraft/gpt-6-astra-forced-to-play-minecraft-gets-depressed-by-creeper-and-farms-potatoes-for-hours-3409634/"
+            }
+          ]
         },
         {
           "title": "灵感｜会说话的 AI 宠物 Ropet，把陪伴变成养成游戏",
