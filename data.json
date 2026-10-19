@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-18",
+  "updated_at": "2026-10-19",
   "days": [
+    {
+      "date": "2026-10-19",
+      "wechat": [],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜想进麦肯锡？先和 AI 假客户吵一架",
+          "source": "The Wall Street Journal · Chip Cutter（原创报道）",
+          "published": "2026 年 10 月 14 日",
+          "text": "麦肯锡在部分北美办公室试点初级咨询岗位新面试：候选人需与 AI 模拟客户对话约 10 分钟，客户可能追问、质疑方案，真人面试官在场观察并评分。试点并未覆盖所有应聘者。",
+          "links": [
+            {
+              "label": "华尔街日报原创报道",
+              "url": "https://www.wsj.com/lifestyle/careers/mckinsey-interview-process-ai-7d08a69e"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜人人都用 AI 写求职信，结果 30 个应聘者长得一模一样",
+          "source": "Reddit · r/sysadmin（社区用户自述）",
+          "published": "2026 年 10 月 14 日",
+          "text": "一名网友称在自由职业平台发布软件开发任务后，收到大量措辞和结构相似的申请，怀疑应聘者用 AI 批量投递。评论区围绕企业用 AI 筛选简历、求职者用 AI 写申请是否公平展开讨论。自动投递行为尚未独立核实。",
+          "links": [
+            {
+              "label": "Reddit 原始讨论",
+              "url": "https://www.reddit.com/r/sysadmin/comments/1x5vp7m/a_weird_thing_just_happened/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-18",
       "wechat": [
