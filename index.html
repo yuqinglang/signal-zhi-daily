@@ -32,9 +32,7 @@
     .updated{font-size:12px;color:var(--muted);white-space:nowrap}
     .search-area{margin:-8px 0 44px;max-width:720px}
     .search-label{display:block;font-size:12px;font-weight:700;letter-spacing:.08em;margin-bottom:10px}
-    .search-row{display:flex;align-items:center;gap:18px}
     .search-box{display:flex;align-items:center;flex:1;min-width:0;border:1px solid #aaa;border-radius:10px;background:#fff;overflow:hidden}
-    .signal-mark{display:block;flex:0 0 40px;width:40px;height:40px;color:var(--text)}
     .search-box:focus-within{border-color:#0a0a0a;outline:1px solid #0a0a0a}
     .search-input{font:inherit;font-size:14px;width:100%;min-width:0;border:0;outline:0;padding:12px 14px;background:transparent;color:var(--text)}
     .search-clear{border:0;background:transparent;padding:10px 14px;cursor:pointer;color:var(--muted);font-size:18px}
@@ -69,8 +67,6 @@
       h1{font-size:25px}
       .grid{grid-template-columns:1fr;gap:34px}
       .item-title{font-size:16px}
-      .search-row{gap:12px}
-      .signal-mark{flex-basis:32px;width:32px;height:32px}
     }
   </style>
 </head>
@@ -85,14 +81,9 @@
     </header>
     <section class="search-area" aria-label="搜索历史选题">
       <label class="search-label" for="topic-search">搜索历史选题</label>
-      <div class="search-row">
-        <div class="search-box">
-          <input class="search-input" id="topic-search" type="search" placeholder="输入关键词，例如：机器人、游戏、陪伴…" autocomplete="off" aria-controls="search-results" />
-          <button class="search-clear" id="search-clear" type="button" aria-label="清空搜索" hidden>×</button>
-        </div>
-        <svg class="signal-mark" aria-hidden="true" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M3.5 15.5C8 18 8 22 3.5 24.5M13 10.5C22 16 22 24 13 29.5M22 5.5C35 14 35 26 22 34.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-        </svg>
+      <div class="search-box">
+        <input class="search-input" id="topic-search" type="search" placeholder="输入关键词，例如：机器人、游戏、陪伴…" autocomplete="off" aria-controls="search-results" />
+        <button class="search-clear" id="search-clear" type="button" aria-label="清空搜索" hidden>×</button>
       </div>
       <div class="search-note" id="search-note">搜索标题、摘要、来源与日期；点击结果跳转到对应新闻。</div>
       <div class="search-results" id="search-results" role="region" aria-label="搜索结果" hidden></div>
