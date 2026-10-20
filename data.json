@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-19",
+  "updated_at": "2026-10-20",
   "days": [
+    {
+      "date": "2026-10-20",
+      "wechat": [],
+      "xiaohongshu": [
+        {
+          "title": "职场话题｜收银员扫了 533 件商品，只错一次，却收到了最终警告",
+          "source": "The Guardian · Josh Taylor（原创报道）",
+          "published": "2026 年 10 月 20 日",
+          "text": "澳大利亚悉尼科技大学 Human Technology Institute 的报告指出，企业利用 AI 等工具监控员工。一名超市收银员因 AI 监控标记错误过多而收到最终书面警告，但其错误率仅为 0.18%，约每扫描 533 件商品出错一次。报告呼吁加强职场隐私与监控规则。",
+          "links": [
+            {
+              "label": "卫报原创报道",
+              "url": "https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff"
+            }
+          ]
+        },
+        {
+          "title": "其他话题｜2026 年才开始写同人小说？有人怀疑你是 AI",
+          "source": "Reddit · r/AO3（同人创作社区讨论）",
+          "published": "2026 年 10 月 19 日",
+          "text": "AO3 相关 Reddit 社区讨论新作者因缺乏 2022 年前的作品记录而遭到 AI 写作怀疑。评论者指出，有人近年才开始创作，有人为了与童年旧账号区分而重新注册，也有人曾将 2011 年写成的同人文误认为 AI 作品。这并非 AO3 官方认证规则。",
+          "links": [
+            {
+              "label": "Reddit 社区原帖",
+              "url": "https://www.reddit.com/r/AO3/comments/1x9q2vz/now_if_you_havent_written_a_fic_before_2022_youre/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-19",
       "wechat": [
