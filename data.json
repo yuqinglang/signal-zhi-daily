@@ -1,6 +1,81 @@
 {
-  "updated_at": "2026-10-20",
+  "updated_at": "2026-10-21",
   "days": [
+    {
+      "date": "2026-10-21",
+      "wechat": [
+        {
+          "title": "值得编译｜为了不让孩子继续刷 AI 垃圾视频，有人做了一个不许无限刷的流媒体",
+          "source": "WIRED · Jason Parham（原创采访）",
+          "published": "2026 年 10 月 15 日",
+          "text": "美国儿童流媒体 Maka 面向 0—6 岁儿童，10 月 15 日上线，创办者 Isabel Sheinman 和 Tanyella Leta 称，最初在疫情期间就开始思考如何重新设计儿童视频。与常见平台不同，Maka 不投放广告，不自动连播，也不设置无限滚动，更不会让推荐算法以延长观看时长为目标。首批片库有 25 部节目，包括《芝麻街》等；每集由儿童发展专家依据与耶鲁儿童研究中心研究人员共同开发的框架评估，考察节奏、情绪调节、语言发展等内容。家长可预设观看时长，临近结束时会有角色 Scoot 出现，提醒孩子准备离开屏幕。订阅费每月 15 美元。创办者针对的是儿童平台上大量披着教育外衣、实则混乱甚至不适龄的 AI 生成视频，但这家收费平台能否与免费的 YouTube 竞争，尚未得到验证。",
+          "links": [
+            {
+              "label": "WIRED 原创采访",
+              "url": "https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜已故好莱坞男星被 AI 拉回片场，虚拟女演员也要拍长片了",
+          "source": "The Guardian · Phil Hoad（电影行业人物采访）",
+          "published": "2026 年 10 月 20 日",
+          "text": "已故演员 Val Kilmer 以 AI 生成的年轻面貌出现在新西部片《As Deep as the Grave》的预告片中，制作方获得了其家属与遗产管理方许可；但《卫报》记者认为，这位“复活”的演员在预告片中动作僵硬、表演缺少生气。去年引发争议的 AI 虚拟女演员 Tilly Norwood 也被宣布将出演长片《Misaligned》。另一边，Higgsfield AI 已在网上发布两部完全由 AI 生成的长片：《Hell Grind》和《The Cully Hill Boys》。后者的制作团队把电影拆成约 30 秒的小片段，每段靠长达约 4000 字的提示词反复调整人物动作、机位、灯光与情绪，并使用中国视频模型 Seedance 2.5。导演、特效师与创作者对这种“演员”的表演能力分歧明显。这些电影的存在并不等于 AI 电影已经获得主流票房认可。",
+          "links": [
+            {
+              "label": "《卫报》电影行业采访",
+              "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood"
+            },
+            {
+              "label": "影片预告片（《卫报》文章内有入口）",
+              "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜Anthropic 员工给 AI 下属写绩效评语，自己却多开了两成会议",
+          "source": "Anthropic（内部数据与 17 位员工采访）；The Washington Post · Shira Ovide（报道）",
+          "published": "Anthropic 报告：2026 年 10 月 16 日；华盛顿邮报：10 月 20 日",
+          "text": "Anthropic 公布了一份根据内部工作数据、员工访谈、日历和沟通记录编写的报告。到今年 8 月，员工操作的 AI 智能体累计运行工时约为人类员工工作工时的六倍，但 AI 输出太多，人工审核成了瓶颈：即使非技术部门，要读完智能体生成的文字，也可能花去半个工作周。有工程师形容管理 AI 像同时照看两个孩子——一个着急要人打开果汁盒，另一个手指流血，两个都喊紧急。公司里有人开始给自己的 Claude 团队写绩效反馈，还有人开发“AI 幕僚长”来处理其他 AI 的请求。与此同时，公司员工的会议时间中位数比一年前增加约 20%；部分初级技术招聘岗位占比下滑。这是 Anthropic 的内部观察，不能直接推及所有公司。",
+          "links": [
+            {
+              "label": "Anthropic 原始研究报告",
+              "url": "https://www.anthropic.com/research/employment-at-anthropic"
+            },
+            {
+              "label": "《华盛顿邮报》报道",
+              "url": "https://www.washingtonpost.com/technology/2026/10/19/more-meetings-nagging-bots-what-it-like-work-an-ai-company/"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜英国填字冠军刚赢比赛，AI 在场外比他快了近 3 分钟",
+          "source": "The Guardian · Alan Evans（填字游戏专栏、研究者采访）",
+          "published": "2026 年 10 月 20 日",
+          "text": "在英国《泰晤士报》年度隐晦填字游戏比赛中，29 岁的 Liam Hughes 成为最年轻的人类冠军。但美国得克萨斯大学研究者 Sid Chatterjee 开发的解题系统 Darmok，完成决赛题目的速度比冠军还快约 3 分钟。去年 Darmok 曾在决赛题上耗费 18 分钟后放弃，今年却能破解难倒多位顶尖选手的视觉双关谜题。系统融合数种大模型；研发者表示，下一步让 AI 自己出一道高质量的谜题，反而更难。Darmok 并非官方参赛选手，成绩是场外比较。",
+          "links": [
+            {
+              "label": "《卫报》填字专栏原文",
+              "url": "https://www.theguardian.com/puzzles/crossword-blog/2026/oct/20/could-this-be-a-deep-blue-moment-for-the-cryptic-crossword"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜以为与 AI 的旧聊天全部消失了，最后发现只是被归档",
+          "source": "Reddit · r/CharacterAI（用户发帖与社区答疑）",
+          "published": "2026 年 10 月 19—20 日",
+          "text": "一名 Character.AI 用户找回了去年的账号，却发现旧聊天似乎全没了，于是在 Reddit 发帖难过地求助。评论区用户提醒去检查“归档聊天”，因为较旧的对话会被自动归档。发帖者最初只找到一段，随后按提示恢复了其他历史聊天，并抱怨新版网页太难找。还有人表示，看到这种“聊天消失”的标题会想起近期平台关停传闻而紧张。这是一则社区里的误会与找回经历，不能当作平台真的删除了全部聊天记录的证据。",
+          "links": [
+            {
+              "label": "Reddit 社区原帖",
+              "url": "https://www.reddit.com/r/CharacterAI/comments/1x9jmtj/well_its_gone/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "wechat": [
