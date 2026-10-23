@@ -1,6 +1,73 @@
 {
-  "updated_at": "2026-10-22",
+  "updated_at": "2026-10-23",
   "days": [
+    {
+      "date": "2026-10-23",
+      "wechat": [
+        {
+          "title": "值得编译｜AI 把网友塞进 Migos 的 MV：所有人都能变成说唱明星了",
+          "source": "The New Yorker · Brady Brickner-Wood（文化评论与网络迷因观察）",
+          "published": "2026 年 10 月 19 日",
+          "text": "一段 Migos 的《Hotel Lobby》表演视频最近成了 AI 换脸梗的模板：网友把自己、影视角色、名人、运动员、政客，甚至宠物，替换成说唱组合成员 Quavo 和 Takeoff。Sam Altman、Dario Amodei、特朗普和马斯克都被塞进视频里，原本不擅长舞动的人看起来也突然很有范儿。接下来，网友又把同样玩法搬到 Drake 的《Burning Bridges》MV。The New Yorker 的评论指出，这些视频大多是公开的荒诞模仿，但模板并非中性的：Migos 是黑人说唱组合，黑人音乐文化长期被主流平台拿来模仿、消费，而 AI 让任何人都能把自己的脸和身体“放进”黑人艺人的表演中，进一步模糊了模仿、挪用与致敬的边界。文章还对比了大学篮球运动员亲自模仿《Hotel Lobby》的笨拙现场版，认为真人表演里不够完美的身体感，反而更有感染力。这篇文章适合编译，既有具体的网络梗，也讨论了种族、身体和文化归属。",
+          "links": [
+            {
+              "label": "The New Yorker 英文原文（值得编译）",
+              "url": "https://www.newyorker.com/culture/infinite-scroll/everyone-can-be-migos-now"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜40+ 女性组局学 AI：每人带一台电脑和一个“中年难题”赴宴",
+          "source": "WIRED · Zoë Schiffer（创办者采访）",
+          "published": "2026 年 10 月 22 日",
+          "text": "前杂志编辑 Shoshana Berger 和 Nina Willdorf 创办了 Aged Intelligence Society，专门为 40 岁以上女性组织邀请制晚餐会。每场约 8—12 人，参加者要带电脑和一个现实生活中的“中年难题”，比如看不懂保险公司寄来的 300 页长期护理条款、需要为年迈父母争取照护资格，或者想知道自己的顾问报价是不是开低了。大家先用约 15 分钟自行尝试 AI 工具，创办者再协助调试提示词、换模型和迭代结果。创办者说，活动并非要大家无条件支持 AI，而是帮助忙于工作、养育子女和照顾年迈父母的女性，实际掌握能减少行政负担的工具。活动很快出现候补名单，相关 Substack 订阅者超过 1000 人，其他地区也开始出现类似聚会。",
+          "links": [
+            {
+              "label": "WIRED 原创采访",
+              "url": "https://www.wired.com/story/aged-intelligence-society-interview/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜学校把 6 岁女孩的照片生成成 25 岁的未来护士，妈妈看完不舒服",
+          "source": "People · Georgia Slater（当事家长专访）",
+          "published": "2026 年 10 月 20 日",
+          "text": "美国南卡罗来纳州一名 6 岁女孩 Harper 从学校带回两样东西：一张自己手工制作的“未来职业”画，以及一张由 AI 生成的、她 25 岁时穿着护士服的照片。女孩喜欢这张照片，觉得长大后的自己很漂亮，但也知道那只是猜测。母亲 Nikki Anderson 则担心，学校是否在没有充分告知家长的情况下把孩子的照片上传到外部 AI 平台，使用了什么软件、图像会被保存多久、家长是否同意。她认为，六岁孩子本来就能想象未来，不必让电脑替她决定成年后的样子。报道发布时，母亲仍在等待校方回应；目前没有证据表明学校故意泄露照片或图像被用于其他用途。",
+          "links": [
+            {
+              "label": "People 原创采访",
+              "url": "https://people.com/mom-calls-out-school-for-making-an-ai-generated-photo-of-6-year-old-daughter-as-adult-12184403"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜巴西泥瓦匠卖掉家当、坐了 36 小时大巴，只为见一个 AI 生成的“农场主寡妇”",
+          "source": "UOL（巴西媒体，葡萄牙语原始报道）",
+          "published": "2026 年 10 月 14 日",
+          "text": "49 岁的巴西泥瓦匠 Edimar Rocha Martins 说，他在社交平台上关注名为 Jéssica Oliveira 的女性角色多年。这个拥有超过 30 万 TikTok 粉丝的形象被包装成住在农场、丈夫已故、正在寻找伴侣的女性，视频里还承诺会照顾未来伴侣、让他过上轻松生活，同时推广商品。Martins 称自己通过 Kwai 和 Facebook 与对方互动，后来卖掉家当，从马拉尼昂州出发，坐了约 36 小时大巴、行程约 2100 公里抵达贝洛奥里藏特，才发现这个女性是 AI 生成角色。账号运营者随后发布视频，否认曾与他私下交谈，称角色是为吸引流量和销售商品而制作，并指控他的说法不实。当地政府为 Martins 提供了食物、临时住宿和返程协助。关键细节存在双方说法冲突，不能简单断言账号运营者亲自与他建立了恋爱关系；但这起事件呈现了虚拟网红商业化与真实用户情感投入之间的落差。",
+          "links": [
+            {
+              "label": "UOL 葡萄牙语原始报道",
+              "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/14/mulher-de-ia-nega-conversa-com-homem-que-viajou-2100-km-para-ve-la.ghtm"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜游戏公司把疑似 AI 图放进抗癌慈善活动，玩家一问，官方秒回：GenAI 在我们社区没有位置",
+          "source": "Reddit · r/Warframe（玩家原帖及官方社区经理回应）",
+          "published": "2026 年 10 月 23 日",
+          "text": "《Warframe》玩家发现，Digital Extremes 为 Princess Margaret 癌症基金会相关活动发布的宣传内容中，出现了被玩家质疑为生成式 AI 的图片，于是在 Reddit 发帖追问。官方社区经理 DE-Ruu 在评论区回应称，对此表示抱歉，生成式 AI 在他们的社区没有位置，团队正在调查图片为何会出现在活动中，并会尽快修正。评论区随后出现了大量游戏内梗式回应。现阶段能确认的是玩家提出质疑、官方社区经理公开回应并承诺调查修正；官方论坛原活动链接暂时无法正常打开，因此图片来源与制作流程仍应以之后的官方说明为准。",
+          "links": [
+            {
+              "label": "Reddit 原帖与官方社区经理回应",
+              "url": "https://www.reddit.com/r/Warframe/comments/1wq3znz/why_is_de_using_ai_art_in_their_charity_campaign/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-22",
       "wechat": [
