@@ -1,6 +1,77 @@
 {
-  "updated_at": "2026-10-23",
+  "updated_at": "2026-10-24",
   "days": [
+    {
+      "date": "2026-10-24",
+      "wechat": [
+        {
+          "title": "值得编译｜为了证明海底生物不是 AI，《蓝色星球 III》故意把镜头拍得不那么漂亮",
+          "source": "The Guardian · Tara Conlan（BBC 主创采访）",
+          "published": "2026 年 10 月 23 日（美东时间）；节目计划 11 月 1 日播出",
+          "text": "BBC 新一季《蓝色星球 III》拍摄了四年、走过五大洋，拥有水下监控摄影机和各种新设备，画面本可以越来越高清、干净，主创却反其道而行之：保留过去可能剪掉的浮游生物、浑浊水色，甚至偶尔留在镜头中的船只和浮标。执行制片人 Elizabeth White 解释，深海动物的模样已经离奇到观众可能怀疑是 AI，因此必须让画面多一点现实的瑕疵。BBC 纪实节目负责人 Jack Bootle 在放映活动上强调，整部纪录片没有使用任何一帧生成式 AI 画面。新季仍由已满 100 岁的 David Attenborough 解说，报道说他参与修改剧本。适合完整编译：过去纪录片努力消除不完美，如今“不完美”反而成为证明真实性的工具。",
+          "links": [
+            {
+              "label": "《卫报》原始采访（值得编译）",
+              "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜一本小说被怀疑 AI 代写，出版社检查草稿后决定与作家分手",
+          "source": "Agence France-Presse／The Guardian（出版社声明及作家回应）",
+          "published": "2026 年 10 月 21—22 日",
+          "text": "海地裔加拿大作家 Thélyson Orélien 的小说《C’était ça ou mourir》曾进入法国龚古尔文学奖候选名单，后来因 AI 写作指控和剽窃争议被移出名单。加拿大出版商 Boréal 原先支持作者，但在进一步取得不同版本草稿、委托第三方检查后，于 10 月 21 日宣布结束合作。出版社称在部分文件元数据里发现 AI 标记，认定创作过程中使用过 AI，却同时承认无法确认究竟使用了多少。作者反驳说，他只利用工具查找历史资料和外语习语，小说的句子与故事结构都由自己写作，初稿早在 2019 年便完成。由于双方仍有明显分歧，不能把出版社判断扩写为已证实的整本小说由 AI 代写。这则与此前收录的津巴布韦文学奖风波不同，有出版社实际检查手稿的后续动作。",
+          "links": [
+            {
+              "label": "法新社经《卫报》刊发的报道",
+              "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜硅谷 AI 大佬终于有了自己的《继承之战》，剧里人人想当救世主",
+          "source": "The Guardian（主创与演员采访）；HBO Max／The Audacity",
+          "published": "2026 年 10 月 22 日",
+          "text": "HBO Max 新剧《The Audacity》由《继承之战》编剧 Jonathan Glatzer 创作，Billy Magnussen 饰演一家数据分析公司的自负 CEO Duncan Park，Zach Galifianakis 则饰演古怪亿万富豪 Carl Bardolph。剧集让数据买卖、算法招聘、儿童隐私、科技精英的权力欲和家庭关系变成黑色喜剧情节，宣传语把硅谷口号“快速行动、打破常规”扭转成“快速行动、伤害他人”。主创及演员在《卫报》采访中谈到他们对科技行业人物的观察，但剧中角色是虚构的，不应直接对应任何一位现实企业家。适合作为“AI 时代硅谷人物怎样成为影视反派”的轻量文化观察。",
+          "links": [
+            {
+              "label": "《卫报》主创与演员采访",
+              "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜真人讲了一年的脱口秀笑话，被 AI 网红偷走，连观众都比他多",
+          "source": "Business Insider · Lucia Moses（喜剧演员 George Brett Olson 第一人称采访）",
+          "published": "2026 年 10 月 23 日",
+          "text": "美国脱口秀演员 George Brett Olson 说，自己花一年时间在现场反复修改的一段关于“AI 抢工作，大家却怪移民”的笑话，被一个 AI 虚拟女性账号原样照搬，并做成更夸张、带性化身材的视频。朋友把视频发给他时，他一眼认出自己的衣着和表演内容。账号最初声称自己是真人，之后对他的质问不再回应，又曾道歉并删除部分视频。Instagram 负责人 Adam Mosseri 表示不准备全面禁 AI 内容，但会研究如何处理对原创内容的大量照搬。以上主要是 Olson 的采访陈述；没有独立裁决确认版权侵权。",
+          "links": [
+            {
+              "label": "Business Insider 当事人采访",
+              "url": "https://www.businessinsider.com/comedian-ai-creator-stole-my-joke-i-blame-meta-2026-10"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜美术馆展出一幅 AI 参与制作的作品，网友开始争论：用 AI 批判 AI 算艺术吗？",
+          "source": "Reddit · r/melbourne（原始社区讨论）；悉尼科技大学艺术评论（背景核对）",
+          "published": "Reddit 讨论近期；大学评论 2026 年 10 月 22 日",
+          "text": "澳大利亚维多利亚国家美术馆用韩国艺术家 Ayoung Kim 的《Delivery Dancer’s Arc: Inverse》影像做三年展宣传图，Reddit 上有人发现作者团队公开列出 AI 图像与视频生成人员，质疑为什么艺术馆要展出“AI 艺术”；也有人提醒，这件作品混合实拍、游戏引擎、CGI 与生成式 AI，描绘在算法监控下互相竞争的未来首尔女性骑手，本身就在讨论 AI 与劳动。有评论者将 AI 视为创作工具，另一些人坚持反对。悉尼科技大学随后撰文讨论这个悖论。原始 Reddit 帖子现已被管理员移除，但评论仍可读取；不是美术馆撤展或作品被撤销的证据。",
+          "links": [
+            {
+              "label": "Reddit 原帖（主帖已被移除，评论仍在）",
+              "url": "https://www.reddit.com/r/melbourne/comments/1x1fcjf/is_this_ai_art_at_ngv_melbourne/"
+            },
+            {
+              "label": "悉尼科技大学对争议的评论",
+              "url": "https://www.uts.edu.au/news/2026/10/could-thoughtful-ai-art-counter-the-rise-of-ai-slop"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-23",
       "wechat": [
