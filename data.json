@@ -1,6 +1,73 @@
 {
-  "updated_at": "2026-10-24",
+  "updated_at": "2026-10-25",
   "days": [
+    {
+      "date": "2026-10-25",
+      "wechat": [
+        {
+          "title": "值得编译｜AI 数据中心盖到自家后院：威尔士居民和科技巨头打起现代版大卫与歌利亚之战",
+          "source": "The Guardian · Tom Wall（当地实地采访）",
+          "published": "2026 年 10 月 24 日",
+          "text": "英国威尔士纽波特的居民发现，毗邻住宅区的大型数据中心正改变每天的生活：有人抱怨巨大的建筑挡住阳光，也有人担心冷却设施和柴油备用发电机带来的噪声。在卡迪夫，一项拟占用 NHS 医院常用停车换乘场地的数据中心规划收到超过 1200 份反对意见，居民担心失去停车空间、周边污染和房价变化；开发商则称排放将符合规定。英国有数百个待接入电网的数据中心规划，政府希望吸引 AI 基础设施投资，但当地人更关心电力、土地和最终能得到多少工作岗位。其中一个项目宣称可提供最多 125 个长期职位。这是现场采访型深度报道，适合编译为一个‘AI 很遥远，机房却在家门口’的社区故事；居民担忧和已证实的损害应严格区分。",
+          "links": [
+            {
+              "label": "《卫报》现场特稿（英文原文）",
+              "url": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜西班牙反对党让首相夫人在 AI 视频里‘认罪’，然后说这只是一则讽刺广告",
+          "source": "The Guardian（西班牙政治广告争议及法律人士观点）",
+          "published": "2026 年 10 月 24 日",
+          "text": "西班牙保守派人民党（PP）在大选前发布一条 AI 合成视频，让首相 Pedro Sánchez 的妻子 Begoña Gómez、前首相 José Luis Rodríguez Zapatero 等与社会党有关的人物，看起来亲口承认涉及调查的各种问题。视频浏览量接近 200 万，附有一条不太显眼的 AI 生成标注。社会党方面指责视频误导观众；一名前社会党成员提起诽谤及数字身份盗用相关诉讼。人民党则辩称这是政治讽刺，用以批评社会党。报道援引的多名法律人士认为，作品既标明 AI 又采用讽刺形式，未必触法，但法律判断尚未最终形成。争议点在于：广告标注了‘假’，是否就足以让合成名人的指控变成安全的政治玩笑。",
+          "links": [
+            {
+              "label": "《卫报》争议报道",
+              "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜22 岁球员把自己的脸、声音和身体数据独家授权给 AI 公司：以后代言不一定要本人出场",
+          "source": "The Guardian（运动员数字肖像授权与行业采访）",
+          "published": "2026 年 10 月 24 日（美东时间；网页路径为 10 月 25 日）",
+          "text": "22 岁澳大利亚足球运动员 Cristian Volpato 与加州公司 Callandor 签约，授予其数字形象、声音、生物识别档案和比赛表现数据的独家商业授权，用于打造可商业化的‘合成双胞胎’。这种虚拟球员未来可参与多语言品牌广告、粉丝互动甚至个性化教学，不必每次都叫真人来拍摄。Callandor 也与其他运动员合作，试图把 AI 分身管理变成体育经纪的新业务。支持者认为这样可以掌控未经授权的换脸，律师则指出现有知识产权法律并不能自动为所有 AI 复制品提供完整保护。报道同时提及体育联盟曾要求博彩合作伙伴停止未经允许使用球员的 AI 图像。合同存在不代表这些商业场景已全面落地，也不能据此推断球员未来收入。",
+          "links": [
+            {
+              "label": "《卫报》运动员 AI 肖像调查",
+              "url": "https://www.theguardian.com/technology/2026/oct/25/synthetic-twin-why-socceroo-cristian-volpato-is-the-latest-footballer-to-license-his-ai-clone"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜Anthropic 自称 AI 下属干了六倍工时，研究者却问：这些数字是怎么来的？",
+          "source": "The Guardian · Reworked（外部研究者采访）",
+          "published": "2026 年 10 月 23 日",
+          "text": "Anthropic 最近公布内部调查，称 AI 智能体工作时长已超过人类员工，员工平均花约 22% 的时间管理智能体，入门级技术岗位占比下降。英国《卫报》采访的外部研究者与劳动专家却提醒，这并非独立研究：员工感受、招聘口径、因果推断都存在不确定性，不能把初级招聘下降直接归因于 AI；疫情后过量招聘后的回调、行业形象管理也可能影响解释。与此前收录的‘AI 下属催员工开会’不同，这条重点是同一份研究受到的外部质疑和研究方法问题。",
+          "links": [
+            {
+              "label": "《卫报》对报告的外部质疑",
+              "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜法国 ChatGPT 用户怀念旧模型：新版本的机器人变得像一个不停说教的心理咨询师",
+          "source": "Reddit · r/ChatGPTcomplaints（法语原帖及跟帖）",
+          "published": "2026 年 10 月 23—24 日",
+          "text": "一位法语用户在 Reddit 抱怨，新版本 GPT-6 的长对话衔接、指令跟随和语气不如自己使用过的旧版本。他形容模型时常只理解问题表层，还带回了让他反感的‘心理咨询式’措辞。回复者表示也有相似感受，有人推测最近密集推出的新功能影响了产品体验，也有人说另一种模型配置更合自己口味。这些都是特定社区内的个人体验与未经验证的原因猜测，不应据此声称 ChatGPT 整体发生故障或所有法语用户都不满。适合作为‘AI 产品升级后，用户怀念上一任机器人’的轻量观察。",
+          "links": [
+            {
+              "label": "Reddit 法语社区原帖",
+              "url": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1xdcxow/jai_limpression_de_revivre_octobre_2025_avec/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-24",
       "wechat": [
