@@ -1,6 +1,73 @@
 {
-  "updated_at": "2026-10-25",
+  "updated_at": "2026-10-26",
   "days": [
+    {
+      "date": "2026-10-26",
+      "wechat": [
+        {
+          "title": "值得编译｜AI 公司开始请宗教人士给聊天机器人上伦理课，问题是：谁的道德算数？",
+          "source": "Associated Press（美联社；宗教学者及 AI 公司采访）",
+          "published": "2026 年 10 月 26 日",
+          "text": "美联社采访了为 AI 公司提供伦理意见的宗教人士、哲学家及学者。AI 公司希望聊天机器人在面对儿童、生命意义、伦理冲突等问题时不只依靠工程师偏好，而是学习不同宗教、世俗思想及政治观点。参与者承认讨论严肃且跨越多种传统，但也有人质疑，把佛教、基督教等复杂的历史、仪式和共同体关系简化成可提取的“道德规则”，是否会把各自的差别抹平。报道引述 Anthropic 对多元道德视角的期待，同时提醒“各宗教都是彼此独立、可直接比较的价值体系”这一看法本身也有特定历史背景。适合编译：一群人试图教没有信仰的机器如何处理人类信仰，但并不存在一个全人类公认的伦理答案。",
+          "links": [
+            {
+              "label": "美联社原创英文报道（值得编译）",
+              "url": "https://apnews.com/article/2bb91e3334fd6d732edf22288cabf4ec"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜猫王已经离世几十年，274 首歌的版权方把 Claude 告上法庭",
+          "source": "The Guardian（诉讼报道）；Authentic Brands Group 等原告诉状",
+          "published": "2026 年 10 月 25 日；诉讼据报道于 10 月 23 日提交",
+          "text": "管理 Elvis Presley 音乐及形象权益的 Authentic Brands Group 等权利人起诉 Anthropic，称 Claude 训练过程未经授权使用 274 首猫王歌曲，涉及《Can't Help Falling in Love》《All Shook Up》等，并指控模型有时会输出涉嫌侵权的歌词。原告针对每首歌寻求最高 15 万美元法定赔偿，合计约 4110 万美元。诉讼强调猫王音乐进入 AI 训练数据与输出的争议，但以上均为原告主张，不代表法院已认定侵权。值得关注的是，已故艺人的音乐遗产在 AI 时代仍不断被重新谈判。",
+          "links": [
+            {
+              "label": "《卫报》案件报道",
+              "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜马斯克许诺 AI 拍整部长篇《奥德赛》，三个月后先交了七分钟作业",
+          "source": "TechCrunch · Anthony Ha（视频及评论）；Grok Imagine 官方视频",
+          "published": "2026 年 10 月 25 日；视频 10 月 23 日发布",
+          "text": "马斯克此前宣布 Grok 要制作一部“历史准确”的完整《奥德赛》电影。约三个月后，Grok Imagine 与 Wonder Studios、导演 Dev Walker 合作公开的首段作品只有七分钟，名称也变成《Odyssey》系列第一集。TechCrunch 记者看过短片后认为，海上场景有些镜头已接近真人摄影，但大段旁白、僵硬台词和重复的胡须男性面孔让故事难以投入。这是影评人的主观观感，不等于影片受到所有观众否定。尤其有意思的是，这次 AI 视频正好与克里斯托弗·诺兰的真人电影改编形成鲜明对照。",
+          "links": [
+            {
+              "label": "TechCrunch 视频评论及官方发布帖入口",
+              "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜AI 电影拍到第七分钟：马斯克版《奥德赛》正式上线第一集",
+          "source": "TechCrunch · Anthony Ha",
+          "published": "2026 年 10 月 25 日",
+          "text": "Grok Imagine 发布 AI 生成《奥德赛》首集，片长七分钟，与此前“整部长片”的预告形成反差。TechCrunch 认为单个镜头的写实程度有所提高，但人物和剧情连接仍显僵硬。报道附官方视频，适合小红书用镜头截图做图文；注意这是技术展示兼影评，不是已完成的完整电影，也不是官方承诺的成片上映。与今日公众号的同一事件可采用完全不同的视觉切口。",
+          "links": [
+            {
+              "label": "TechCrunch 报道及视频",
+              "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜你用 AI 画画，是因为喜欢画得快，还是因为不想练上几年？",
+          "source": "Reddit · r/aiwars（用户发帖及评论）",
+          "published": "2026 年 10 月 24 日",
+          "text": "一名 r/aiwars 网友发帖说，自己观察到一些支持生成式 AI 的用户强调作品品质，但真正吸引他们的也许更多是时间成本：即使能够练成很好的绘画技巧，仍有人会选生成式工具以便迅速迭代。评论里有人指出，截止日期和有限时间本来就是创作现实的一部分。发帖者自称做过一个“小调查”，但没有提供足够可核实的抽样与方法；这只是社区观点交流，不能将其概括成有关 AI 创作者动机的统计结果。",
+          "links": [
+            {
+              "label": "Reddit 原始讨论",
+              "url": "https://www.reddit.com/r/aiwars/comments/1xdybmi/an_interesting_thing_i_noticed/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-25",
       "wechat": [
