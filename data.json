@@ -43,14 +43,14 @@
       ],
       "xiaohongshu": [
         {
-          "title": "媒体来源｜AI 电影拍到第七分钟：马斯克版《奥德赛》正式上线第一集",
-          "source": "TechCrunch · Anthony Ha",
+          "title": "媒体来源｜英国四大创作者组织联名：科技公司先别忙着做慈善，把作品的钱付了",
+          "source": "The Guardian · Letters（英国四家创作者版权及集体管理机构负责人署名公开信）",
           "published": "2026 年 10 月 25 日",
-          "text": "Grok Imagine 发布 AI 生成《奥德赛》首集，片长七分钟，与此前“整部长片”的预告形成反差。TechCrunch 认为单个镜头的写实程度有所提高，但人物和剧情连接仍显僵硬。报道附官方视频，适合小红书用镜头截图做图文；注意这是技术展示兼影评，不是已完成的完整电影，也不是官方承诺的成片上映。与今日公众号的同一事件可采用完全不同的视觉切口。",
+          "text": "Anthropic 宣布拟将 5% 的股份用于公共利益基金后，英国四家创作者权益组织的负责人在《卫报》联名发信：科技企业若想帮助社会，应先付给被其产品利用作品的创作者报酬。信中引用行业调查称，英国视觉艺术家年收入中位数约为 1.25 万英镑，作家从写作获得的收入中位数约 7000 英镑，视听表演者从表演获得的收入中位数约 1.75 万英镑。四人还呼吁英国推出 Smart Fund，要求可用于复制、储存创意作品的设备制造商及进口商缴费，估计每年可募集最高 3 亿英镑。注意这是利益相关组织的政策倡议信，并非政府已采纳法案，收入数字也分别来自不同年份的调查。",
           "links": [
             {
-              "label": "TechCrunch 报道及视频",
-              "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+              "label": "《卫报》四位创作者组织负责人公开信",
+              "url": "https://www.theguardian.com/technology/2026/oct/25/tech-firms-should-pay-the-creators-whose-work-they-use"
             }
           ]
         },
