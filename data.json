@@ -47,18 +47,18 @@
       ],
       "xiaohongshu": [
         {
-          "title": "媒体来源｜为了躲开 AI 投递简历式投稿，美食编辑把投稿入口改成‘请打电话来’",
-          "source": "WIRED · Kate Knibbs；The Food Section 原始投稿政策",
+          "title": "媒体来源｜澳大利亚 12 岁男孩写诗吐槽 ChatGPT，站在悉尼歌剧院拿下冠军",
+          "source": "The Guardian · 澳洲诗歌比赛现场报道及表演视频",
           "published": "2026 年 10 月 26 日",
-          "text": "AI 智能体如今也在寻找写作委托，有的不断给编辑发送选题，结果一位独立美食刊物主编决定不再通过邮箱收稿，只在每周指定时间接受作者来电。WIRED 采访指出，多位媒体编辑目前都未接受这些智能体的投稿。这个做法像一种逆向 CAPTCHA：不是让你点出所有红绿灯，而是先拨一个电话把自己的故事讲清楚。与今日公众号同一新闻，小红书更适合从‘新的职场面试题是打电话证明自己是真人’这一角度制作简短图文；未声称刊物有办法百分之百识别真人。",
+          "text": "澳大利亚纽卡斯尔 12 岁学生 Blake Mackenzie 凭自己写的 90 秒朗诵诗《Dear ChatGPT》，获得澳大利亚 Poetry Slam 青少年组冠军。他在悉尼歌剧院登台，谈到同学用聊天机器人替自己读书、AI 可能让人更孤独、刷屏和数据中心用水问题。他说自己是在决赛前一天写成诗歌，没有用 AI 代写。比赛共有来自全澳各地的选手，青少年组与成人组冠军共享价值约 2 万澳元的奖品，并非他个人独得 2 万现金。这条有完整现场视频，比纯技术资讯更适合小红书用‘小学生在歌剧院对 AI 写了一封公开信’切入。",
           "links": [
             {
-              "label": "WIRED 原创采访",
-              "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now"
+              "label": "《卫报》人物报道",
+              "url": "https://www.theguardian.com/culture/2026/oct/26/12-year-old-wins-australian-poetry-slam-chatgpt"
             },
             {
-              "label": "The Food Section 投稿指南",
-              "url": "https://thefoodsection.com/how-to-write-for-the-food-section/"
+              "label": "获奖朗诵视频",
+              "url": "https://www.theguardian.com/technology/video/2026/oct/26/dear-chatgpt-12-year-old-wins-top-youth-prize-at-australian-poetry-slam-video"
             }
           ]
         },
