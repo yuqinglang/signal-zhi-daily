@@ -1,6 +1,144 @@
 {
-  "updated_at": "2026-10-27",
+  "updated_at": "2026-10-29",
   "days": [
+    {
+      "date": "2026-10-29",
+      "wechat": [
+        {
+          "title": "值得编译｜马斯克的 AI 机房太吵，邻居收到买房邀约：条件是不要起诉",
+          "source": "The Guardian · 美国密西西比州社区实地报道",
+          "published": "2026 年 10 月 28 日",
+          "text": "美国密西西比州 Southaven 的 Colonial Hills 社区紧邻 xAI 数据中心使用的燃气涡轮设施。居民形容噪声像飞机发动机，影响睡眠。报道说 xAI 向部分屋主提出买房，附带不参与针对设施噪声诉讼的条件，计划涉及约 418 处房产，自 10 月 9 日以来已有五宗购房。三名居民此前已提起干扰生活的诉讼。xAI 否认诉讼中的指控，称已设置隔音屏障并调整设施运行；当地市长则支持项目带来的就业与税收。美国环保署也对涡轮设备许可提出问题。这是有现场人物、社区冲突及双方回应的报道，适合编译；收购条件应按记者报道和居民说法呈现，而非判定公司违法。",
+          "links": [
+            {
+              "label": "《卫报》美国社区原创报道",
+              "url": "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜《我的世界》里跑起《上古卷轴》，AI 正在把游戏混搭变成周末小制作",
+          "source": "The Guardian · Pushing Buttons 电子游戏专栏",
+          "published": "2026 年 10 月 28 日",
+          "text": "社交媒体上出现《Minecraft》与《Skyrim》、《Mario》与《Halo》等不可思议的跨游戏混搭视频。游戏专栏指出，开发者正在利用 Claude 等 AI 辅助反编译、修改游戏代码，再由人类调试，使部分过去要花数月实现的模组尝试压缩到一个晚上。记者自己也试着快速制作了简陋的浏览器混搭游戏。文章同时讨论这是否会让游戏移植、模拟器制作和盗版更容易。这不代表 AI 已经能一键完整复制现代商业游戏，原作品与模组使用的版权边界也需要分开说明。",
+          "links": [
+            {
+              "label": "《卫报》Pushing Buttons 原文",
+              "url": "https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜英国政府征集禁电子烟意见，近四分之三回复竟来自机器人",
+          "source": "The Guardian · Tobacco Control 研究报告",
+          "published": "2026 年 10 月 27 日",
+          "text": "对英国政府 2023 年一次烟草和一次性电子烟立法意见征集的研究发现，118756 条回应中有 90835 条（约 76%）来自自动化提交，绝大多数反对一次性电子烟禁令，且存在大量重复答案和短时间从少量 IP 地址涌入的迹象。英国卫生部门在决策中剔除了疑似虚假意见；研究作者警告自动化提交可能制造民意假象。这是针对过去事件的新研究，不是 2026 年发生的新一轮投票，也不能据此确定操作者是谁。",
+          "links": [
+            {
+              "label": "《卫报》研究报道",
+              "url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜微软刚向 6 万员工提出离职买断，转头宣布季度营收创高位",
+          "source": "AFP／The Guardian · 财报及企业人事报道",
+          "published": "2026 年 10 月 28 日",
+          "text": "微软公布季度营收 923 亿美元、利润约 366 亿美元，Azure 云业务增长 48%，高于市场预期。两天前，公司刚向约 6 万名员工提供自愿买断选项，涉及公司全球员工的大约四分之一。买断不等同于所有人被裁员；公司在加码 AI 投资的同时进行人员调整。这个数字反差适合职场选题，但不能直接推断这 6 万人被 AI 取代。",
+          "links": [
+            {
+              "label": "AFP 经《卫报》发布的财报报道",
+              "url": "https://www.theguardian.com/technology/2026/oct/28/microsoft-earnings"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜每月付 200 美元，模型额度即将减半：老订阅用户开始算账",
+          "source": "Reddit · r/ChatGPTPro（用户讨论；更改公告于 9 月发布）",
+          "published": "原帖 2026 年 9 月 29 日；旧额度过渡期截至 10 月 29 日",
+          "text": "在 r/ChatGPTPro 的讨论中，部分用户分享收到的套餐调整通知：原有 Pro 200 用户的 ChatGPT Work、Codex 相对 Plus 的使用额度将从 20 倍改为 10 倍，GPT-6 Pro 的每周消息上限从 200 降为 100，月费仍为 200 美元，老用户过渡期截至 10 月 29 日。评论里有人准备取消订阅，也有人讨论一次性补偿额度。这些是用户公开帖中的说法和感受，账号是否符合过渡条件应以官方条款为准；不是 10 月 29 日发布的新通知。",
+          "links": [
+            {
+              "label": "Reddit 原帖及用户评论",
+              "url": "https://www.reddit.com/r/ChatGPTPro/comments/1wtlnvz/removed/"
+            },
+            {
+              "label": "Reddit 关于政策截止日的另一讨论",
+              "url": "https://www.reddit.com/r/codex/comments/1wtl58o/existing_pro_200_usage_only_20x_for_a_month/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "wechat": [
+        {
+          "title": "值得编译｜珍妮特·温特森不怕 AI 写小说，她更担心人类把未来交给谁",
+          "source": "The Guardian · The ideas interview，作家 Jeanette Winterson 专访",
+          "published": "2026 年 10 月 28 日",
+          "text": "英国作家 Jeanette Winterson 在《卫报》长访谈中认为，AI 可能是物种层面的转折，不只是另一件工具。她拒绝把未来简单看成必然的技术乌托邦或灾难：关键问题是经济制度、权力集中、偏见、环境成本如何被组织。她担忧科技领袖一边试图摆脱人体和感受的限制，一边垄断新工具；同时强调艺术、人文学科和批判思考可以帮助公众参与决定未来。适合编译为一位作家面对 AI 的完整访谈，不要改写成单纯反 AI 宣言。",
+          "links": [
+            {
+              "label": "《卫报》温特森完整访谈",
+              "url": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜澳大利亚拟禁止聊天机器人和儿童发展‘情感亲密关系’",
+          "source": "The Guardian Australia · 澳大利亚议会进展及部长讲话",
+          "published": "2026 年 10 月 28 日",
+          "text": "澳大利亚众议院通过数字照护义务相关法案，政府接受修正案，要求平台禁止 AI 聊天机器人模拟情感亲密、鼓励儿童依赖它来替代真人关系的行为。总理 Albanese 公开谈及儿童把机器人当最好的朋友所引发的担忧。法案还涉及平台减少有害内容、让用户更容易关闭推荐算法等。但法案尚需参议院审议，不能写成禁令已经正式实施；反对党与绿党对范围及申诉机制也存在分歧。",
+          "links": [
+            {
+              "label": "《卫报》澳大利亚议会报道",
+              "url": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜Prime Video 上架 AI 生成古装剧，影评人给出一星：像抹了凡士林",
+          "source": "The Guardian · 剧评；土耳其制作公司 Ay Yapım",
+          "published": "2026 年 10 月 28 日（网站后续路径为 10 月 29 日）",
+          "text": "土耳其公司 Ay Yapım 制作的《Castle Walls》被宣传为大型流媒体平台首批端到端 AI 生成剧之一，Prime Video 放出了两集、每集约 17 分钟，故事设在 11 世纪的 Alamut 城堡。《卫报》影评人觉得画面浓艳、人物质感像塑料，节奏和台词都很生硬，给出一星评价。制作方表示创作仍使用真人编剧和配音演员，AI 是辅助制作而不是让人退出。‘一星’是单个影评人的评价，不等于观众整体评分。",
+          "links": [
+            {
+              "label": "《卫报》完整剧评",
+              "url": "https://www.theguardian.com/tv-and-radio/2026/oct/29/castle-walls-review-prime-first-fully-ai-generated-tv-show"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜微软向大约四分之一员工发买断邀约，Xbox 和 Windows 也在范围里",
+          "source": "The Guardian · Bloomberg 报道转述",
+          "published": "2026 年 10 月 26 日",
+          "text": "据媒体报道，微软向约 6 万名员工提供自愿买断机会，覆盖 Xbox、Windows、Copilot 等部门，部分网络安全、数据中心和市场营销岗位不在范围中。它是员工可选择接受的离职方案，不是宣布立即裁掉六万人，也不能把人事行动全部归因于 AI。报道可讨论科技公司重新配置人力与算力支出之间的关系。",
+          "links": [
+            {
+              "label": "《卫报》员工买断报道",
+              "url": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜10 月 29 日之前，有人开始讨论是否退订 200 美元 AI 套餐",
+          "source": "Reddit · r/codex（订阅用户自发讨论）",
+          "published": "2026 年 10 月 11 日发帖，议题指向 10 月 29 日截止期",
+          "text": "一名 Reddit 用户询问：旧 Pro 200 套餐优惠额度于 10 月 29 日结束，其他人准备怎么办？跟帖者引用官方说明，讨论使用上限变化，也有人打算继续观察不同工具的使用体验。帖子不是 OpenAI 官方通知，用户对费用和性价比的判断属于个人观点。适合从‘AI 工具重度用户如何计算自己的每月生产力成本’切入。",
+          "links": [
+            {
+              "label": "Reddit 社区原帖",
+              "url": "https://www.reddit.com/r/codex/comments/1x3al7v/what_is_everyones_plan_after_29th_october_when/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-27",
       "wechat": [
