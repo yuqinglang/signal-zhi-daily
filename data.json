@@ -1,6 +1,77 @@
 {
-  "updated_at": "2026-10-29",
+  "updated_at": "2026-10-30",
   "days": [
+    {
+      "date": "2026-10-30",
+      "wechat": [
+        {
+          "title": "值得编译｜AI 抢了水晶球生意，真人占卜师开始声明：本店不使用人工智能",
+          "source": "The Guardian · 2026 年 10 月 29 日互动专题采访",
+          "published": "2026 年 10 月 29 日",
+          "text": "AI 灵媒与占卜聊天机器人已经能通过社交网络、应用程序向人提供星盘、塔罗和情感预测，有些还收取费用。《卫报》记者体验了一位以 AI 头像示人的占卜师，对方预言记者将结婚、有粉红色气场，前世或许曾是草药师。真人从业者开始强调服务不使用 AI，认为人与人之间的同理心、倾听和互动不可替代；同时担忧用户在情绪脆弱时把生成内容当作可靠指引。报道也采访了研究者与服务提供者，并指出部分产品的模型来源与用户私密谈话如何保存仍不透明。这是对行业与人群的采访，不是 AI 真具有预知能力的证据。适合编译成真人占卜师与 AI 算命机器人的生意之争。",
+          "links": [
+            {
+              "label": "《卫报》英文互动调查（值得编译）",
+              "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜一家创业公司只有 15 个真人员工，却有约 150 位 AI 同事",
+          "source": "The Guardian · Reworked 职场专题原创采访",
+          "published": "2026 年 10 月 29 日",
+          "text": "《卫报》采访使用 AI 智能体的企业与员工。创业公司 Anything 约有 15 名员工，却同时运用约 150 个 AI 智能体处理销售、营销、代码、行政和其他任务。其他受访公司也把 AI 当作助理、参谋长乃至团队成员。企业认为少量人可以完成以前大团队承担的工作，但真人仍须持续审核错误、分配任务、处理客户关系。有人担心初级职位和客户体验受到影响；也有人说效率提高了，个人的工时并未缩短。报道呈现多个工作场景，但 150 个智能体不等于 150 名全职人类员工，也不能直接换算成裁员人数。",
+          "links": [
+            {
+              "label": "《卫报》Reworked 原创报道",
+              "url": "https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜美国大学员工提出‘信念豁免’：我可以完成工作，但拒绝亲自使用 AI",
+          "source": "Religion News Service · Bob Smietana（当事人采访及校方书面决定）；TechCrunch（校方回应）",
+          "published": "2026 年 10 月 26—29 日",
+          "text": "肯塔基大学 45 岁研究行政人员 David Durman 坚持世俗人文主义信念，认为把判断和思考交给 AI 与自己的价值观相冲突。他寻求美国人文主义协会帮助，按照美国法律中的宗教信念合理便利机制提出申请，校方 9 月批准：他可以不亲自用 AI 完成工作，仍须参加使用 AI 的会议、履行原有职责。申请人并不信神，但他的人文主义信念在此案中获得了相应保护。校方确认是个别岗位的安排，未来仍可能重新评估；不能概括为美国职场员工已经普遍拥有拒用 AI 的权利。",
+          "links": [
+            {
+              "label": "Religion News Service 原始采访",
+              "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/"
+            },
+            {
+              "label": "TechCrunch 当事人及校方回应",
+              "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "职场媒体｜AI 裁员之后，公司又想把人请回来：员工该怎么谈条件？",
+          "source": "Associated Press · 2026 年 10 月 30 日职业报道",
+          "published": "2026 年 10 月 30 日",
+          "text": "美联社采访职业专家，讨论企业以 AI 为由压缩人手后，又因缺乏经验、判断力、客户信任和人工审核能力而回聘员工的情况。报道提到 Klarna 在客服中过度依赖聊天机器人后恢复招聘，以及福特在 AI 质量管理工具未达到预期时增聘或晋升约 350 名有经验的工程师。专家建议受邀回归的员工核对岗位是否有实质变化，并讨论薪资、培训、晋升和岗位保障。不同公司的招聘背景并不完全相同，不能简单概括成‘AI 导致的所有裁员都已撤销’。",
+          "links": [
+            {
+              "label": "美联社原创报道",
+              "url": "https://apnews.com/article/04662acffb7beba822129118dde3f0a7"
+            }
+          ]
+        },
+        {
+          "title": "职场媒体｜律师都开始用 AI 了，但只有四分之一说自己给客户降了价",
+          "source": "The Guardian Australia · 维多利亚州 2221 位律师问卷",
+          "published": "2026 年 10 月 30 日（澳大利亚时间）",
+          "text": "澳大利亚维多利亚州对 2221 名律师的调查显示，过去一年 AI 使用比例从 37% 升至 55%，但只有约 26% 的受访者表示因此降低收费。46% 的律师表示曾遇到客户带来错误或误导性的 AI 法律资料，41% 需要纠正客户的 AI 文书。接近一半受访者认为客户自行使用 AI 反而增加自己的工作量。调查反映的是该地区受访律师的自述，并不代表全部法律行业或每个客户的账单。适合做‘AI 节省时间后，谁真正省下钱’的职场图文。",
+          "links": [
+            {
+              "label": "《卫报》澳大利亚原始调查报道",
+              "url": "https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-29",
       "wechat": [
