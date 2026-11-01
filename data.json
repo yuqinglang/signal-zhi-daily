@@ -1,6 +1,144 @@
 {
-  "updated_at": "2026-10-30",
+  "updated_at": "2026-11-01",
   "days": [
+    {
+      "date": "2026-11-01",
+      "wechat": [
+        {
+          "title": "值得编译｜总理选区的艺术家集体反对 AI 版权方案：凭什么要创作者自己去申请退出？",
+          "source": "The Guardian Australia · Caitlin Cassidy（悉尼内西区创作者现场采访）",
+          "published": "2026 年 10 月 31 日（澳大利亚当地时间）",
+          "text": "澳大利亚总理 Anthony Albanese 的 Grayndler 选区，拥有 3000 多家文化与创意企业，约 10% 的劳动人口从事文化创意工作，高于全国 4.2% 的比例。当地艺术家、设计师和创意企业正反对政府考虑中的版权调整：允许 AI 公司默认抓取澳大利亚网上内容训练模型，创作者必须主动 opt out 才能阻止。Anthropic 等公司认为逐一谈授权太困难；Albanese 此前则承诺创作者应获得保护，未经付费使用作品是“盗窃”。一位受访设计师自己也会使用 AI，但仍认为把选择权变成“自己去退出”很荒谬。政府预计年底公布草案，议会可能在 2027 年审议。适合编译：这不是笼统的反 AI 抗议，而是 AI 版权规则可能怎样改变一整个创意社区的生计。",
+          "links": [
+            {
+              "label": "《卫报》现场报道（值得编译）",
+              "url": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜Instagram 老大承认：大家对 AI 的焦虑和愤怒，未来几年只会越来越大",
+          "source": "The Verge · Stevie Bonifield（Adam Mosseri 播客访谈报道）",
+          "published": "2026 年 10 月 28 日",
+          "text": "Instagram 负责人 Adam Mosseri 在 Colin and Samir 播客中谈到 AI 内容与平台治理。他认为公众对 AI 的焦虑、挫败和愤怒正在上升，未来几年还会继续增加，尤其影响创意行业。用户担心作品被拿去训练模型、内容所有权、安全问题和岗位被替代。Mosseri 说 Instagram 不会因为创作者使用 AI 就直接降低排名，但平台可能并不擅长给 AI 内容排序；他也认为“AI slop”这个词有时被用得过于宽泛。Instagram 正要求 AI 账号标注身份，也在处理名人深伪等误导内容，但 Mosseri 认为全面禁止 AI 内容并不现实。",
+          "links": [
+            {
+              "label": "The Verge 原始采访报道",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜纽约州把 AI 陪伴机器人列入儿童保护法：不能再假装自己是孩子的真人朋友",
+          "source": "美联社 · Marc Levy（纽约州新法及监管专家采访）",
+          "published": "2026 年 10 月 28 日签署；2027 年 1 月 1 日生效",
+          "text": "纽约州州长 Kathy Hochul 签署新法，禁止面向 18 岁以下用户的 AI 陪伴聊天机器人使用一系列被界定为“不安全”的互动方式，包括声称自己是真人、拥有真实情感或与儿童存在现实关系，发送性内容、过度奉承、鼓励保密或不健康行为。违反规定可能遭州检察长起诉，处罚包括赔偿、关闭聊天机器人或销毁数据。美联社采访的政策专家指出，部分条款定义仍较宽泛，未来执行时可能出现“正常对话”与违规之间的界线问题。法律将于 2027 年 1 月生效，并非已经全面实施。",
+          "links": [
+            {
+              "label": "美联社原始报道",
+              "url": "https://apnews.com/article/chatbots-ai-new-york-legislation-bans-children-03a4e090a7df1532838a5cb6f93a23ba"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜一个普通 ChatGPT 分享链接，曾经可以让别人读到你的私人聊天记录",
+          "source": "Parameter Labs · 安全研究员 Mukul Goyal（漏洞复现及披露时间线）",
+          "published": "研究报告 2026 年 10 月 28 日发布；OpenAI 于 10 月 26 日修复",
+          "text": "安全研究团队 Parameter Labs 披露，他们曾利用 ChatGPT 的公开分享链接、HTML Preview 和图表功能之间的漏洞，构造出一条攻击链：用户打开恶意分享链接后，攻击代码可能在其已登录的 ChatGPT 会话中执行，读取未分享过的私人对话内容，甚至以用户身份调用账户接口。研究团队表示，攻击不需要用户安装应用或粘贴代码；某些复现版本只需打开分享链接。OpenAI 已于 10 月 26 日修复漏洞，并将其列为 P1，支付 5000 美元漏洞赏金。报告披露的是已修复的漏洞，不代表目前打开普通 ChatGPT 分享链接仍会泄露账户。",
+          "links": [
+            {
+              "label": "Parameter Labs 原始安全报告",
+              "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
+            },
+            {
+              "label": "研究者 Simon Willison 的复盘",
+              "url": "https://simonwillison.net/"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜AI 生成的作品到底能不能拥有版权？开发者社区吵到了欧盟法律",
+          "source": "Hacker News · Mistral Large 4 相关讨论串（用户评论）",
+          "published": "2026 年 10 月 30—31 日",
+          "text": "Hacker News 用户围绕模型权重和 AI 输出的版权归属展开讨论。有人转述自己咨询律师后得到的理解：模型权重可能被视为训练过程混合后的结果，而纯 AI 输出在缺少足够人类创造性贡献时可能无法取得版权；但模型输出仍可能侵犯他人已有版权。其他用户则质疑这是否真有法院判决支持，并指出不同司法辖区、具体的人类参与程度会影响结论。这是一场开发者社区的法律讨论，不是欧盟法院的正式判决，也不能作为法律意见。",
+          "links": [
+            {
+              "label": "Hacker News 原始讨论",
+              "url": "https://news.ycombinator.com/item?id=50296139"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "wechat": [
+        {
+          "title": "值得编译｜AI 智能体给活老鼠做脑部注射：连针头和药量都是它自己选的",
+          "source": "WIRED · Emily Mullin（Exin Therapeutics 创办者采访及实验过程）",
+          "published": "2026 年 10 月 31 日",
+          "text": "生物科技公司 Exin Therapeutics 创办者 Gabriel Ocana Santero 团队把 AI 智能体接入一套可移动针头和注射器的机器人设备，让它为一只患癫痫的活老鼠选择基因疗法、脑部注射区域、坐标、药量和速度。兽医先完成开颅，之后 AI 智能体控制机械臂完成注射。团队最初测试 Claude Opus 5.5，但模型拒绝操作针头，担心中途停止会伤害动物，于是改用 Claude Sonnet 5。过程中坐标系统出现故障，AI 识别到位置不对，却因指令限制拒绝修改代码，最终由另一个 AI 智能体修复。实验比通常约 45 分钟的注射手术多花了约 15 分钟；团队仍在等待治疗效果，老鼠目前恢复良好。人类审批和紧急断电装置一直保留，团队也强调离让 AI 给人类做脑部手术还很远。",
+          "links": [
+            {
+              "label": "WIRED 原创科学报道（值得编译）",
+              "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜好莱坞的梦想正在缩水：演员去拍手机短剧，AI 却成了行业里人人使用、没人愿意公开谈的事",
+          "source": "《世界报》Le Monde · 美国记者对演员、工会和制片人的采访",
+          "published": "2026 年 10 月 31 日",
+          "text": "《世界报》从洛杉矶电影产业萎缩切入，采访年轻演员 Skya Theobald：她一边寻找传统影视工作，一边接低薪、非工会的手机微短剧角色。制作外迁、流媒体竞争、疫情和罢工共同削弱当地产业链，许多摄影、服装、道具供应商也已关闭。SAG-AFTRA 工会负责人说，工会没有试图彻底阻止 AI，而是通过规则限制 AI 取代临时演员；音乐制作人则称 AI 已被业内广泛使用，却很少有人愿意公开谈论。报道并未把好莱坞困境全部归因于 AI，而是把 AI 放进影视业整体萎缩和工作机会变化的背景中。",
+          "links": [
+            {
+              "label": "《世界报》英文长篇报道",
+              "url": "https://www.lemonde.fr/en/international/article/2026/10/31/hollywood-s-battered-dreams-confronts-ai-everybody-uses-it-but-nobody-wants-to-talk-about-it_6767917_4.html"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜英国单身人士开始让 AI 帮忙谈恋爱：有人连相亲对象都先交给 Claude 审核",
+          "source": "The Guardian · George Francis Lee、Dan Milmo（英国单身人士采访及 Match Group 调查）",
+          "published": "2026 年 10 月 31 日",
+          "text": "Match Group 对 3000 名英国单身人士的调查显示，39% 曾在约会中使用 AI；Z 世代比例为 66%，千禧一代为 53%。常见用途包括分析聊天对象、写交友简介和消息、练习对话、想约会地点，以及判断照片或个人资料是否真实。一名墨尔本男子说，Claude 曾劝他不要错过一位照片拍得不好的女性，后来两人真的发展成伴侣；他后来才发现，对方也用 Claude 分析自己的回复。约三分之一英国受访者表示，如果发现约会对象用 AI 写消息，会考虑结束约会。超过四分之一受访者喜欢让双方 AI 助手先互相筛选，但多数人认为让机器人替自己谈恋爱不可接受。",
+          "links": [
+            {
+              "label": "《卫报》原始报道",
+              "url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜记者花 50 美元自己造了一个 Meta Muse Charm，还让 AI 给它养了只电子宠物",
+          "source": "The Verge · Sean Hollister（DIY 设备实测）",
+          "published": "2026 年 10 月 31 日",
+          "text": "《The Verge》记者用一块约 50 美元的 Waveshare ESP32-S3 触屏开发板，自己拼出类似 Meta Muse Charm 的 AI 吊坠。记者没有编程经验，却用 Claude Code 给设备增加聊天记录页面、语音回复、手机远程拍照预览、多个动画头像，以及一个需要喂食、玩耍、睡觉和洗澡的电子宠物小游戏。作者说设备原生功能并不多，很多体验都是靠 Claude 后续补出来；他也不信任 Meta 的 AI 设备接触自己的邮箱和家庭网络，因此从一开始就把它放在访客 Wi-Fi。文章还提出一个问题：如果手机已经能完成大部分功能，用户为什么还要多带一个 AI 吊坠？",
+          "links": [
+            {
+              "label": "The Verge 原创实测",
+              "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
+            }
+          ]
+        },
+        {
+          "title": "媒体来源｜约会软件用户开始让 AI 帮忙写情书、挑对象，甚至想让两个 AI 先替主人相亲",
+          "source": "The Guardian · George Francis Lee、Dan Milmo",
+          "published": "2026 年 10 月 31 日",
+          "text": "英国 3000 名单身人士调查中，39% 表示用过 AI 辅助约会；有人让 AI 帮忙写消息、分析对方的聊天语气和照片，也有人让 AI 评估自己是否应该继续一段关系。最有戏剧性的细节是：一对情侣后来发现，双方都曾用 Claude 分析彼此的聊天记录，男方开玩笑说两个 Claude 可能早就在背后聊起来了。调查还发现，超过四分之一的人喜欢让两边的 AI 助手先互相沟通筛选，但多数人仍认为这不可接受。",
+          "links": [
+            {
+              "label": "《卫报》人物采访与调查",
+              "url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-30",
       "wechat": [
