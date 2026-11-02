@@ -49,8 +49,8 @@
           "text": "AI 战略顾问 Kristi Broom 在访谈中讨论管理者同时带领人类员工与 AI 智能体时遇到的新问题。她认为，两种管理工作需要近乎相反的能力：人类员工需要理解、共情和关系维护；AI 则需要明确指令、持续监督和结果检查。她还介绍了自己给 AI 同事取名 Claudia，并在设定边界的前提下让 AI 学习自己的工作风格。",
           "links": [
             {
-              "label": "播客原始访谈",
-              "url": "https://www.howwuai.com/episodes/switching-hats"
+              "label": "How Women Use AI 节目页（节目与主持人来源）",
+              "url": "https://www.howwuai.com/"
             }
           ]
         },
@@ -61,8 +61,8 @@
           "text": "美国作家 A. J. Jacobs 分享自己花一年研究各种谜题的经历，包括填字游戏、玉米迷宫、CIA 总部尚未破解的 Kryptos 密码，以及世界拼图锦标赛。他提出，面对意见分歧、亲子冲突或职业选择，可以把问题当成一道待破解的谜题，而不是一场必须获胜的战斗；也建议用铅笔而不是钢笔记录信念，允许自己修改答案。",
           "links": [
             {
-              "label": "播客原始访谈",
-              "url": "https://shows.acast.com/the-unmistakable-creative-podcast/episodes/aj-jacobs-puzzles"
+              "label": "The Unmistakable Creative 官方播客网站",
+              "url": "https://unmistakablecreative.com/"
             }
           ]
         }
@@ -408,7 +408,7 @@
           "text": "Ethan Mollick 谈到 AI 时代值得培养的能力：深度知识、广度知识、审美判断和主动性。他强调这些不是 AI 无法替代的能力，而是人与 AI 合作时仍然重要的优势。",
           "links": [
             {
-              "label": "Freakonomics Radio 官方节目页（Ethan Mollick 专访所在系列）",
+              "label": "Freakonomics Radio 官方节目页（Ethan Mollick 专访所在两集系列）",
               "url": "https://freakonomics.com/podcast/whats-our-job-as-humans-anymore/"
             }
           ]
@@ -418,7 +418,12 @@
           "source": "The Tim Ferriss Show · 第 887 期",
           "published": "2026 年 10 月 20 日发布；10 月 21 日更新官网",
           "text": "一位 46 岁创业者在听众问答中表示，自己持续阅读、写日记、锻炼和反思，却仍无法重新行动。Tim Ferriss 建议从低于能力上限、几乎不可能失败的小任务开始，通过每天完成行动重建对自己的信任。",
-          "links": []
+          "links": [
+            {
+              "label": "Tim Ferriss 官方节目及逐字稿（第 887 期；09:10 起）",
+              "url": "https://tim.blog/2026/10/21/qa-with-tim-ai-4-hour-workweek/"
+            }
+          ]
         }
       ]
     },
@@ -474,8 +479,8 @@
           "text": "Google Research 副总裁 Yossi Matias 谈到 AI 让跨专业工作更容易后，发现问题、提出正确问题和识别机会会更重要。访谈将未来优秀员工比作一家微型公司，需要兼顾产品、技术、伦理和决策等职能。",
           "links": [
             {
-              "label": "Sinéad Bovell 官方播客节目页",
-              "url": "https://www.ivegotquestions.co/"
+              "label": "Yossi Matias 专访逐字稿（I've Got Questions）",
+              "url": "https://podscripts.co/podcasts/ive-got-questions-with-sinead-bovell/why-ai-is-creating-a-new-era-of-systems-thinkers-head-of-google-research-yossi-matias"
             }
           ]
         },
@@ -551,7 +556,16 @@
           "source": "独立游戏开发者 Paolo Pedercini 本人声明；PC Gamer",
           "published": "2026 年 10 月 23—25 日",
           "text": "Paolo Pedercini 制作讽刺科技资本主义和生成式 AI 的游戏《Future? No Thanks!》，但承认开发中使用少量 AI 辅助编程及部分 AI 配音。遭玩家批评后，他删除 AI 配音，改用真人模仿机器人声音，并表示愿意给不满玩家退款。",
-          "links": []
+          "links": [
+            {
+              "label": "Kotaku 原始报道",
+              "url": "https://kotaku.com/developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-using-ai-despite-calling-it-technofascist-200074915826m"
+            },
+            {
+              "label": "Rock Paper Shotgun 报道摘要及来源指向",
+              "url": "https://digg.com/gaming/t6kq8fso"
+            }
+          ]
         }
       ]
     },
