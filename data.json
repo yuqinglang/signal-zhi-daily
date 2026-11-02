@@ -1,6 +1,73 @@
 {
-  "updated_at": "2026-11-01",
+  "updated_at": "2026-11-02",
   "days": [
+    {
+      "date": "2026-11-02",
+      "wechat": [
+        {
+          "title": "值得编译｜澳大利亚原住民艺术家发现：AI 不只抄走画风，还把祖传图案变成 Temu 上的廉价商品",
+          "source": "The Guardian · Sally Scales、原住民艺术家及版权专家采访",
+          "published": "2026 年 11 月 2 日",
+          "text": "Pitjantjatjara 艺术家 Sally Scales 指出，生成式 AI 正在抓取 First Nations 艺术中心网站上的作品，去掉艺术家署名、修改图案，再生成类似原住民艺术风格的商品，出现在 Temu、Shein 和 Amazon 等平台。她认为这不仅是版权问题，也涉及家族传承、文化知识和神圣图案的使用权。澳大利亚国家视觉艺术协会警告，AI 模仿特定社群的图案可能传播错误文化信息，损害艺术家的经济利益。版权学者提出“Copyright Plus”方案，要求 AI 公司披露训练数据、允许创作者拒绝抓取或模仿，并建立补偿和下架机制。政府表示仍在咨询政策选项。适合编译，尤其要保留原住民艺术家关于文化知识和数据主权的具体陈述，不要将其泛化为普通风格模仿争议。",
+          "links": [
+            {
+              "label": "《卫报》原始采访报道（值得编译）",
+              "url": "https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜三个年轻人听了 Gemini 的登山建议，最后在雪山上等来了救援队",
+          "source": "WIRED／High Country News · 登山者、护林员与搜救专家采访",
+          "published": "2026 年 11 月 1 日",
+          "text": "三名 20 岁左右的登山者使用 Google Gemini、YouTube 和 AllTrails 规划攀登加州 Mount Shasta，低估了路线难度和下撤时间，食物装备不足，天黑后迷路并打电话求救。美国森林服务部门的护林员说，他们过去一年也遇到其他游客拿 AI 生成的错误地图、或拿 ChatGPT 的回答反驳禁露营标识。专家提醒，AI 可能把过时或虚构的网络信息包装成权威指引，用户在陌生领域容易放弃独立判断。不过搜救人员也指出，社交媒体和 Google Maps 早已造成类似问题；AI 是事故因素之一，不应说成唯一原因。",
+          "links": [
+            {
+              "label": "WIRED／High Country News 原文",
+              "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜英国公司开始集体换用中国 AI：便宜九成，性能也追上来了？",
+          "source": "The Times · Databricks CEO Ali Ghodsi 采访及 OpenRouter 使用数据",
+          "published": "2026 年 11 月 2 日",
+          "text": "Databricks CEO Ali Ghodsi 表示，英国企业对中国 AI 模型的态度正在改变：过去有客户要求屏蔽中国模型，如今在 AI 成本压力下，越来越多公司重新评估 DeepSeek、Qwen 等产品。报道引用 OpenRouter 数据称，中国模型在其路由 token 中的占比从年初 16.8% 上升到上周 49.1%；部分中国聊天模型价格比美国替代产品低至九成。Databricks 还把 GLM-5.2 设为默认编码智能体，称其表现接近 Anthropic Opus、成本更低。企业仍关心隐私、安全和模型行为监控。以上是 Databricks CEO 的行业观察及特定平台数据，不代表所有英国企业都已完成迁移。",
+          "links": [
+            {
+              "label": "The Times 原始报道",
+              "url": "https://www.thetimes.com/business/companies-markets/article/uk-companies-chinese-ai-savings-risks-jdczshtbl"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": [
+        {
+          "title": "媒体来源｜美国街坊嫌弃小餐馆用 AI 做菜单图：汉堡长出三层芝士，店主说拍专业照片太贵",
+          "source": "The Washington Post · 华盛顿地区餐馆老板、顾客及营销学者采访",
+          "published": "2026 年 11 月 1 日",
+          "text": "华盛顿特区一些本地餐馆和小店用 AI 生成社交媒体食品图片，却被居民发现画面与真实商品不符：熟食店三明治看起来像塑料模型，面包店产品出现不可能的纹理。顾客认为这种图片破坏信任，尤其小店原本依靠真实、熟悉的社区关系经营。店主则说专业摄影成本高，AI 图片只是表达产品概念，味道才是重点。部分商家在收到批评后发布手写道歉、改回真人拍摄内容，反而获得更多互动。报道呈现了顾客与小商家的不同立场，不应把所有 AI 宣传图都视为欺诈。",
+          "links": [
+            {
+              "label": "《华盛顿邮报》原始报道",
+              "url": "https://www.washingtonpost.com/dc-md-va/2026/11/01/local-mom-and-pops-are-embracing-ai-food-slop-residents-are-revolting/"
+            }
+          ]
+        },
+        {
+          "title": "论坛来源｜Reddit 的开源社区宣布不收 AI 项目，连非英语用户也被挡在门外",
+          "source": "The Verge · r/opensource 版主规则及社区反应",
+          "published": "规则 2026 年 10 月 24 日公布；报道 10 月 27 日",
+          "text": "Reddit 的 r/opensource 社区更新投稿规则，禁止提交使用 AI、由 AI 制作或面向 AI 的项目；同时要求项目至少维护一年、有多个贡献者，并限制新账号和非英语内容。版主解释，难以判断英文内容究竟由 AI 生成还是翻译而来，审核成本太高。批评者认为规则过宽，会排除个人开发者、学生项目和非英语贡献者，甚至让 AI 辅助写代码的开源项目也难以判断是否合格。社区争议后出现了 r/TrueOpenSource 等替代空间。规则是否合理是社区自治争论，不是整个开源生态统一禁止 AI。",
+          "links": [
+            {
+              "label": "The Verge 原始报道",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-01",
       "wechat": [
