@@ -130,7 +130,12 @@
           "source": "Using AI at Work · Jon Harmeling 专访",
           "published": "2026 年 10 月 26 日",
           "text": "经营快餐店、管理约 90 名员工的 Jon Harmeling 分享用 AI 提醒自己关心员工：新员工入职两周后聊聊、身体不适的员工返岗后问候，以及追踪员工晋升目标并兑现承诺。他认为 AI 节省的时间也可以用于改善人际关系。",
-          "links": []
+          "links": [
+            {
+              "label": "Apple Podcasts 原始节目（Using AI at Work）",
+              "url": "https://podcasts.apple.com/us/podcast/using-ai-at-work-ai-in-the-workplace-generative-ai/id1724086897"
+            }
+          ]
         },
         {
           "title": "自我成长话题｜34 岁还在书店打工的男人，后来成了美国最著名的经济节目主持人",
@@ -192,14 +197,28 @@
           "source": "TED 播客 WorkLife · Astro Teller 专访",
           "published": "2026 年 10 月 27 日",
           "text": "Google X 负责人 Astro Teller 分享 Bad Ideas Brainstorm：团队成员先提出尽可能糟糕的创意，再从荒唐想法中寻找值得研究的问题。他也鼓励员工制作失败简历，记录搞砸的项目和学到的东西。",
-          "links": []
+          "links": [
+            {
+              "label": "TED 官方播客及逐字稿",
+              "url": "https://www.ted.com/podcasts/ted.com/podcasts/why-you-need-to-fail-at-work-with-astro-teller-transcript"
+            }
+          ]
         },
         {
           "title": "自我成长话题｜畅销作家的创作秘诀：每天只写两页，而且允许自己写得很烂",
           "source": "Creative Pep Talk · Kate DiCamillo 专访",
           "published": "2026 年 10 月 27 日",
           "text": "儿童文学作家 Kate DiCamillo 分享每天写两页粗稿、修改时重新打字的习惯。她在笔记本中分别记录吸引自己的想法和当前最想推进的五六个项目，并谈到如何面对作品达不到预期时的挫败感。",
-          "links": []
+          "links": [
+            {
+              "label": "Creative Pep Talk 官方节目页",
+              "url": "https://www.creativepeptalk.com/episodes/"
+            },
+            {
+              "label": "Apple Podcasts 第 579 期",
+              "url": "https://podcasts.apple.com/us/podcast/the-discipline-of-creative-magic-with-bestselling/id929743897?i=1000798465222"
+            }
+          ]
         }
       ]
     },
@@ -265,7 +284,12 @@
           "source": "The Marie Forleo Podcast · 第 514 期",
           "published": "2026 年 10 月 27 日",
           "text": "来自尼日利亚的 Maura Dion 在听众连线中谈到自己技能很多、擅长解决问题，却不擅长为能力定价。Marie Forleo 建议她下次被请求帮忙时先询问预算，或直接说出收费标准。节目还讨论一位 57 岁艺术教师如何先从小型课程重新开始。",
-          "links": []
+          "links": [
+            {
+              "label": "Marie Forleo Podcast 第 514 期信息页",
+              "url": "https://podscan.fm/podcasts/the-marie-forleo-podcast"
+            }
+          ]
         }
       ]
     },
@@ -315,14 +339,24 @@
           "source": "Felix Rieseberg 个人博客",
           "published": "2026 年 10 月 27 日",
           "text": "Anthropic 工程经理 Felix Rieseberg 表示自己取消了团队传统编程测试，因为 Claude 已能完成这类题目。他建议年轻人理解公司业务目标，找到值得解决的问题，并用一个周末做出可运行原型。这是其负责团队的做法，并非 Anthropic 全公司政策。",
-          "links": []
+          "links": [
+            {
+              "label": "Felix Rieseberg 本人原文",
+              "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/"
+            }
+          ]
         },
         {
           "title": "自我成长话题｜91 岁传奇厨师的学习方法：照着答案做两遍，然后开始犯错",
           "source": "The Tim Ferriss Show · Jacques Pépin 视频专访",
           "published": "2026 年 10 月 27 日",
           "text": "法国厨师 Jacques Pépin 建议初学者先完整照食谱做一两遍，知道原版是什么样，再尝试调整。他强调学习可迁移的基本技术，而不是只背菜谱；先动手，再复盘哪里做得不好。",
-          "links": []
+          "links": [
+            {
+              "label": "Tim Ferriss 官方节目文章及视频入口",
+              "url": "https://tim.blog/2026/10/27/jacques-pepin/"
+            }
+          ]
         }
       ]
     },
@@ -372,7 +406,12 @@
           "source": "Freakonomics Radio · Ethan Mollick 专访",
           "published": "2026 年 10 月 23 日",
           "text": "Ethan Mollick 谈到 AI 时代值得培养的能力：深度知识、广度知识、审美判断和主动性。他强调这些不是 AI 无法替代的能力，而是人与 AI 合作时仍然重要的优势。",
-          "links": []
+          "links": [
+            {
+              "label": "Freakonomics Radio 官方节目页（Ethan Mollick 专访所在系列）",
+              "url": "https://freakonomics.com/podcast/whats-our-job-as-humans-anymore/"
+            }
+          ]
         },
         {
           "title": "自我成长话题｜当你陷入迷茫时，别再忙着分析自己了",
@@ -433,7 +472,12 @@
           "source": "I've Got Questions · Sinéad Bovell 专访 Yossi Matias",
           "published": "2026 年 10 月 22 日",
           "text": "Google Research 副总裁 Yossi Matias 谈到 AI 让跨专业工作更容易后，发现问题、提出正确问题和识别机会会更重要。访谈将未来优秀员工比作一家微型公司，需要兼顾产品、技术、伦理和决策等职能。",
-          "links": []
+          "links": [
+            {
+              "label": "Sinéad Bovell 官方播客节目页",
+              "url": "https://www.ivegotquestions.co/"
+            }
+          ]
         },
         {
           "title": "自我成长话题｜Anthropic 总裁：AI 替你省下的时间，别全部还给屏幕",
@@ -495,7 +539,12 @@
           "source": "Fortune · Marco Quiroz-Gutierrez；Palantir 招聘信息",
           "published": "2026 年 10 月 25 日",
           "text": "Palantir 推出面向具有自闭症、ADHD、阅读障碍等神经多样性特征人才的招聘计划，岗位年薪预计 11 万至 20 万美元。公司提及非线性思维、模式识别和高度专注等特征；受访心理学家提醒，不应将神经多样性人士一概想象成天才。",
-          "links": []
+          "links": [
+            {
+              "label": "Fortune 原创报道",
+              "url": "https://www.fortune.com/2026/10/25/palantir-ceo-alex-karp-neurodivergent-people-tech-ai-think-differently/"
+            }
+          ]
         },
         {
           "title": "其他话题｜一个反 AI 的游戏开发者，因为偷偷用了 AI，被自己的粉丝骂惨了",
@@ -631,7 +680,12 @@
           "source": "The Guardian · Xan Brooks（Taika Waititi 与 Kazuo Ishiguro 联合专访）",
           "published": "2026 年 10 月 22 日",
           "text": "《克拉拉与太阳》电影上映前，导演 Taika Waititi 与原著作者 Kazuo Ishiguro 接受联合采访。采访提到 Google DeepMind 高管曾建议将小说作为 AI 伦理参考，石黑一雄表示此前并不知道此事，并指出小说讨论人类的孤独、爱与死亡。",
-          "links": []
+          "links": [
+            {
+              "label": "The Guardian 联合专访原文",
+              "url": "https://www.theguardian.com/film/2026/oct/22/taika-waititi-kazuo-ishiguro-robot-friend-klara-and-the-sun"
+            }
+          ]
         }
       ]
     },
