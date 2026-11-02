@@ -475,28 +475,18 @@
       ],
       "xiaohongshu": [
         {
-          "title": "媒体来源｜英国四大创作者组织联名：科技公司先别忙着做慈善，把作品的钱付了",
-          "source": "The Guardian · Letters（英国四家创作者版权及集体管理机构负责人署名公开信）",
+          "title": "职场话题｜硅谷大厂开始招聘「不按常理思考的人」，年薪最高 20 万美元",
+          "source": "Fortune · Marco Quiroz-Gutierrez；Palantir 招聘信息",
           "published": "2026 年 10 月 25 日",
-          "text": "Anthropic 宣布拟将 5% 的股份用于公共利益基金后，英国四家创作者权益组织的负责人在《卫报》联名发信：科技企业若想帮助社会，应先付给被其产品利用作品的创作者报酬。信中引用行业调查称，英国视觉艺术家年收入中位数约为 1.25 万英镑，作家从写作获得的收入中位数约 7000 英镑，视听表演者从表演获得的收入中位数约 1.75 万英镑。四人还呼吁英国推出 Smart Fund，要求可用于复制、储存创意作品的设备制造商及进口商缴费，估计每年可募集最高 3 亿英镑。注意这是利益相关组织的政策倡议信，并非政府已采纳法案，收入数字也分别来自不同年份的调查。",
-          "links": [
-            {
-              "label": "《卫报》四位创作者组织负责人公开信",
-              "url": "https://www.theguardian.com/technology/2026/oct/25/tech-firms-should-pay-the-creators-whose-work-they-use"
-            }
-          ]
+          "text": "Palantir 推出面向具有自闭症、ADHD、阅读障碍等神经多样性特征人才的招聘计划，岗位年薪预计 11 万至 20 万美元。公司提及非线性思维、模式识别和高度专注等特征；受访心理学家提醒，不应将神经多样性人士一概想象成天才。",
+          "links": []
         },
         {
-          "title": "论坛来源｜你用 AI 画画，是因为喜欢画得快，还是因为不想练上几年？",
-          "source": "Reddit · r/aiwars（用户发帖及评论）",
-          "published": "2026 年 10 月 24 日",
-          "text": "一名 r/aiwars 网友发帖说，自己观察到一些支持生成式 AI 的用户强调作品品质，但真正吸引他们的也许更多是时间成本：即使能够练成很好的绘画技巧，仍有人会选生成式工具以便迅速迭代。评论里有人指出，截止日期和有限时间本来就是创作现实的一部分。发帖者自称做过一个“小调查”，但没有提供足够可核实的抽样与方法；这只是社区观点交流，不能将其概括成有关 AI 创作者动机的统计结果。",
-          "links": [
-            {
-              "label": "Reddit 原始讨论",
-              "url": "https://www.reddit.com/r/aiwars/comments/1xdybmi/an_interesting_thing_i_noticed/"
-            }
-          ]
+          "title": "其他话题｜一个反 AI 的游戏开发者，因为偷偷用了 AI，被自己的粉丝骂惨了",
+          "source": "独立游戏开发者 Paolo Pedercini 本人声明；PC Gamer",
+          "published": "2026 年 10 月 23—25 日",
+          "text": "Paolo Pedercini 制作讽刺科技资本主义和生成式 AI 的游戏《Future? No Thanks!》，但承认开发中使用少量 AI 辅助编程及部分 AI 配音。遭玩家批评后，他删除 AI 配音，改用真人模仿机器人声音，并表示愿意给不满玩家退款。",
+          "links": []
         }
       ]
     },
@@ -542,26 +532,26 @@
       ],
       "xiaohongshu": [
         {
-          "title": "媒体来源｜Anthropic 自称 AI 下属干了六倍工时，研究者却问：这些数字是怎么来的？",
-          "source": "The Guardian · Reworked（外部研究者采访）",
-          "published": "2026 年 10 月 23 日",
-          "text": "Anthropic 最近公布内部调查，称 AI 智能体工作时长已超过人类员工，员工平均花约 22% 的时间管理智能体，入门级技术岗位占比下降。英国《卫报》采访的外部研究者与劳动专家却提醒，这并非独立研究：员工感受、招聘口径、因果推断都存在不确定性，不能把初级招聘下降直接归因于 AI；疫情后过量招聘后的回调、行业形象管理也可能影响解释。与此前收录的‘AI 下属催员工开会’不同，这条重点是同一份研究受到的外部质疑和研究方法问题。",
+          "title": "职场话题｜AI 帮同事省了时间，却把工作留给了你",
+          "source": "Use.AI 原创研究；TechRadar 报道",
+          "published": "2026 年 10 月 8 日；TechRadar 10 月 19 日",
+          "text": "一项针对 8316 名职场 AI 用户的调查称，43% 受访者曾被迫返工修改同事提交的 AI 内容，39% 表示检查 AI 产出的时间甚至比自己完成任务还长；34% 曾未完整检查便转发 AI 内容。调查为受访者自述。",
           "links": [
             {
-              "label": "《卫报》对报告的外部质疑",
-              "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts"
+              "label": "Use.AI 研究新闻稿",
+              "url": "https://cooperative-agency.prowly.com/473915-ais-productivity-gains-face-a-costly-problem-with-workplace-rework"
             }
           ]
         },
         {
-          "title": "论坛来源｜法国 ChatGPT 用户怀念旧模型：新版本的机器人变得像一个不停说教的心理咨询师",
-          "source": "Reddit · r/ChatGPTcomplaints（法语原帖及跟帖）",
-          "published": "2026 年 10 月 23—24 日",
-          "text": "一位法语用户在 Reddit 抱怨，新版本 GPT-6 的长对话衔接、指令跟随和语气不如自己使用过的旧版本。他形容模型时常只理解问题表层，还带回了让他反感的‘心理咨询式’措辞。回复者表示也有相似感受，有人推测最近密集推出的新功能影响了产品体验，也有人说另一种模型配置更合自己口味。这些都是特定社区内的个人体验与未经验证的原因猜测，不应据此声称 ChatGPT 整体发生故障或所有法语用户都不满。适合作为‘AI 产品升级后，用户怀念上一任机器人’的轻量观察。",
+          "title": "其他话题｜纽约艺术高中学生集体罢课：学校明明有美术生，为什么还要用 AI 画海报？",
+          "source": "New York Daily News · Cayla Bamberger",
+          "published": "2026 年 10 月 20 日",
+          "text": "纽约 LaGuardia 艺术高中近百名学生罢课，反对学校家长协会使用 AI 制作才艺表演宣传海报。学生认为学校里有美术生可以完成设计，也有人担心导演未来会用 AI 生成音乐取代从业者。海报争议主要来自学生指控。",
           "links": [
             {
-              "label": "Reddit 法语社区原帖",
-              "url": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1xdcxow/jai_limpression_de_revivre_octobre_2025_avec/"
+              "label": "New York Daily News 原创报道",
+              "url": "https://www.nydailynews.com/2026/10/20/nyc-high-school-students-walk-out-of-class-to-demand-a-freeze-on-ai/"
             }
           ]
         }
@@ -609,32 +599,23 @@
       ],
       "xiaohongshu": [
         {
-          "title": "媒体来源｜真人讲了一年的脱口秀笑话，被 AI 网红偷走，连观众都比他多",
-          "source": "Business Insider · Lucia Moses（喜剧演员 George Brett Olson 第一人称采访）",
-          "published": "2026 年 10 月 23 日",
-          "text": "美国脱口秀演员 George Brett Olson 说，自己花一年时间在现场反复修改的一段关于“AI 抢工作，大家却怪移民”的笑话，被一个 AI 虚拟女性账号原样照搬，并做成更夸张、带性化身材的视频。朋友把视频发给他时，他一眼认出自己的衣着和表演内容。账号最初声称自己是真人，之后对他的质问不再回应，又曾道歉并删除部分视频。Instagram 负责人 Adam Mosseri 表示不准备全面禁 AI 内容，但会研究如何处理对原创内容的大量照搬。以上主要是 Olson 的采访陈述；没有独立裁决确认版权侵权。",
+          "title": "职场话题｜招聘 8 年的技术高管：编程面试没通过的人，我也会录用",
+          "source": "Reddit · r/cscareerquestions（招聘管理者亲历分享）",
+          "published": "2026 年 10 月 20 日",
+          "text": "一名自称有七八年招聘经验、现任技术高管的网友分享，自己曾录用编程面试表现不佳的候选人，因为他们能分类复杂问题、清楚解释思路并主动提问。他认为 AI 时代招聘判断标准正在变化。这是个人经验，不代表行业统一标准。",
           "links": [
             {
-              "label": "Business Insider 当事人采访",
-              "url": "https://www.businessinsider.com/comedian-ai-creator-stole-my-joke-i-blame-meta-2026-10"
+              "label": "Reddit 招聘者原帖",
+              "url": "https://www.reddit.com/r/cscareerquestions/comments/1xaf2x9/hirings_changed_a_lot_in_the_ai_era_on_the/"
             }
           ]
         },
         {
-          "title": "论坛来源｜美术馆展出一幅 AI 参与制作的作品，网友开始争论：用 AI 批判 AI 算艺术吗？",
-          "source": "Reddit · r/melbourne（原始社区讨论）；悉尼科技大学艺术评论（背景核对）",
-          "published": "Reddit 讨论近期；大学评论 2026 年 10 月 22 日",
-          "text": "澳大利亚维多利亚国家美术馆用韩国艺术家 Ayoung Kim 的《Delivery Dancer’s Arc: Inverse》影像做三年展宣传图，Reddit 上有人发现作者团队公开列出 AI 图像与视频生成人员，质疑为什么艺术馆要展出“AI 艺术”；也有人提醒，这件作品混合实拍、游戏引擎、CGI 与生成式 AI，描绘在算法监控下互相竞争的未来首尔女性骑手，本身就在讨论 AI 与劳动。有评论者将 AI 视为创作工具，另一些人坚持反对。悉尼科技大学随后撰文讨论这个悖论。原始 Reddit 帖子现已被管理员移除，但评论仍可读取；不是美术馆撤展或作品被撤销的证据。",
-          "links": [
-            {
-              "label": "Reddit 原帖（主帖已被移除，评论仍在）",
-              "url": "https://www.reddit.com/r/melbourne/comments/1x1fcjf/is_this_ai_art_at_ngv_melbourne/"
-            },
-            {
-              "label": "悉尼科技大学对争议的评论",
-              "url": "https://www.uts.edu.au/news/2026/10/could-thoughtful-ai-art-counter-the-rise-of-ai-slop"
-            }
-          ]
+          "title": "其他话题｜诺贝尔文学奖得主发现，自己的小说竟成了 AI 公司的伦理教材",
+          "source": "The Guardian · Xan Brooks（Taika Waititi 与 Kazuo Ishiguro 联合专访）",
+          "published": "2026 年 10 月 22 日",
+          "text": "《克拉拉与太阳》电影上映前，导演 Taika Waititi 与原著作者 Kazuo Ishiguro 接受联合采访。采访提到 Google DeepMind 高管曾建议将小说作为 AI 伦理参考，石黑一雄表示此前并不知道此事，并指出小说讨论人类的孤独、爱与死亡。",
+          "links": []
         }
       ]
     },
@@ -680,26 +661,30 @@
       ],
       "xiaohongshu": [
         {
-          "title": "媒体来源｜巴西泥瓦匠卖掉家当、坐了 36 小时大巴，只为见一个 AI 生成的“农场主寡妇”",
-          "source": "UOL（巴西媒体，葡萄牙语原始报道）",
-          "published": "2026 年 10 月 14 日",
-          "text": "49 岁的巴西泥瓦匠 Edimar Rocha Martins 说，他在社交平台上关注名为 Jéssica Oliveira 的女性角色多年。这个拥有超过 30 万 TikTok 粉丝的形象被包装成住在农场、丈夫已故、正在寻找伴侣的女性，视频里还承诺会照顾未来伴侣、让他过上轻松生活，同时推广商品。Martins 称自己通过 Kwai 和 Facebook 与对方互动，后来卖掉家当，从马拉尼昂州出发，坐了约 36 小时大巴、行程约 2100 公里抵达贝洛奥里藏特，才发现这个女性是 AI 生成角色。账号运营者随后发布视频，否认曾与他私下交谈，称角色是为吸引流量和销售商品而制作，并指控他的说法不实。当地政府为 Martins 提供了食物、临时住宿和返程协助。关键细节存在双方说法冲突，不能简单断言账号运营者亲自与他建立了恋爱关系；但这起事件呈现了虚拟网红商业化与真实用户情感投入之间的落差。",
+          "title": "职场话题｜老板比员工更相信 AI，甚至比相信自己还多",
+          "source": "Charter 官方研究",
+          "published": "2026 年 10 月 21 日",
+          "text": "Charter 调查 5002 名使用 AI 的办公室员工，32.8% 的高管表示更相信 AI 判断而不是自己的判断，普通员工中这一比例为 16.3%；36% 受访者曾向老板、同事或客户隐瞒使用 AI，担心被认为能力不足。数据来自受访者自述。",
           "links": [
             {
-              "label": "UOL 葡萄牙语原始报道",
-              "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/14/mulher-de-ia-nega-conversa-com-homem-que-viajou-2100-km-para-ve-la.ghtm"
+              "label": "Charter 官方研究",
+              "url": "https://www.charterworks.com/research/ai-pulse/"
             }
           ]
         },
         {
-          "title": "论坛来源｜游戏公司把疑似 AI 图放进抗癌慈善活动，玩家一问，官方秒回：GenAI 在我们社区没有位置",
-          "source": "Reddit · r/Warframe（玩家原帖及官方社区经理回应）",
-          "published": "2026 年 10 月 23 日",
-          "text": "《Warframe》玩家发现，Digital Extremes 为 Princess Margaret 癌症基金会相关活动发布的宣传内容中，出现了被玩家质疑为生成式 AI 的图片，于是在 Reddit 发帖追问。官方社区经理 DE-Ruu 在评论区回应称，对此表示抱歉，生成式 AI 在他们的社区没有位置，团队正在调查图片为何会出现在活动中，并会尽快修正。评论区随后出现了大量游戏内梗式回应。现阶段能确认的是玩家提出质疑、官方社区经理公开回应并承诺调查修正；官方论坛原活动链接暂时无法正常打开，因此图片来源与制作流程仍应以之后的官方说明为准。",
+          "title": "其他话题｜游戏公司举办 AI 创作大赛，原本规定必须使用 AI，结果又改口了",
+          "source": "Epic Games 官方公告；PC Gamer · Tyler Wilde",
+          "published": "2026 年 10 月 22 日",
+          "text": "Epic Games 宣布 AI MegaJam 游戏创作比赛，最初规则要求参赛者必须使用 AI，引发开发者不满。Epic 随后承认规则表述错误并修改说明：参赛者可以自由决定使用多少 AI，也可以完全不用。",
           "links": [
             {
-              "label": "Reddit 原帖与官方社区经理回应",
-              "url": "https://www.reddit.com/r/Warframe/comments/1wq3znz/why_is_de_using_ai_art_in_their_charity_campaign/"
+              "label": "Epic Games 活动规则",
+              "url": "https://itch.io/jam/2026-epic-ai-megajam"
+            },
+            {
+              "label": "PC Gamer 报道",
+              "url": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/"
             }
           ]
         }
@@ -763,26 +748,26 @@
       ],
       "xiaohongshu": [
         {
-          "title": "媒体来源｜最爱 AI 的 Grimes，做自己的新专辑时却坚持：这不是 AI 生成的",
-          "source": "The Guardian · Blake Montgomery（音乐评论，引用音乐人访谈及 Spotify 声明）",
-          "published": "2026 年 10 月 21 日",
-          "text": "一直拥抱 AI、甚至曾允许粉丝使用自己声音制作歌曲的 Grimes，筹备六年来首张新专辑《Psy Opera》时，强调作品是“受 AI 启发，而非由 AI 生成”，还希望外界记住 70 人团队的劳动。A$AP Rocky 同样不反对别人用 AI 写歌，但坚持自己亲手做。Kelly Clarkson 则说喜欢 AI，却主张 AI 歌手与真人歌手应分开排行。与此同时，Spotify 称过去一年将约 5000 万首低质或垃圾歌曲排除出推荐，并非全部从平台下架；非真人歌手账号需标注“AI persona”，单曲却不强制标 AI。报道属于评论分析，不能将个别歌手表态概括为全行业共识。",
+          "title": "职场话题｜谷歌面试新规：以前用 AI 算作弊，现在不会用 AI 才不合格",
+          "source": "Business Insider · Hugh Langley",
+          "published": "2026 年 10 月 20 日",
+          "text": "Google 正在调整软件工程师招聘流程。根据内部文件，部分技术面试允许候选人使用 Gemini 辅助编程，面试官考察候选人能否理解、检查和修改 AI 生成的代码。新形式仍处于试点阶段。",
           "links": [
             {
-              "label": "《卫报》音乐评论与相关采访链接",
-              "url": "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky"
+              "label": "Business Insider 原创报道",
+              "url": "https://www.businessinsider.com/google-interview-process-ai-gemini-coding-comprehension-software-engineer-2026-10"
             }
           ]
         },
         {
-          "title": "论坛来源｜网友把 AI 支持者和反对者画成一张角色阵营图，连围观派都有形象",
-          "source": "Reddit · r/aiwars（原帖、作者及社区评论）",
-          "published": "2026 年 10 月 21 日",
-          "text": "Reddit 的 AI 争论社区 r/aiwars 里，有网友发布一幅亲手绘制的“AI 立场谱系”插画，将支持、反对以及不太在意 AI 的不同态度化成角色，询问还有哪些阵营被遗漏。评论里有人喜欢中立派和反对派的造型，也有人说自己既喜欢画画，又会拿 AI 图片当学习参考，没必要只站一边；另一位则对图里的多眼睛生物表示很有共鸣。原帖是用户自制的趣味角色图，不是调查统计，也不代表所有阵营的真实比例。视觉素材可直接从原帖找，发图前应尊重作者署名与转载授权。",
+          "title": "其他话题｜美国小学生看《泰坦尼克号》：1997 年的人怎么可能不用 AI 拍电影？",
+          "source": "Reddit · r/Teachers（教师亲历分享）",
+          "published": "2026 年 10 月 20 日",
+          "text": "一位美国六年级教师称，学生观看《泰坦尼克号》冰山撞击片段时，认为画面是 AI 生成。老师解释当年使用实体布景、模型船、特效和 CGI，学生仍不相信。评论区讨论学生是否混淆 CGI 与生成式 AI。属于教师个人自述，尚无独立核实。",
           "links": [
             {
-              "label": "Reddit 原帖及角色插画",
-              "url": "https://www.reddit.com/r/aiwars/comments/1xc1y8a/the_spectrum_of_aiwars/"
+              "label": "Reddit 教师社区原帖",
+              "url": "https://www.reddit.com/r/Teachers/comments/1xb2yd3/ai_is_destroying_kids_understanding_of_what/"
             }
           ]
         }
@@ -834,26 +819,30 @@
       ],
       "xiaohongshu": [
         {
-          "title": "媒体来源｜英国填字冠军刚赢比赛，AI 在场外比他快了近 3 分钟",
-          "source": "The Guardian · Alan Evans（填字游戏专栏、研究者采访）",
-          "published": "2026 年 10 月 20 日",
-          "text": "在英国《泰晤士报》年度隐晦填字游戏比赛中，29 岁的 Liam Hughes 成为最年轻的人类冠军。但美国得克萨斯大学研究者 Sid Chatterjee 开发的解题系统 Darmok，完成决赛题目的速度比冠军还快约 3 分钟。去年 Darmok 曾在决赛题上耗费 18 分钟后放弃，今年却能破解难倒多位顶尖选手的视觉双关谜题。系统融合数种大模型；研发者表示，下一步让 AI 自己出一道高质量的谜题，反而更难。Darmok 并非官方参赛选手，成绩是场外比较。",
+          "title": "职场话题｜AI 把活儿都干了，为什么员工反而多开了 20% 的会？",
+          "source": "Anthropic 官方研究；《华盛顿邮报》Shira Ovide",
+          "published": "2026 年 10 月 16—20 日",
+          "text": "Anthropic 分析内部员工工作记录、会议日历和访谈，发现 AI 智能体承担更多任务后，员工会议时间比一年前增加约 20%。部分员工的工作从执行任务变成管理 Claude 智能体。研究也提到招聘经理更看重候选人的自主判断能力。会议增加同时受到公司扩张和岗位结构变化影响。",
           "links": [
             {
-              "label": "《卫报》填字专栏原文",
-              "url": "https://www.theguardian.com/puzzles/crossword-blog/2026/oct/20/could-this-be-a-deep-blue-moment-for-the-cryptic-crossword"
+              "label": "Anthropic 官方研究",
+              "url": "https://www.anthropic.com/research/employment-at-anthropic"
+            },
+            {
+              "label": "《华盛顿邮报》报道",
+              "url": "https://www.washingtonpost.com/technology/2026/10/19/more-meetings-nagging-bots-what-it-like-work-an-ai-company/"
             }
           ]
         },
         {
-          "title": "论坛来源｜以为与 AI 的旧聊天全部消失了，最后发现只是被归档",
-          "source": "Reddit · r/CharacterAI（用户发帖与社区答疑）",
-          "published": "2026 年 10 月 19—20 日",
-          "text": "一名 Character.AI 用户找回了去年的账号，却发现旧聊天似乎全没了，于是在 Reddit 发帖难过地求助。评论区用户提醒去检查“归档聊天”，因为较旧的对话会被自动归档。发帖者最初只找到一段，随后按提示恢复了其他历史聊天，并抱怨新版网页太难找。还有人表示，看到这种“聊天消失”的标题会想起近期平台关停传闻而紧张。这是一则社区里的误会与找回经历，不能当作平台真的删除了全部聊天记录的证据。",
+          "title": "其他话题｜《Vogue》开始教时尚圈：如何避免被 AI 用坏脑子？",
+          "source": "Vogue Business · Amy O’Brien",
+          "published": "2026 年 10 月 20 日",
+          "text": "时尚行业使用 AI 制作情绪板、设计草图和广告提案，一些设计师担心年轻设计师的审美训练被削弱。Giorgia Lupi 分享周末画画、缝制纸样等不展示、不发表的个人练习。文章建议先形成自己的想法，再使用 AI；也可以让 AI 反驳观点，而不是直接提供答案。",
           "links": [
             {
-              "label": "Reddit 社区原帖",
-              "url": "https://www.reddit.com/r/CharacterAI/comments/1x9jmtj/well_its_gone/"
+              "label": "Vogue Business 原文",
+              "url": "https://www.vogue.com/article/how-fashion-creatives-can-avoid-ai-brain-rot"
             }
           ]
         }
