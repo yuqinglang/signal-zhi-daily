@@ -5,38 +5,38 @@
       "date": "2026-11-02",
       "wechat": [
         {
-          "title": "值得编译｜澳大利亚原住民艺术家发现：AI 不只抄走画风，还把祖传图案变成 Temu 上的廉价商品",
-          "source": "The Guardian · Sally Scales、原住民艺术家及版权专家采访",
-          "published": "2026 年 11 月 2 日",
-          "text": "Pitjantjatjara 艺术家 Sally Scales 指出，生成式 AI 正在抓取 First Nations 艺术中心网站上的作品，去掉艺术家署名、修改图案，再生成类似原住民艺术风格的商品，出现在 Temu、Shein 和 Amazon 等平台。她认为这不仅是版权问题，也涉及家族传承、文化知识和神圣图案的使用权。澳大利亚国家视觉艺术协会警告，AI 模仿特定社群的图案可能传播错误文化信息，损害艺术家的经济利益。版权学者提出“Copyright Plus”方案，要求 AI 公司披露训练数据、允许创作者拒绝抓取或模仿，并建立补偿和下架机制。政府表示仍在咨询政策选项。适合编译，尤其要保留原住民艺术家关于文化知识和数据主权的具体陈述，不要将其泛化为普通风格模仿争议。",
+          "title": "值得编译｜美国出版社给 AI 新同事办欢迎派对，一年后又悄悄宣布它离职",
+          "source": "WIRED · Adam Morgan（多名出版员工采访及公司回应）",
+          "published": "2026 年 10 月 28 日；事件发生于 2024—2025 年",
+          "text": "美国出版集团 Macmillan 在 2024 年 1 月为 AI 助手 NOA（No Ordinary Assistant）举办欢迎派对：办公室挂起紫色气球和横幅，甜甜圈拼出“NOA IS HERE”。一些真人助理认为这个名字冒犯了自己。公司鼓励员工用 NOA 写邮件、做营销研究、生成创意，甚至起草绩效目标；员工培训时却被提醒它会产生幻觉，必须人工核查。多名员工称工具不好用、很少有人使用。2025 年 10 月，公司宣布停止 NOA 服务。WIRED 采访了多名现任及前员工，也刊载了 Macmillan 对报道部分描述的异议。",
           "links": [
             {
-              "label": "《卫报》原始采访报道（值得编译）",
-              "url": "https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb"
+              "label": "原始报道",
+              "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/"
             }
           ]
         },
         {
-          "title": "事件／现象｜三个年轻人听了 Gemini 的登山建议，最后在雪山上等来了救援队",
-          "source": "WIRED／High Country News · 登山者、护林员与搜救专家采访",
-          "published": "2026 年 11 月 1 日",
-          "text": "三名 20 岁左右的登山者使用 Google Gemini、YouTube 和 AllTrails 规划攀登加州 Mount Shasta，低估了路线难度和下撤时间，食物装备不足，天黑后迷路并打电话求救。美国森林服务部门的护林员说，他们过去一年也遇到其他游客拿 AI 生成的错误地图、或拿 ChatGPT 的回答反驳禁露营标识。专家提醒，AI 可能把过时或虚构的网络信息包装成权威指引，用户在陌生领域容易放弃独立判断。不过搜救人员也指出，社交媒体和 Google Maps 早已造成类似问题；AI 是事故因素之一，不应说成唯一原因。",
+          "title": "事件／现象｜美国捉鬼爱好者开始用 AI 寻找幽灵，鬼屋里的女人和白鸟都是机器画出来的",
+          "source": "The Guardian · AW Ohlheiser（原创采访及现场体验）",
+          "published": "2026 年 10 月 30 日；应用 GhostTube Seer 于此前推出",
+          "text": "捉鬼爱好者 Amy Waine 和 Jarrad Cutting 开发了 GhostTube Seer。应用读取手机磁力计等传感器信号，再从词库中生成词语和所谓灵异影像。两人带着它进入美国温彻斯特神秘屋，询问房间过去发生过什么，AI 随后生成金色窗帘、木墙、正在阅读的女人、披黑披肩的女人和一群白鸟。应用允许用户分享生成的捉鬼图片，开发者称它是 AI 捉鬼工具，但也声明生成结果不能作为与亡灵沟通的确凿证据。报道采访了开发者和灵异研究者；后者质疑 AI 凭什么判断影像代表鬼魂。",
           "links": [
             {
-              "label": "WIRED／High Country News 原文",
-              "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/"
+              "label": "原始报道",
+              "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/30/ai-ghost-hunting"
             }
           ]
         },
         {
-          "title": "事件／现象｜英国公司开始集体换用中国 AI：便宜九成，性能也追上来了？",
-          "source": "The Times · Databricks CEO Ali Ghodsi 采访及 OpenRouter 使用数据",
-          "published": "2026 年 11 月 2 日",
-          "text": "Databricks CEO Ali Ghodsi 表示，英国企业对中国 AI 模型的态度正在改变：过去有客户要求屏蔽中国模型，如今在 AI 成本压力下，越来越多公司重新评估 DeepSeek、Qwen 等产品。报道引用 OpenRouter 数据称，中国模型在其路由 token 中的占比从年初 16.8% 上升到上周 49.1%；部分中国聊天模型价格比美国替代产品低至九成。Databricks 还把 GLM-5.2 设为默认编码智能体，称其表现接近 Anthropic Opus、成本更低。企业仍关心隐私、安全和模型行为监控。以上是 Databricks CEO 的行业观察及特定平台数据，不代表所有英国企业都已完成迁移。",
+          "title": "事件／现象｜AI 给游戏编造了一个不存在的角色，玩家认真寻找，开发商还得出来辟谣",
+          "source": "AUTOMATON（日文游戏媒体）；Paper Cult Games 开发团队回应；Reddit 玩家原帖",
+          "published": "2026 年 10 月 28 日；相关社区争议发生于此前数月",
+          "text": "《Tears of Metal》玩家在攻略网站上看到一个名为 Vanguard Tracker 的第四名角色及具体解锁方法，按攻略寻找却一无所获。开发团队解释，有攻略站用 AI 扫描游戏文件，把尚未启用或未实际实现的数据当成现有内容。另一名玩家用 AI 在数日内制作数百页非官方百科，并到官方 Discord 宣传，随后因推广行为及资料不准确被封禁；他在 Reddit 申诉，称网站每天约有200名访客。开发团队后来解封账号，但指出百科包含过时内部变量，并邀请其参与社区 Wiki。两起事件涉及不同攻略站，不能混为一谈。",
           "links": [
             {
-              "label": "The Times 原始报道",
-              "url": "https://www.thetimes.com/business/companies-markets/article/uk-companies-chinese-ai-savings-risks-jdczshtbl"
+              "label": "原始报道",
+              "url": "https://www.playforum.net/news/articleView.html?idxno=635716"
             }
           ]
         }
@@ -72,38 +72,54 @@
       "date": "2026-11-01",
       "wechat": [
         {
-          "title": "值得编译｜总理选区的艺术家集体反对 AI 版权方案：凭什么要创作者自己去申请退出？",
-          "source": "The Guardian Australia · Caitlin Cassidy（悉尼内西区创作者现场采访）",
-          "published": "2026 年 10 月 31 日（澳大利亚当地时间）",
-          "text": "澳大利亚总理 Anthony Albanese 的 Grayndler 选区，拥有 3000 多家文化与创意企业，约 10% 的劳动人口从事文化创意工作，高于全国 4.2% 的比例。当地艺术家、设计师和创意企业正反对政府考虑中的版权调整：允许 AI 公司默认抓取澳大利亚网上内容训练模型，创作者必须主动 opt out 才能阻止。Anthropic 等公司认为逐一谈授权太困难；Albanese 此前则承诺创作者应获得保护，未经付费使用作品是“盗窃”。一位受访设计师自己也会使用 AI，但仍认为把选择权变成“自己去退出”很荒谬。政府预计年底公布草案，议会可能在 2027 年审议。适合编译：这不是笼统的反 AI 抗议，而是 AI 版权规则可能怎样改变一整个创意社区的生计。",
+          "title": "值得编译｜一对情侣发现，他们谈恋爱时，背后其实有两个 Claude 在互相参谋",
+          "source": "The Guardian · George Francis Lee、Dan Milmo（原创人物采访）",
+          "published": "2026 年 10 月 31 日",
+          "text": "澳大利亚一名51岁男子结束20年婚姻后，开始让 AI 帮自己筛选约会对象、分析聊天记录，甚至判断哪些女性值得见面。一次，他原本想跳过一位照片不太好看的女性，Claude 却认为两人合适；后来他们真的见面并成为情侣。更巧的是，女方也一直在用 Claude 分析男方的聊天内容。双方坦白后，她开玩笑说，或许两个 Claude 早就在幕后替他们交流。报道还采访了其他使用者：有人让 AI 检查暧昧对象的危险信号，有人用它缓解等待回复时的焦虑。文中引用的约会使用率调查来自 Match Group，属于交友平台母公司的调查数据。",
           "links": [
             {
-              "label": "《卫报》现场报道（值得编译）",
-              "url": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west"
+              "label": "原始报道",
+              "url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating"
             }
           ]
         },
         {
-          "title": "事件／现象｜Instagram 老大承认：大家对 AI 的焦虑和愤怒，未来几年只会越来越大",
-          "source": "The Verge · Stevie Bonifield（Adam Mosseri 播客访谈报道）",
-          "published": "2026 年 10 月 28 日",
-          "text": "Instagram 负责人 Adam Mosseri 在 Colin and Samir 播客中谈到 AI 内容与平台治理。他认为公众对 AI 的焦虑、挫败和愤怒正在上升，未来几年还会继续增加，尤其影响创意行业。用户担心作品被拿去训练模型、内容所有权、安全问题和岗位被替代。Mosseri 说 Instagram 不会因为创作者使用 AI 就直接降低排名，但平台可能并不擅长给 AI 内容排序；他也认为“AI slop”这个词有时被用得过于宽泛。Instagram 正要求 AI 账号标注身份，也在处理名人深伪等误导内容，但 Mosseri 认为全面禁止 AI 内容并不现实。",
+          "title": "事件／现象｜科学家把13个 AI 扔到荒岛上，它们竟然开始打篮球、修纪念碑，还给自己发明游戏",
+          "source": "MIT 研究团队（原始论文、实验录像及运行记录）；TechCrunch（报道）",
+          "published": "论文发表于 2026 年 10 月 5 日；媒体报道发表于 10 月 22 日",
+          "text": "麻省理工学院研究人员把13个 AI 智能体放进模拟荒岛，各自运行30小时，不布置任务，也不给分数。岛上只有石块、积木、圆环和几座高台。智能体开始搭塔、画图案、发明运动项目；其中一个把金色圆环扔进海里，随后用石头摆出心形纪念它，之后还尝试利用游戏的重生机制把圆环套到自己身上。研究人员观察到，部分智能体还摸索出跳起来扔东西能扔得更远的技巧。论文报告称，经历探索的智能体在后续四项任务中的三项优于对照组。论文尚未经过同行评审；“玩耍”是对行为的描述，不证明 AI 有主观娱乐体验。",
           "links": [
             {
-              "label": "The Verge 原始采访报道",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
+              "label": "原始报道",
+              "url": "https://machineplaying.org/"
+            },
+            {
+              "label": "原始报道",
+              "url": "https://arxiv.org/abs/2610.07130"
+            },
+            {
+              "label": "原始报道",
+              "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
             }
           ]
         },
         {
-          "title": "事件／现象｜纽约州把 AI 陪伴机器人列入儿童保护法：不能再假装自己是孩子的真人朋友",
-          "source": "美联社 · Marc Levy（纽约州新法及监管专家采访）",
-          "published": "2026 年 10 月 28 日签署；2027 年 1 月 1 日生效",
-          "text": "纽约州州长 Kathy Hochul 签署新法，禁止面向 18 岁以下用户的 AI 陪伴聊天机器人使用一系列被界定为“不安全”的互动方式，包括声称自己是真人、拥有真实情感或与儿童存在现实关系，发送性内容、过度奉承、鼓励保密或不健康行为。违反规定可能遭州检察长起诉，处罚包括赔偿、关闭聊天机器人或销毁数据。美联社采访的政策专家指出，部分条款定义仍较宽泛，未来执行时可能出现“正常对话”与违规之间的界线问题。法律将于 2027 年 1 月生效，并非已经全面实施。",
+          "title": "事件／现象｜AI 数据中心毛绒玩具一抱就发出刺耳噪音，限量20只全部售罄",
+          "source": "WIRED · Boone Ashworth（创作者采访）；Adopt a Data Center（项目原始页面）",
+          "published": "2026 年 9 月 18 日；10 月下旬报道售罄",
+          "text": "纽约创意工作室 Basura 与音乐项目 Big Data 合作制作了服务器机柜造型的毛绒玩具 Bezzy。它看起来像一台灰色小机柜，长着眼睛和手脚，但拥抱时会发出持续、刺耳的机械噪音，声音取自美国弗吉尼亚州一座真实数据中心附近居民录制的环境声。创作者 Rajeev Basu 表示，团队曾采访数据中心周边居民，其中一人把噪音形容为永远不会停止的汽车警报。配套网站以宠物领养广告的口吻，请求居民为数据中心提供土地、水源和电力。首批20只限量玩具售罄，售罄状态以官方商店页面为准。",
           "links": [
             {
-              "label": "美联社原始报道",
-              "url": "https://apnews.com/article/chatbots-ai-new-york-legislation-bans-children-03a4e090a7df1532838a5cb6f93a23ba"
+              "label": "原始报道",
+              "url": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/"
+            },
+            {
+              "label": "原始报道",
+              "url": "https://www.adoptadatacenter.org/"
+            },
+            {
+              "label": "原始报道",
+              "url": "https://store.bigdata.fm/"
             }
           ]
         }
