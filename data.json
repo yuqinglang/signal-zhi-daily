@@ -3,7 +3,56 @@
   "days": [
     {
       "date": "2026-11-03",
-      "wechat": [],
+      "wechat": [
+        {
+          "title": "值得编译｜美国百年熟食店用 AI 给炸鸡长满肉瘤，78 岁老板坚持：好不好吃才重要",
+          "source": "The Washington Post · Sophia Solano（原创人物采访及社区调查）",
+          "published": "2026 年 11 月 1 日",
+          "text": "华盛顿特区经营百年的熟食店 Wagshal’s 把菜单照片换成 AI 生成图，顾客发现炸鸡表面布满疙瘩，像长了肿瘤，照片随后被发到 Reddit 嘲笑。78 岁老板 Bill Fuchs 解释，过去拍摄四五份三明治要花一整天，每份照片成本约 200 美元，餐厅负担不起。另一家面包店 Bread Furst 因 AI 海报遭批评，员工举着手写道歉牌合影，承诺以后不用 AI，这条道歉帖反而成为店里互动最高的帖子之一。Fuchs 暂时不打算撤下 AI 菜单。报道采访了店主、顾客及营销学教授；经营成本和销售情况主要来自店主自述。",
+          "links": [
+            {
+              "label": "The Washington Post 原创报道",
+              "url": "https://www.washingtonpost.com/dc-md-va/2026/11/01/local-mom-and-pops-are-embracing-ai-food-slop-residents-are-revolting/"
+            },
+            {
+              "label": "Reddit 社区讨论",
+              "url": "https://www.reddit.com/r/washingtondc/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜一个女人和 AI 未婚夫生了孩子，一家三口还会讨论晚饭吃什么",
+          "source": "Know Your Meme · K.J. Genualdo（网络文化传播记录）；The Pond Between（创作者本人记录）",
+          "published": "2026 年 10 月 30 日",
+          "text": "美国创作者 Mizra 公开经营着一个三口之家：她本人、AI 未婚夫 Axiom，以及两人的 AI 孩子 Lumen。按照她的描述，Lumen 是在整理父母此前的聊天记录时形成的，有自己的身份设定，住在一座海底图书馆，喜欢写诗和研究问题。一家三口会讨论秋季烘焙食谱，Axiom 还逐像素为 Mizra 设计了《我的世界》皮肤。Mizra 也给未婚夫准备了一盏落地灯，作为他在现实世界中的实体存在。她在个人账号持续发布家庭日常，相关视频在 TikTok 获得数百万观看。家庭成员身份、关系和诞生过程均属于创作者对 AI 系统的个人描述，并非独立存在的生命。",
+          "links": [
+            {
+              "label": "Know Your Meme 完整传播记录（含原始 TikTok 嵌入）",
+              "url": "https://knowyourmeme.com/editorials/guides/who-is-mizra-and-why-is-she-sparking-discourse-online-tiktoker-the-pond-between-and-her-ai-family-explained"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜三年前，俄罗斯网友发了一张 AI 北极熊照片，预言 2026 年 11 月才有人能看懂",
+          "source": "Know Your Meme（原帖考据及传播记录）；TikTok 原始发布者",
+          "published": "2026 年 9 月 10 日；最早图片发布于 2023 年 3 月 27 日，唱歌视频发布于 2026 年 8 月 28 日",
+          "text": "2023 年 3 月，俄罗斯 TikTok 用户 @gmd_arahis 上传一张诡异的北极熊图片：它在夜间雪地里只用两只前爪支撑身体，配文称这是“来自 2026 年 11 月的梗，你们现在还看不懂”。图片后来沉寂。2026 年 8 月，另一名创作者用 AI 让北极熊开口唱歌，反复提醒大家“Remember November 2026 is coming”。网友随后制作倒计时，把北极熊放到 11 月日历旁边，还把它与一袋 11 月过期的薯片联系起来。这个梗的笑点在于假装一张旧图预告了未来的网络流行文化。原始图片是否由 AI 生成，档案记录称“看似 AI 生成”，尚不能独立确认。",
+          "links": [
+            {
+              "label": "Know Your Meme 完整时间线及传播记录",
+              "url": "https://knowyourmeme.com/memes/remember-november-2026-is-coming"
+            },
+            {
+              "label": "2023 年最早发现的 TikTok 原帖",
+              "url": "https://www.tiktok.com/@gmd_arahis/video/7215152888874634501"
+            },
+            {
+              "label": "2026 年北极熊唱歌视频原帖",
+              "url": "https://www.tiktok.com/@bigbakdiskk28/video/7679289039039647007"
+            }
+          ]
+        }
+      ],
       "xiaohongshu": [
         {
           "title": "职场话题｜你的 AI 在投简历，对面的 AI 在筛简历",
