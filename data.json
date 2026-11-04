@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-03",
+  "updated_at": "2026-11-04",
   "days": [
+    {
+      "date": "2026-11-04",
+      "wechat": [],
+      "xiaohongshu": [
+        {
+          "title": "职场话题｜AI 让你工作更快了，但你的工作也可能变得更无聊",
+          "source": "Financial Times · FT Weekend Festival · Sarah O’Connor 访谈",
+          "published": "2026 年 10 月",
+          "text": "《金融时报》记者 Sarah O’Connor 在访谈中介绍 AI 对劳动者工作的影响。一位捷克字幕翻译员在 AI 引入后，从翻译影视作品转为修改机器翻译，雇主要求其以两倍速度完成工作，报酬却减少一半。她还介绍瑞典矿工的案例：自动驾驶车辆减少危险作业，工会与管理层协商帮助工人保留隐私保障和工资待遇。访谈讨论 AI 提高效率后，员工是否还能决定自己的工作方式。",
+          "links": [
+            {
+              "label": "Financial Times 原始访谈文字稿",
+              "url": "https://www.ft.com/content/ef3cc5f6-4d2b-4204-a8de-485754cd3557"
+            }
+          ]
+        },
+        {
+          "title": "自我成长话题｜一个心理学家发现：你未来从事的工作，现在可能根本不存在",
+          "source": "The Deeply Human Design Podcast · 第 20 期 · Stuart Booth 专访",
+          "published": "2026 年 9 月 11 日",
+          "text": "心理学家 Stuart Booth 回顾自己的职业路径：从利物浦成长，攻读人机交互博士，在意大利研究增强现实，之后在 Expedia 从事研究与设计管理，再转向政府数字化转型。他提到，自己离开学校时，后来从事过的工作甚至还不存在。访谈讨论职业不确定性、跨行业转型、社会流动与韧性，以及人们容易高估未来两年的变化、低估未来五到十年的变化。",
+          "links": [
+            {
+              "label": "播客单集原始链接（48 分钟）",
+              "url": "https://podscan.fm/podcasts/the-deeply-human-design-podcast/episodes/20-you-cant-out-think-uncertainty-resilience-in-the-age-of-ai-stuart-booth"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-03",
       "wechat": [
