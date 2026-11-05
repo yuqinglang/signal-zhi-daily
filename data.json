@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-04",
+  "updated_at": "2026-11-05",
   "days": [
+    {
+      "date": "2026-11-05",
+      "wechat": [
+        {
+          "title": "值得编译｜富豪开始雇佣 Z 世代年轻人，专门管理 AI 对自己的评价",
+          "source": "Business Insider · Joshua Nelken-Zitser（原创采访及记者亲身实验）",
+          "published": "2026 年 11 月 3 日",
+          "text": "美国公关公司 Nexus Multimedia 的老板 Div Churiwal 雇佣约24名 Z 世代员工，帮助富豪管理 AI 搜索中的个人形象。他们会在 Reddit 参与讨论、回应负面帖子并发布内容，希望影响聊天机器人如何介绍客户。伦敦公关公司也聘用年轻员工审查大语言模型对客户的描述。记者亲自体验声誉管理服务：公司让五款 AI 为他打分，初始得到 B+；随后替他建立个人网站、发布资料，七周后评分升至 A-，新网站成为 AI 经常引用的信息源。部分客户每年支付至少 2.5 万美元。报道采访多家公关公司、客户及学者；学者指出，目前没有可靠证据证明大量发布内容就能稳定操纵 AI 回答。",
+          "links": [
+            {
+              "label": "Business Insider 原创报道（Yahoo Finance 页面可读全文）",
+              "url": "https://finance.yahoo.com/technology/ai/articles/gen-zers-call-chatbots-talking-100502252.html"
+            },
+            {
+              "label": "AOL 同步全文",
+              "url": "https://www.aol.com/articles/gen-zers-call-chatbots-talking-100502000.html"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜美国老人用 Claude 制定计划，成功与50年前的大学室友——现任教皇见面",
+          "source": "Times Union · Paul Grondahl（地方媒体原创人物采访）",
+          "published": "2026 年 11 月 4 日；见面发生于 2026 年 10 月 31 日",
+          "text": "72岁的美国男子 Michael Tucker 大学期间担任宿舍助理，当时一名叫 Robert Prevost 的修生住在同一栋宿舍。近50年后，Prevost 成为教皇良十四世。Tucker 得知教皇将在梵蒂冈接见母校校友，便向 Claude 请教如何在人群中获得见面机会。Claude 建议他提前排队、站在舞台附近通道旁，并制作一张醒目标语。Tucker 照做，在纸上印出母校标志和“1977年我是你的宿舍助理”。教皇走下舞台时注意到标语，认出了当年宿舍 St. Mary’s Hall，并与 Tucker 夫妇合影。报道采访了 Tucker 夫妇；Claude 的具体建议及现场经过主要来自当事人讲述。",
+          "links": [
+            {
+              "label": "Times Union 原创报道",
+              "url": "https://www.timesunion.com/news/article/use-ai-chatbot-claude-meet-pope-leo-xiv-22506541.php"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜美国特殊教育学校请来 AI 小女孩，让孩子们反过来教机器人生活常识",
+          "source": "The Columbus Dispatch · Kelly Tucker（地方媒体原创报道）；AOL（全文转载）",
+          "published": "2026 年 10 月 11 日；项目于 2026 年 9 月 15 日亮相",
+          "text": "美国俄亥俄州 LifeTown Columbus 是一座约465平方米的模拟小镇，设有图书馆、医院、美容院和剧院，供有特殊教育需求的儿童练习生活技能。小镇引入名为 Mia 的 AI 全息女孩：她穿红色披风，能与孩子交谈，特别之处是让孩子反过来教她如何做出正确选择、帮助朋友和应对困难。项目负责人希望孩子通过担任“老师”增强自信。Mia 所属的 Super Buddy 技术被命名为 Benify AI，以纪念一名于2023年去世的当地青年。报道记录了发布仪式和现场演示，但没有提供长期教学效果数据。",
+          "links": [
+            {
+              "label": "AOL 全文转载（署名 The Columbus Dispatch）",
+              "url": "https://www.aol.com/articles/meet-mia-ai-hologram-teaching-090211000.html"
+            },
+            {
+              "label": "The Columbus Dispatch 原始报道检索页",
+              "url": "https://www.dispatch.com/story/news/local/2026/10/11/meet-mia-the-ai-hologram-teaching-confidence-at-lifetown-columbus/"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": []
+    },
     {
       "date": "2026-11-04",
       "wechat": [
