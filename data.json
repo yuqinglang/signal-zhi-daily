@@ -49,7 +49,32 @@
           ]
         }
       ],
-      "xiaohongshu": []
+      "xiaohongshu": [
+        {
+          "title": "职场话题｜AI 时代，产品经理和设计师的职业边界正在消失",
+          "source": "This Moment We're In 播客 · Greg Petroff 专访",
+          "published": "2026 年 5 月 8 日",
+          "text": "设计与创新管理者 Greg Petroff 分享两个产品团队引入 AI 的案例：一个团队利用 AI 加速原有产品开发流程，另一个团队则改变探索创意、协作和决策的方式。他提出从 thinking to make 转向 making to think：通过快速制作原型帮助思考。访谈还讨论设计、产品和工程之间的职责边界变化，以及 AI 加快执行速度后人的判断力为何仍然重要。",
+          "links": [
+            {
+              "label": "播客单集原始链接",
+              "url": "https://podfollow.com/this-moment-we-re-in/episode/839df015645900d67f9c0ea9387006ee0def171c/view"
+            }
+          ]
+        },
+        {
+          "title": "自我成长话题｜不要把你正在努力培养的思考能力外包给 AI",
+          "source": "Unpacking Education 播客 · Shelly Muñoz 专访",
+          "published": "2026 年 9 月 16 日",
+          "text": "教育工作者、STEM 课程协调员 Shelly Muñoz 在访谈中介绍认知韧性（Cognitive Resilience）框架。她认为学习中的困难和反复尝试本身有助于建立理解能力。她区分让 AI 直接替自己完成思考，与让 AI 提出反对意见、测试推理、提供不同视角两种用法，并介绍从好奇探索到理解、整合、创新与智慧的学习过程。",
+          "links": [
+            {
+              "label": "播客单集原始链接（约 40 分钟）",
+              "url": "https://zeno.fm/podcast/unpacking-education-tech-talk-for-teachers/episodes/cognitive-resilience-with-shelly-munoz/"
+            }
+          ]
+        }
+      ]
     },
     {
       "date": "2026-11-04",
