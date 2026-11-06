@@ -49,7 +49,32 @@
           ]
         }
       ],
-      "xiaohongshu": []
+      "xiaohongshu": [
+        {
+          "title": "职场话题｜以后工作效率太高，可能还得瞒着老板",
+          "source": "Recruiting Future 播客 · 第 834 期 · Vic Akosile 专访",
+          "published": "2026 年 10 月 30 日",
+          "text": "Cloudflare AI 转型与人才战略负责人 Vic Akosile 在访谈中提出六项关于 2027 年职场的预测。其中一项是：员工使用 AI 提高效率后，可能反而选择隐瞒 AI 使用情况。他还预测，企业衡量 AI 价值将不再只看节省时间和降低成本；招聘会更多采用现场任务和实际工作样本，考察候选人的判断能力。以上是嘉宾预测，不是已经验证的普遍现象。",
+          "links": [
+            {
+              "label": "Recruiting Future 官方播客第 834 期",
+              "url": "https://recruitingfuture.com/2026/10/834-the-future-of-work-2027-with-vic-akosile/"
+            }
+          ]
+        },
+        {
+          "title": "自我成长话题｜一个心理学家发现：坚持一件事，快乐可能比自律更重要",
+          "source": "The Guardian · David Robson",
+          "published": "2026 年 1 月 11 日",
+          "text": "文章介绍一项追踪约 2000 人新年目标的研究。研究者发现，执行过程是否有趣、令人愉快，比目标的重要性或未来收益更能预测一个人能否坚持。文章还介绍行为科学家 Katy Milkman 提出的「诱惑捆绑」（Temptation Bundling）：把不太喜欢但有益的活动与喜欢的事情结合，例如运动时听有声书，或去喜欢的咖啡馆学习。",
+          "links": [
+            {
+              "label": "The Guardian 原文",
+              "url": "https://www.theguardian.com/lifeandstyle/2026/jan/11/why-pleasure-is-the-key-to-self-improvement"
+            }
+          ]
+        }
+      ]
     },
     {
       "date": "2026-11-05",
