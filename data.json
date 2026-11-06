@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-05",
+  "updated_at": "2026-11-06",
   "days": [
+    {
+      "date": "2026-11-06",
+      "wechat": [
+        {
+          "title": "值得编译｜在旧金山，叫 Claude 的真人开始被怀疑是机器人",
+          "source": "San Francisco Chronicle · Lucy Hodgman（原创人物采访）",
+          "published": "2026 年 7 月 18 日",
+          "text": "68岁的旧金山律师 Claude Wyle 第一次在广告牌上看到自己的名字与聊天机器人联系在一起。小时候，他因名字罕见被同学取笑；如今给陌生人打电话，对方有时会问他究竟是真人还是机器人。旧金山还有一只著名的白化短吻鳄也叫 Claude，鳄鱼去世后，Wyle 的妻子甚至收到过朋友误发的慰问。他本人每天会使用 Claude，还曾把 AI 整理的钓鱼旅行资料发给朋友，署名“From Claude to Claude”。报道还采访了其他同名者：一位伯克利教授因为咖啡师总拼错名字，干脆点咖啡时自称 Sam；一位 Google 员工则更喜欢 Gemini。文章包含多名当事人采访和姓名统计。",
+          "links": [
+            {
+              "label": "San Francisco Chronicle 原创报道",
+              "url": "https://www.sfchronicle.com/sf/article/claude-name-chatbot-san-francisco-22338061.php"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜MIT 学生把 12 只 Labubu 的脑袋缝成一个球，让它在地上追着人跑",
+          "source": "MIT Media Lab（研究团队原始项目、视频及报告）；项目 GitHub",
+          "published": "2026 年 5 月 6 日",
+          "text": "麻省理工学院研究生 Miranda Lin Li 与合作者制作了一只由 12 颗 Labubu 脑袋组成的球形机器人。团队把玩偶头部重新组合成没有明显正反面的球体，让它滚动、转向并跟随人移动。项目名为 Labububot，团队将它描述为对社交机器人的一种幽默批评：如果未来日常生活里充满机器人，人们会如何理解这些既不像人也不像动物的机械生物？研究团队在深圳研究驻留期间完成项目，公开了制作过程、运行视频、代码和提交给国际社会机器人会议挑战赛的报告。它是实验性社交机器人原型，现有资料展示的是移动与跟随等行为，并不证明它具备复杂的自主社交能力；项目也不应被误写成具备生成式 AI 能力的机器人。",
+          "links": [
+            {
+              "label": "MIT Media Lab 项目页面（视频及报告）",
+              "url": "https://www.media.mit.edu/projects/labububot/overview/"
+            },
+            {
+              "label": "创作者 GitHub（制作过程及运行视频）",
+              "url": "https://github.com/mirandali707/labububot"
+            },
+            {
+              "label": "MIT 项目介绍视频",
+              "url": "https://www.media.mit.edu/videos/pr-labububot-2026-05-06/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜浙江机器人交警开始在路口抓不戴头盔的人，还兼职给游客指路",
+          "source": "新华社 · 魏一骏、顾小立（现场报道及交警采访）",
+          "published": "2026 年 11 月 4 日",
+          "text": "浙江桐乡濮院镇路口出现一名身高约 1.8 米、戴黑色警帽、穿反光背心的机器人交警“桐桐”。它去年已亮相，今年升级后底盘万向轮从 3 个增加到 4 个，能自主规划路线、动态避障并进行流动巡查，胸前新增交互屏，在岗最长可超过 8 小时。它可与红绿灯信号系统联动，识别非机动车越线、骑手未戴头盔等行为，并鸣哨、做出“退回”手势；游客询问乌镇景区路线或濮院古镇景点时，它也能语音回答。当地交警称，以往一个路口通常需要 2 至 3 名警力，如今可由机器人与一名民警搭档。人员配置和实际执法效果来自当地警方介绍，尚无独立评估。",
+          "links": [
+            {
+              "label": "新华网原始报道",
+              "url": "https://www.xinhuanet.com/20261104/4caed1470e534df3b879d1d67f267815/c.html"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": []
+    },
     {
       "date": "2026-11-05",
       "wechat": [
