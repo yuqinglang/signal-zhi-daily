@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-06",
+  "updated_at": "2026-11-07",
   "days": [
+    {
+      "date": "2026-11-07",
+      "wechat": [
+        {
+          "title": "值得编译｜硅谷年轻人把恋爱外包给 AI，连约会成功率都开始用商业指标计算",
+          "source": "The Verge · Helen Li（原创人物采访及实地观察）",
+          "published": "2026 年 11 月 6 日",
+          "text": "记者在旧金山走访派对、共享办公空间和线下相亲活动，采访到创业者 Joseph。他让一名菲律宾真人虚拟助理管理自己的 Hinge 账号，并借助 AI 模仿他的说话方式、筛选资料、发送个性化消息、判断是否合适，最后把约会安排进周末日历。Joseph 称每周平均能约到两名女性，对方并不知道此前一直在与 AI 聊天；他还用创业术语计算约会成本。报道同时采访了对 AI 风险持不同态度的年轻人，并记录线下相亲活动中的对话。Joseph 的约会效率属于本人陈述，没有独立数据验证；部分受访者使用化名。",
+          "links": [
+            {
+              "label": "The Verge 原创报道",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜日本披萨店与《Dr.STONE》联名，广告平台 AI 自动生成了未经版权方审查的广告",
+          "source": "ITmedia AI＋（日本科技媒体）；Anime! Anime!（日本动漫媒体）；PIZZA-LA 运营公司声明",
+          "published": "2026 年 11 月 6 日；联名活动于 2026 年 10 月推出",
+          "text": "日本连锁披萨品牌 PIZZA-LA 推出动画《Dr.STONE》联名披萨、角色周边及宣传插画后，粉丝发现其 TikTok 官方账号投放的广告中，动画人物的姿势和表情与正式宣传图不同。运营公司于 11 月 6 日道歉，称广告平台自带的 AI 自动生成及投放功能处于开启状态，负责投放的员工没有充分意识到这一点，导致未经动画制作委员会审查和授权的视频以官方广告身份投放。公司表示已撤下问题广告、暂停 TikTok 广告并向制作委员会道歉。AI 功能误开启的原因来自品牌官方声明，尚无 TikTok 平台独立技术说明；公司未公开具体生成过程。",
+          "links": [
+            {
+              "label": "ITmedia AI＋日文报道",
+              "url": "https://www.itmedia.co.jp/aiplus/"
+            },
+            {
+              "label": "Anime! Anime! 日文报道",
+              "url": "https://animeanime.jp/"
+            },
+            {
+              "label": "PIZZA-LA 官方联名企划公告",
+              "url": "https://www.pizza-la.co.jp/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜Anthropic 员工把 12 年恋爱聊天记录做成婚礼网站，网友却只关心他们为什么总在生气",
+          "source": "Business Insider（人物及网络传播报道）；Austin Lau（当事人公开分享）",
+          "published": "2026 年 5 月 25 日",
+          "text": "Anthropic 市场部门员工 Austin Lau 准备结婚时，把与伴侣 12 年来的 iMessage 聊天记录交给 Claude Code 分析，再用 Claude Design 制作婚礼网站，形式类似 Spotify Wrapped。网站展示两人约 16.1 万条消息、8600 张照片、近 2.9 万个表情符号，以及约 1800 次“我爱你”；还统计出两人 2016 年聊天最频繁、晚上 9 点是日常聊天高峰。但当事人把成果发布到 X 后，网友注意到两人使用频率第二高的表情竟然是愤怒脸，开始半开玩笑地祝他婚姻好运。媒体称相关帖子获得超过 300 万次浏览。事件发生于 2026 年 5 月，并非近期新进展；数据来自当事人分享，未经过独立审计。",
+          "links": [
+            {
+              "label": "Business Insider 原报道",
+              "url": "https://www.businessinsider.com/anthropic-claude-code-texts-wedding-spotify-wrapped-2026-5"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": []
+    },
     {
       "date": "2026-11-06",
       "wechat": [
