@@ -49,7 +49,32 @@
           ]
         }
       ],
-      "xiaohongshu": []
+      "xiaohongshu": [
+        {
+          "title": "职场话题｜AI 进了公司，最难回答的问题变成了：这活儿到底归谁？",
+          "source": "Value-First Studios · The AI-Native Shift · AI Readiness Part 5",
+          "published": "2026 年 11 月 4 日",
+          "text": "Chris Carolan、Trisha Merriam 和 Erin Wiggers 讨论 AI 加入团队后，如何重新划分人类与机器的工作职责。节目涉及哪些任务应该交给 AI、哪些必须由人完成，以及当员工说「我不知道，Claude 做的」时最终由谁负责。他们还谈到岗位职责模糊、员工承担责任却缺乏相应决策权等问题。",
+          "links": [
+            {
+              "label": "播客原始节目及 8 段视频片段",
+              "url": "https://valuefirststudios.com/media/episode/beyond-industrial-defaults-2026-11-04"
+            }
+          ]
+        },
+        {
+          "title": "自我成长话题｜记忆力不好的人，可能只是太习惯让手机替自己记事了",
+          "source": "The Guardian · The Experts 专题",
+          "published": "2026 年 11 月 1 日",
+          "text": "《卫报》采访记忆研究专家，整理日常记忆训练方法，包括用熟悉路线建立记忆宫殿、把信息转化为夸张画面或故事、学习新技能、阅读、减少手机干扰，以及通过间隔复习巩固知识。专家也区分两类记忆任务：学习新知识时主动练习回忆；预约、生日等未来必须完成的事情，则适合使用日历和提醒工具。文章还讨论睡眠对记忆巩固的作用。",
+          "links": [
+            {
+              "label": "The Guardian 原文（2026 年 11 月 1 日）",
+              "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/how-to-improve-your-memory-10-easy-enjoyable-expert-tips-from-reading-a-book-to-getting-more-sleep"
+            }
+          ]
+        }
+      ]
     },
     {
       "date": "2026-11-06",
