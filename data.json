@@ -3,7 +3,52 @@
   "days": [
     {
       "date": "2026-11-08",
-      "wechat": [],
+      "wechat": [
+        {
+          "title": "值得编译｜78岁退休教授每天上街堵外卖机器人，连警察来了也不让路",
+          "source": "The Guardian · Arwa Mahdawi（原创人物采访及记者现场跟拍）",
+          "published": "2026 年 11 月 7 日",
+          "text": "美国费城78岁的半退休传播学教授 Carolyn Marvin 经常站在 Uber Eats 外卖机器人面前，阻止它们在人行道通行。她认为机器人占用公共空间、影响行人，也让社区失去决定公共设施用途的权利。一次抗议中，警察给她戴上手铐，并以妨碍商业活动为由开出扰乱秩序罚单；她准备以第一修正案权利抗辩。记者随后跟随她再次出动：她在小巷守候编号1617的机器人，等它驶上人行道便上前拦截，路人有人喝彩，也有孩子好奇它像猫还是狗。运营商 Avride 表示其在多个城市和校园运营近千台机器人，数量会变化。报道包含记者现场观察、人物采访及公司回应。",
+          "links": [
+            {
+              "label": "The Guardian 原创报道（含现场跟拍）",
+              "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots"
+            },
+            {
+              "label": "AOL 同步全文",
+              "url": "https://www.aol.com/articles/standing-way-slop-bowls-woman-140012000.html"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜美国小学让 AI 画出全班同学 25 岁时的样子，六岁女孩把照片当成了宝贝",
+          "source": "The Washington Post · Caitlin Gibson（原创采访、查阅学校往来邮件）",
+          "published": "2026 年 11 月 3 日；事件发生于 2026 年 10 月",
+          "text": "美国南卡罗来纳州六岁女孩 Harper 和同学参加未来职业作业，先用彩纸拼贴了自己成为护士的画像，老师又把学生照片上传至个人 ChatGPT 账号，生成他们25岁从事所选职业时的样子。Harper 很喜欢 AI 生成的长发护士照片，还把它和珍藏的小石头、贝壳放在一起。母亲 Nikki Anderson 则担心家长事先不知情、孩子照片如何处理，以及一张符合审美模板的成年形象会不会限制孩子想象未来。她在社交媒体发帖后引发大量家长讨论。学区表示教师使用个人账号不符合规定，照片和生成图已删除；母亲仍无法确认数据是否已从服务商服务器彻底清除。",
+          "links": [
+            {
+              "label": "The Washington Post 原创报道（含采访及学校回应）",
+              "url": "https://www.washingtonpost.com/style/2026/11/03/6-year-old-imagined-her-future-self-then-her-school-gave-her-an-ai-version/"
+            },
+            {
+              "label": "Apple News 页面（可读全文版本）",
+              "url": "https://apple.news/A5KNMoYHjRsubYEVuq-P4iw"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜AI 网红开始长出两个脑袋、三只胸部，甚至编造自己的恋爱经历",
+          "source": "404 Media · Emanuel Maiberg（原创网络文化调查）",
+          "published": "2026 年 1 月 26 日",
+          "text": "Instagram 上一对名叫 Valeria 和 Camelia 的虚拟连体姐妹拥有两个脑袋，经常穿比基尼拍照，还在问答中编造共同恋爱经历，称两人必须同时喜欢同一名男性。账号没有在简介中标注 AI 生成，六周内却积累超过26万粉丝，不少短视频获得数百万播放。账号把流量导向 Beacons 页面和 Telegram 付费频道，记者根据频道订阅及平台定价估算其当时至少产生约2652美元收入。报道还追踪到拥有三只胸部、侏儒症、白癜风或截肢者形象的 AI 网红账号，部分同样把流量导向成人内容平台。文章发表于2026年1月，属于旧闻；粉丝数和收入估算仅代表报道时点，实际运营者身份及总收入未获独立确认。",
+          "links": [
+            {
+              "label": "404 Media 原创报道（含账号截图、订阅价格及记者调查）",
+              "url": "https://www.404media.co/two-heads-three-boobs-the-ai-babe-meta-is-getting-surreal/"
+            }
+          ]
+        }
+      ],
       "xiaohongshu": [
         {
           "title": "职场话题｜AI 还没抢走工作，已经有人被吓得主动辞职了",
