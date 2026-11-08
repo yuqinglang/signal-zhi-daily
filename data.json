@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-07",
+  "updated_at": "2026-11-08",
   "days": [
+    {
+      "date": "2026-11-08",
+      "wechat": [],
+      "xiaohongshu": [
+        {
+          "title": "职场话题｜AI 还没抢走工作，已经有人被吓得主动辞职了",
+          "source": "The Guardian · Reworked 专题",
+          "published": "2026 年 11 月 6 日（本次选题所标注日期；具体文章直链尚未核实）",
+          "text": "选题关注员工因担心 AI 改变职业前景而提前离职、寻找其他职业道路的现象。报道所讨论的重点是 AI 对员工心理状态和职业决策的影响，而非已经发生大规模失业。当前提供的来源是《卫报》Reworked 专题栏目页，未能确认对应报道的独立文章页面。",
+          "links": [
+            {
+              "label": "The Guardian · Reworked 专题栏目（非单篇报道直链）",
+              "url": "https://www.theguardian.com/technology/series/reworked"
+            }
+          ]
+        },
+        {
+          "title": "自我成长话题｜为什么越害怕未来的人，越容易失去行动力？",
+          "source": "WHYY · The Connection · Kate Sweeny、Dannagal Young 专访",
+          "published": "2026 年 10 月 23 日",
+          "text": "心理学研究者 Kate Sweeny 与传播学教授 Dannagal Young 讨论人们面对不确定性时的心理反应，包括等待考试、求职或重要结果时的压力、大脑对潜在威胁的关注，以及接受不确定性与心理健康之间的关系。",
+          "links": [
+            {
+              "label": "WHYY 官方节目页面（The Connection）",
+              "url": "https://whyy.org/programs/the-connection/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-07",
       "wechat": [
