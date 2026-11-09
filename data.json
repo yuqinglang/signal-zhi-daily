@@ -45,7 +45,32 @@
           ]
         }
       ],
-      "xiaohongshu": []
+      "xiaohongshu": [
+        {
+          "title": "职场话题｜公司要求人人拥抱 AI，但负责推行 AI 的 HR 自己都不喜欢它",
+          "source": "HR Coffee Time · 第 172 期 · Laura Maffucci 专访",
+          "published": "2026 年 6 月 5 日",
+          "text": "跨国人力资源服务企业 G-P 的 HR 负责人 Laura Maffucci 分享推动公司内部 AI 应用的经历。她谈到自己对 AI 的保留态度、如何帮助员工面对失业焦虑并尝试新工具，以及建立内部 AI 推广机制。节目还讨论管理层对 AI 的期待与员工实际体验之间的差距，以及推动组织变革时承认疑虑的作用。",
+          "links": [
+            {
+              "label": "HR Coffee Time 第 172 期原始节目（31 分钟）",
+              "url": "https://podscan.fm/podcasts/hr-coffee-time/episodes/172-hr-and-ai-how-one-company-helped-employees-embrace-ai-with-laura-maffucci"
+            }
+          ]
+        },
+        {
+          "title": "自我成长话题｜成年人维持友谊，最难的可能不是认识新朋友，而是主动约下一次",
+          "source": "Self Careapist Therapist Podcast · Lorain Moorehead、Carlie Deadman 对谈",
+          "published": "2026 年 10 月 21 日",
+          "text": "两位心理咨询师讨论成年人建立和维持友谊时遇到的困难，包括主动联系未获回复后的退缩、见面安排长期由一人承担、客套的「下次约」如何变成具体邀请，以及工作消耗如何影响私人关系维护。节目也谈到咨询师自身下班后缺乏社交精力的情况。",
+          "links": [
+            {
+              "label": "完整播客原始链接（53 分钟）",
+              "url": "https://podfollow.com/self-careapist-therapist-podcast/episode/537ad27e03952e058c7d729a540a097d3421b8d0/view"
+            }
+          ]
+        }
+      ]
     },
     {
       "date": "2026-11-08",
