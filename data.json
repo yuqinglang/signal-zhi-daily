@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-11-08",
+  "updated_at": "2026-11-09",
   "days": [
+    {
+      "date": "2026-11-09",
+      "wechat": [
+        {
+          "title": "值得编译｜英国人开始用 AI 写投诉信，政府收到200页长的申诉，连倒垃圾都能扯上外国法律",
+          "source": "The Guardian · Joanna Partridge（原创采访及调查）",
+          "published": "2026 年 11 月 8 日",
+          "text": "英国地方政府、议员办公室和企业开始面对大量 AI 辅助撰写的投诉信。一名地方政府法律工作者称，居民投诉从过去常见的两页，变成动辄20页，甚至出现长达200页的文件；有人为停车罚单、垃圾桶未清运等小事提交复杂法律论证，AI 还会引用加拿大判例，却不顾英国法律是否适用。议员办公室工作人员估计，收到的邮件约有一半经过 AI 处理。公共机构即使发现内容由 AI 生成、法律引用有误，仍须处理有效的信息请求。报道还提到部分机构考虑设置字数上限，或用 AI 先总结这些长信。200页案例及邮件比例来自受访者陈述和估计，并非系统性统计。",
+          "links": [
+            {
+              "label": "The Guardian 原创报道",
+              "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜美国有人带着两个机器人去投票站，机器人头顶标语参加竞选骂战",
+          "source": "FOX 4 Dallas · Carter Freemon（地方电视台报道，附现场视频）",
+          "published": "2026 年 11 月 3 日",
+          "text": "美国得克萨斯州达拉斯一处投票站外，出现两台头顶政治标语的人形机器人。它们在图书馆附近的停车场活动，其中一台写着“Talarico改变主意的次数，比我换电池还频繁”，另一台也用文字嘲讽参议员候选人 James Talarico。机器人来自当地企业家 Aaron Mehdizadeh。报道回顾，他此前曾为一台约1.07米高、名叫 Stewie 的机器人购买西南航空机票，让机器人坐在客舱座位上；此事之后，西南航空修改政策，禁止人形及动物形机器人登机。现场视频可以证明机器人出现在投票站附近，但标语属于操作者表达，没有证据表明机器人自主形成政治观点；报道也未确认其使用生成式 AI。",
+          "links": [
+            {
+              "label": "FOX 4 Dallas 原创报道及现场视频",
+              "url": "https://www.fox4news.com/news/robots-anti-james-talarico-messages-seen-dallas-election-day"
+            },
+            {
+              "label": "CBS Texas：机器人乘坐飞机事件报道",
+              "url": "https://www.cbsnews.com/texas/news/southwest-airlines-bans-humanoid-robots-after-dallas-passenger-flight/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜中国出现猫咪版李子柒：三只 AI 猫在乡下做饭，半年吸粉176万",
+          "source": "South China Morning Post · Zoey Zhang（中国网络文化报道）",
+          "published": "2026 年 11 月 7 日；账号于 2026 年 4 月开始走红",
+          "text": "中国短视频平台出现名为“喵子柒”的账号，主角是三只 AI 生成的猫。它们模仿田园生活博主的拍摄风格，在乡村场景中制作中国传统菜肴、体验非遗手工艺，把日常生活拍成田园短片。报道说，账号从2026年4月开始积累观众，半年获得超过176万粉丝，累计播放量超过5亿次，并开始获得品牌商业合作。与真实萌宠视频不同，创作者可以直接生成猫咪完成复杂烹饪和手工劳动的场景。粉丝数和播放量为报道时点的数据；文章没有充分披露账号完整制作流程、运营团队及商业合作收入。",
+          "links": [
+            {
+              "label": "South China Morning Post 原创报道",
+              "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3373622/ai-generated-cats-showcasing-rural-life-chinese-cuisine-land-major-brand-sponsorships"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": []
+    },
     {
       "date": "2026-11-08",
       "wechat": [
