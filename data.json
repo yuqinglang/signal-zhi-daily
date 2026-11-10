@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-09",
+  "updated_at": "2026-11-10",
   "days": [
+    {
+      "date": "2026-11-10",
+      "wechat": [
+        {
+          "title": "值得编译｜妻子把 ChatGPT 当成婚姻第三者，丈夫却觉得机器人迟早毁灭世界",
+          "source": "The Washington Post · Jenny Singer（原创人物采访）",
+          "published": "2026 年 3 月 13 日（旧闻）",
+          "text": "美国51岁的企业高管 Carolina Caro 几乎每天都使用 AI：写邮件、处理工作，甚至向 ChatGPT 倾诉更年期的身体变化。她的丈夫是一名电视编剧，曾参与好莱坞编剧工会罢工，对 AI 深感警惕，经常取笑妻子竟然把秘密告诉机器人。Caro 则笑称，AI 已经成了婚姻里的第三名成员。文章还采访了24岁的 Rhea Srivastava：她发现男友每次争吵后发来的短信都异常成熟、体贴，逐渐怀疑男友先与 ChatGPT 讨论感情问题，再向她发送精心组织的回复。男友向记者承认曾与 ChatGPT 讨论恋情，但表示短信是自己写的。两人最终分手，Rhea 甚至不确定究竟是谁做出了分手决定。文章采访了多对伴侣及婚姻咨询师；具体关系经历主要来自当事人陈述，Rhea 与男友对 AI 参与程度的说法存在差异。",
+          "links": [
+            {
+              "label": "The Washington Post 原创报道",
+              "url": "https://www.washingtonpost.com/lifestyle/2026/03/13/ai-use-gap-relationships/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜美国小镇请第一任镇长当 AI 接线员，居民打了四次电话都找不到活人",
+          "source": "The Regional News · Jeff Vorva（地方媒体原创现场报道）；Daily Southtown 后续",
+          "published": "2026 年 10 月 7 日；后续报道于 11 月 5 日",
+          "text": "美国伊利诺伊州 Orland Park 在8月推出 AI 政务助手 Humphrey，以小镇第一任镇长 John Humphrey 命名，全天候回答居民问题并转接政府部门。10月5日，两名居民来到镇议会公开投诉。Pam Stepansky 说自己连续拨打四次电话，机器人每次都答应转接真人，却始终没能接通。Karen Drake 只是想咨询一场南瓜派对，结果电话里折腾半天，最后不得不亲自跑到政府办公室，花掉两个小时。11月5日的后续报道说，镇政府已暂停 Humphrey 的电话功能，原因是系统无法正确转接总机及公园娱乐部门；政府正与供应商修复号码配置。镇方披露，9月共接到2687通电话，其中71%转接至政府部门。居民投诉来自公开会议现场记录，后续故障及数据来自地方政府会议报道。",
+          "links": [
+            {
+              "label": "The Regional News 原创报道",
+              "url": "https://southwestregionalpublishing.com/2026/10/07/residents-say-village-chatbot-wont-connect-them/"
+            },
+            {
+              "label": "Daily Southtown 后续报道（11月5日）",
+              "url": "https://bancodeprofissionais.com/2026/11/05/orland-park-fix-ai-call-system/"
+            },
+            {
+              "label": "Orland Park 政府官方发布",
+              "url": "https://www.orlandpark.org/Home/Components/News/News/853/15"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜英国女人寻找失踪猫咪，骗子用 AI 伪造寻猫照片，还要求支付100张苹果礼品卡",
+          "source": "ITV News Central（英国地方电视台原创采访）",
+          "published": "2026 年 11 月 4 日",
+          "text": "英国伯明翰居民 Stephanie Young 的猫 Buddy 于9月从花园失踪。她在社交媒体和宠物救援群组发布寻猫启事后，一名自称 Melissa 的女人主动联系，发来几张 Buddy 的照片，声称自己一直在喂养它，还说希望拿到赏金帮助患有自闭症的孙辈。Stephanie 看到照片后确信找到了猫，甚至提前取出现金，准备见面接它回家。但对方始终没有出现，拒绝现金，坚持要求她购买100张 Apple 礼品卡。Stephanie 随后发现照片经过 AI 生成，开始质疑对方。骗子竟然威胁要把猫卖掉，甚至杀死它。直到报道发布，Buddy 仍然没有找到。事件经过主要依据 Stephanie 的讲述及其提供的照片；报道未披露骗子真实身份，也未确认对方是否真正接触过 Buddy。",
+          "links": [
+            {
+              "label": "ITV News Central 原创报道（含照片）",
+              "url": "https://www.itv.com/news/central/2026-11-04/cat-carer-targeted-by-ai-scammers-after-pet-went-missing"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": []
+    },
     {
       "date": "2026-11-09",
       "wechat": [
