@@ -49,7 +49,32 @@
           ]
         }
       ],
-      "xiaohongshu": []
+      "xiaohongshu": [
+        {
+          "title": "职场话题｜AI 带来的好处，为什么总是先落到工作本来就好的人身上？",
+          "source": "Gallup · AI Benefits at Work Unevenly Distributed",
+          "published": "2026 年 10 月 6 日",
+          "text": "Gallup 发布美国职场调查，覆盖 15,482 名员工，其中 7,845 人曾在工作中使用 AI。结果显示，学历较高、担任管理岗位、原本工作质量较好的人，更可能经常使用 AI；在 AI 使用者内部，年轻、高学历和高收入员工也更容易感受到技术带来的收益。报告呈现 AI 收益分配不均的现象，但调查不能证明 AI 直接导致差距扩大。",
+          "links": [
+            {
+              "label": "Gallup 官方研究原文",
+              "url": "https://www.gallup.com/workplace/697445/ai-benefits-work-unevenly-distributed.aspx"
+            }
+          ]
+        },
+        {
+          "title": "自我成长话题｜你以为给朋友发短视频是在浪费时间，其实也是一种关系维护",
+          "source": "Greater Good Science Center · Shanna B. Tiayon",
+          "published": "2026 年 11 月 2 日",
+          "text": "加州大学伯克利分校 Greater Good Science Center 文章讨论年轻人通过分享 Reels、搞笑视频和网络梗维持关系的行为。随手转发内容不一定需要正式聊天或深入对话，也可以成为一种日常关系维护方式，传递「我想到了你」的信号。",
+          "links": [
+            {
+              "label": "Greater Good 原始文章",
+              "url": "https://greatergood.berkeley.edu/article/item/why_sending_reels_is_more_meaningful_than_you_think"
+            }
+          ]
+        }
+      ]
     },
     {
       "date": "2026-11-09",
