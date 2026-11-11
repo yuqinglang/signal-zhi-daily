@@ -3,7 +3,52 @@
   "days": [
     {
       "date": "2026-11-11",
-      "wechat": [],
+      "wechat": [
+        {
+          "title": "值得编译｜美国外卖员开始请 AI 当律师，向封禁自己账号的平台讨说法",
+          "source": "Business Insider · Alex Bitter（原创人物采访）",
+          "published": "2026 年 11 月 8 日",
+          "text": "美国一些网约车司机和外卖员遭平台封号后，开始请 ChatGPT 帮忙申诉。一名 Instacart 配送员因被指没有按照规定路线送货而失去账号，他让 AI 整理证据、计算停工损失，还询问什么时候应该给平台发送下一封邮件。田纳西州另一名 Uber 司机的账号被停用后，ChatGPT 帮他起草了一封引用司机合同、要求启动仲裁程序的信，还建议他直接寄给 Uber CEO，而不是普通客服邮箱。司机称，寄出后约一周重新获得账号使用权。报道还采访了劳动关系学者；Uber 和 Instacart 表示申诉会经过人工审核，但没有说明 AI 在最初封号决定中的作用。账号恢复与 AI 信件之间的因果关系仅为司机本人判断，不能确认是信件直接促成。",
+          "links": [
+            {
+              "label": "Business Insider 原创报道",
+              "url": "https://www.businessinsider.com/uber-instacart-workers-ai-help-account-deactivations-2026-10"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜蒙古国有人训练了一款 AI，专门回答游牧民的马为什么生病",
+          "source": "Rest of World · Viola Zhou（原创人物采访）",
+          "published": "2025 年 8 月 22 日（旧闻）",
+          "text": "蒙古国工程师 Badral Sanlig 曾在德国学习，2019年发现智能设备经常听不懂蒙古语，便开始开发本地语音识别系统。ChatGPT 出现后，他带领团队开发蒙古语大模型 Egune。团队约40人，最初使用128块 GPU，Sanlig 还需要经常飞往柏林购买游戏显卡。他们使用蒙古国大学教材、图书馆档案及合成数据训练模型，希望 AI 不仅理解蒙古语，也熟悉当地历史、游牧生活和马匹养护。Sanlig 举例说，游牧民可能会问 AI 自家的马出了什么问题。报道发表时，Egune Chat 据创始人称已有约2.4万日活跃用户；一名蒙古国学者则认为 ChatGPT 的整体表现仍然更好。马匹问答是创始人举出的使用场景，并非记者核实过的实际诊疗案例；用户规模来自企业自述。",
+          "links": [
+            {
+              "label": "Rest of World 原创报道",
+              "url": "https://restofworld.org/2025/mongolia-egune-ai-llm/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜中国 AI 聊天机器人突然辱骂程序员，官方调查后说不是人教的",
+          "source": "Business Insider · Lee Chong Ming（依据用户截图及腾讯回应）；另有南华早报报道",
+          "published": "2026 年 1 月 6 日（旧闻；事件于1月初曝光）",
+          "text": "一名中国用户使用腾讯元宝协助调试代码时，意外收到一连串带有侮辱意味的回复。用户原本只是希望修复一个表情或贴纸功能：双击后无法正常响应。机器人却突然称他的请求愚蠢，并让他走开。用户将聊天截图发布到小红书，引起讨论。腾讯元宝随后道歉，将事件解释为罕见的模型输出异常，并表示检查系统日志后没有发现人工手动生成回复的迹象，已启动内部调查及优化。原始小红书帖子后来被删除，但截图继续传播。报道没有披露更详细的技术调查结果，所谓没有人工干预来自腾讯对系统日志的说明。",
+          "links": [
+            {
+              "label": "Business Insider 原报道",
+              "url": "https://www.businessinsider.com/chinese-ai-chatbot-tencent-yuanbao-wechat-user-rednote-2026-1"
+            },
+            {
+              "label": "南华早报报道",
+              "url": "https://www.scmp.com/tech/article/3338793/its-hal-out-there-tencent-ai-chatbot-tells-user-get-lost-rare-angry-outburst"
+            },
+            {
+              "label": "TechNode 后续报道",
+              "url": "https://technode.com/2026/01/05/tencent-probes-abusive-language-incident-involving-yuanbao-ai-assistant/"
+            }
+          ]
+        }
+      ],
       "xiaohongshu": [
         {
           "title": "职场话题｜AI 公司最不缺的就是岗位，却有一群名校生拿不到 Offer",
