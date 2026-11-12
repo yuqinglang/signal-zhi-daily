@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-11",
+  "updated_at": "2026-11-12",
   "days": [
+    {
+      "date": "2026-11-12",
+      "wechat": [],
+      "xiaohongshu": [
+        {
+          "title": "职场话题｜AI 让投诉变得太容易，负责处理投诉的打工人快被淹没了",
+          "source": "The Guardian · AI clog 报道",
+          "published": "2026 年 11 月 8 日",
+          "text": "英国公共机构、企业及议员办公室遭遇被称为「AI clog」的现象：公众使用聊天机器人批量生成投诉信、信息公开申请和法律申诉，工作人员需要逐一核查。报道提到，有地方政府收到的投诉材料从通常两页增加到约 20 页，内容还可能包含重复要求、无关信息或虚构法律条款。AI 降低公众表达诉求成本的同时，也可能把核查工作量转移给处理投诉的一线员工。",
+          "links": [
+            {
+              "label": "The Guardian 原始报道",
+              "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence"
+            }
+          ]
+        },
+        {
+          "title": "自我成长话题｜真正会聊天的人，不是永远同频，而是懂得适时跑题",
+          "source": "The Guardian · 达特茅斯学院对话研究报道",
+          "published": "2026 年 11 月 6 日",
+          "text": "报道介绍达特茅斯学院研究团队对超过 1000 场陌生人对话，以及朋友聊天、快速约会等场景的分析。研究者用「粉红噪声」（Pink Noise）描述一种对话节奏：既围绕同一话题深入交流，也适时引入新想法，避免陷入重复或毫无关联地跳跃。研究发现，这种模式与聊天愉悦感、继续交流意愿及亲近感有关；在快速约会场景中，也能预测双方是否愿意再次见面。",
+          "links": [
+            {
+              "label": "The Guardian 研究报道",
+              "url": "https://www.theguardian.com/science/2026/nov/06/better-conversation-study-pink-noise"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-11",
       "wechat": [
