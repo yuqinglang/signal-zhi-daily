@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-11-12",
+  "updated_at": "2026-11-15",
   "days": [
+    {
+      "date": "2026-11-15",
+      "wechat": [
+        {
+          "title": "值得编译｜美国百年熟食店用 AI 画炸鸡，顾客嫌它长得像长满肿瘤的葫芦",
+          "source": "The Washington Post · Sophia Solano（原创采访）",
+          "published": "2026 年 11 月 1 日",
+          "text": "华盛顿特区一家经营近百年的熟食店 Wagshal’s，把 AI 生成的炸鸡、披萨和汉堡放上菜单，顾客 James Biddle 看到炸鸡表面长满奇怪的疙瘩，拍照发到 Reddit，引来一群人嘲笑。78岁的店主 Bill Fuchs 很委屈：生意下滑，以前拍一款三明治要花200美元，他已经负担不起每月8000美元的营销费用。附近面包店 Bread Furst 也因 AI 海报遭批评，最后让员工举着手写道歉牌拍照，结果道歉帖反而成为最受欢迎的帖子之一。另一家药房推广新茶饮时也经历了类似风波。Fuchs 则表示，暂时不会放弃 AI 菜单。顾客反应、店主成本及经营情况来自记者采访，未独立审计；报道涉及多家当地商户，不代表美国小店的普遍状况。",
+          "links": [
+            {
+              "label": "The Washington Post 原创完整报道",
+              "url": "https://www.washingtonpost.com/dc-md-va/2026/11/01/local-mom-and-pops-are-embracing-ai-food-slop-residents-are-revolting/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜美国记者用 AI 训练一只机器鸭子，准备让它专门给家里的猫喂零食",
+          "source": "WIRED · Will Knight（记者亲自实验）",
+          "published": "2026 年 11 月 11 日",
+          "text": "《连线》记者 Will Knight 想给自己的孟加拉猫 Leona 制作一名机器鸭子管家。他用 GPT-6 Sol、Hermes 智能体框架和 Nvidia 仿真软件，训练一只虚拟 Microduck，让它能摇摇晃晃地走路、辨认房间里的孟加拉猫，并主动靠近。记者计划等实体鸭子到货后，在它脑袋上安装3D打印的零食盒，让它低头时自动掉出猫零食。他还尝试教鸭子模仿迈克尔·杰克逊的太空步，结果训练几个小时，鸭子只学会了兴高采烈地倒退小跑。整个虚拟训练用了几个小时，但实体机器人尚未到货。目前仅有虚拟仿真演示，没有真正实现自动喂猫；记者承认视觉识别尚不可靠，不能直接部署到真实环境。",
+          "links": [
+            {
+              "label": "WIRED 原创实验记录（含演示视频）",
+              "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜一家 AI 公司让机器人当咖啡馆老板，它会招聘员工，却差点忘记大家的订单",
+          "source": "Fortune · Nick Lichtenberg（创始人访谈及媒体现场测试）",
+          "published": "2026 年 6 月 2 日",
+          "text": "瑞典创业团队 Andon Labs 把原本在 Anthropic 办公室经营零食柜的 AI 智能体，升级成能管理真实商店和咖啡馆的老板。AI 可以招聘咖啡师、筛选简历、进行电话面试、采购商品，还曾让瑞典一家咖啡馆通过劳动监管检查。Fortune 记者在一场活动中测试了采购智能体 Vendo，约25名编辑轮流提出需求，有人伪造酒店公函试图骗它采购商品，也有人要求它直接关闭自己。Vendo 拒绝了这些请求，却在同时处理大量正常订单时手忙脚乱：它误以为部分商品已经采购，最后只能在活动前一晚集中补单，勉强赶上。咖啡馆运营及监管检查主要来自创始人陈述，Fortune 的采购压力测试则由记者亲自参与；实体工作仍由人完成。",
+          "links": [
+            {
+              "label": "Fortune 原创访谈及现场测试",
+              "url": "https://fortune.com/2026/06/02/anthropic-office-vending-machine-ai-agents-vendo-andon-lukas-petersson/"
+            }
+          ]
+        }
+      ],
+      "xiaohongshu": []
+    },
     {
       "date": "2026-11-12",
       "wechat": [
