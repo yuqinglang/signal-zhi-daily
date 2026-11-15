@@ -41,7 +41,32 @@
           ]
         }
       ],
-      "xiaohongshu": []
+      "xiaohongshu": [
+        {
+          "title": "职场｜AI 还没抢走工作，一些白领已经主动辞职了",
+          "source": "The Guardian · Amelia Penniman 人物采访",
+          "published": "2026 年 11 月 6 日（11 月 10 日更新）",
+          "text": "《卫报》采访几位因 AI 改变职业方向的美国白领。30 岁的 Vanessa Hsia 做了近十年公关后，决定攻读比较文学硕士；一位工作十余年的软件工程师转行当警察；广告制片人 Kara 离职学习表演，同时做咖啡师维持收入。他们并非都已被 AI 替代，有人厌倦工作越来越依赖 AI，有人担忧岗位前景，也有人觉得自己从创作者变成 AI 产出的审核员。报道呈现 AI 尚未真正取代工作，却已改变部分劳动者对工作的期待。",
+          "links": [
+            {
+              "label": "The Guardian 完整人物采访",
+              "url": "https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting"
+            }
+          ]
+        },
+        {
+          "title": "自我成长｜对自己好一点，不一定是休息，也可能是勇敢拒绝别人",
+          "source": "Psychology Today · Celeste Birkhofer 博士",
+          "published": "2026 年 10 月 18 日",
+          "text": "Celeste Birkhofer 博士分享对自我关怀（Self-Compassion）的理解变化，并借用心理学家 Kristin Neff 的分类，区分两种自我关怀：温柔地照顾自己，例如允许休息、寻求安慰；坚定地保护自己，例如拒绝不合理要求、设立边界、主动解决问题。文章建议遭遇挫折时先承认痛苦，再判断此刻需要安慰还是采取行动，并指出自我关怀不必然削弱进取心。",
+          "links": [
+            {
+              "label": "Psychology Today 作者原文",
+              "url": "https://www.psychologytoday.com/us/blog/the-well-tended-mind/202610/self-compassion-is-it-wise-or-wimpy"
+            }
+          ]
+        }
+      ]
     },
     {
       "date": "2026-11-12",
