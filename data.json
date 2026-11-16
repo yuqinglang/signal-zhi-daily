@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-15",
+  "updated_at": "2026-11-16",
   "days": [
+    {
+      "date": "2026-11-16",
+      "wechat": [],
+      "xiaohongshu": [
+        {
+          "title": "职场｜找不到工作，年轻人却被要求先有工作经验",
+          "source": "The Guardian · 四位英国年轻人求职经历采访",
+          "published": "2026 年 11 月 14 日",
+          "text": "《卫报》采访四位陷入求职困境的英国年轻人。25 岁的 Aamir 拥有两个传媒学位，投出超过 1000 份申请仍未找到工作；24 岁的 Alice 毕业于牛津和剑桥，投递 50 份申请后屡次面试失败；21 岁的计算机专业毕业生 Peter 担忧 AI 正在压缩初级岗位。受访者反复遭遇雇主要求工作经验、但年轻人无法获得第一份工作经验的困境。",
+          "links": [
+            {
+              "label": "The Guardian 原始采访报道",
+              "url": "https://www.theguardian.com/business/2026/nov/14/young-people-shut-out-of-work-ai"
+            }
+          ]
+        },
+        {
+          "title": "自我成长｜AI 太会引导你了，可能反而让你越来越不相信自己",
+          "source": "The Guardian · 精神分析师 Robin Kirman 评论文章",
+          "published": "2026 年 11 月 10 日",
+          "text": "精神分析师 Robin Kirman 讨论 ChatGPT 青少年学习模式。她认为 AI 的耐心引导能为缺乏教育资源的学生提供帮助，但也提出担忧：如果年轻人总能从 AI 获得恰到好处的指导，可能减少独立摸索、犯错和形成个人判断的机会。文章借用 Donald Winnicott 和 Peter Blos 的理论讨论青少年自我认同发展。这是作者提出的心理发展观点，并非已获实验证实的 AI 使用后果。",
+          "links": [
+            {
+              "label": "The Guardian 作者原文",
+              "url": "https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-15",
       "wechat": [
