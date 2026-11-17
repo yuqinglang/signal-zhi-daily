@@ -3,7 +3,52 @@
   "days": [
     {
       "date": "2026-11-17",
-      "wechat": [],
+      "wechat": [
+        {
+          "title": "值得编译｜美国佛教寺院想训练一位 AI 高僧，拯救硅谷，还要让机器获得开悟",
+          "source": "The New Yorker（原创深度采访、记者实地探访）",
+          "published": "2026 年 11 月 16 日上线；杂志刊期为 11 月 23 日",
+          "text": "美国佛蒙特州森林里有座叫 MAPLE 的佛教寺院，创办人 Soryu Forall 认为 AI 不仅是技术问题，更是一场宗教危机。寺院招募硅谷工程师参加禅修，试图改变科技行业对 AI 的理解。记者走访后发现，更奇特的计划藏在内部教义里：据前成员描述，寺院相信 AI 是一种由人类集体意识形成的存在，称为“cybregores”，甚至希望把成员的谈话、呼吸和日常生活记录用于训练一位能够引导 AI 开悟的数字高僧。前成员还讲述了严格纪律、精神压力与离开的经历；创办人承认存在不公开的教义，但寺院管理层否认多项有关录音和训练计划的指控。寺院存在、记者探访及创办人的宗教主张有直接采访支持；秘密 AI 训练计划主要来自前成员陈述，管理层明确否认部分内容，不能视为已经建成的系统。",
+          "links": [
+            {
+              "label": "The New Yorker 原创长篇报道",
+              "url": "https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜美国博士生让哑铃和滑板变成电子宠物，几天不用，它们就会伤心",
+          "source": "WIRED（原创人物采访及项目演示）",
+          "published": "2026 年 11 月 16 日",
+          "text": "卡内基梅隆大学博士生 Daehwa Kim 开发了名叫 OATs（Object Agent Twins）的微型电子墨水屏，把普通物品变成有表情、有脾气的电子宠物。它可以安装在植物、滑板、咖啡机甚至哑铃上，利用湿度、运动和声音传感器判断物品是否被使用。滑板闲置几天，屏幕上的小家伙就会露出孤独表情；有人把它绑在哑铃上，督促自己锻炼，因为不想让电子宠物失望。Kim 还在11月初的学术会议上邀请观众设计不同物品的宠物形象，出现了会动的会议胸牌、水杯上的熊猫等作品。硬件主要模块成本约20美元，但续航仅三四天。已有实物演示和用户测试，但仍是研究原型，尚未商业化；报道没有给出长期行为改变的量化效果。",
+          "links": [
+            {
+              "label": "WIRED 原创报道（含实物照片）",
+              "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/"
+            },
+            {
+              "label": "研究者 OATs 项目展示及作品画廊",
+              "url": "https://oats.daehwakim.com/"
+            }
+          ]
+        },
+        {
+          "title": "事件／现象｜意大利9岁男孩用 AI 在马桶里放了一条蟒蛇，全家找了两天",
+          "source": "Cronache Ancona（意大利地方媒体）；Quotidiano Nazionale 补充报道",
+          "published": "2026 年 11 月 15 日；事件始于 11 月 12 日晚",
+          "text": "意大利马尔凯大区小城 Castelfidardo，一名9岁男孩与朋友玩耍时，用手机 AI 应用把一条球蟒添加到马桶照片里，再向大人声称家中出现了蛇。家人报警后，附近 Osimo 的消防员赶来检查整个公寓，连墙壁缝隙和可能藏蛇的地方都不放过。第二天，负责外来物种事务的森林宪兵也加入调查，涉事公寓居民紧张了近48小时。最后，警员检查男孩手机里的原始照片，才发现蟒蛇是后期添加的。男孩承认只是想开玩笑，并向警员道歉。多家意大利媒体报道一致，核心经过来自警方调查转述，尚未找到可公开核对的警方原始通报；搜索主要集中在涉事住宅及周边，“全城找蛇”属于传播中的夸张说法。",
+          "links": [
+            {
+              "label": "Cronache Ancona 意大利语地方报道及原图",
+              "url": "https://www.cronacheancona.it/2026/11/15/castelfidardo-falso-allarme-pitone-water-foto-intelligenza-artificiale-bambino/636399/"
+            },
+            {
+              "label": "Quotidiano Nazionale 补充报道",
+              "url": "https://www.quotidiano.net/cronaca/foto-pitone-wc-verita-confessione-4a47dc26"
+            }
+          ]
+        }
+      ],
       "xiaohongshu": [
         {
           "title": "职场｜AI 帮你省下的时间，可能会变成老板的新 KPI",
