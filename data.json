@@ -1,6 +1,72 @@
 {
-  "updated_at": "2026-11-20",
+  "updated_at": "2026-11-21",
   "days": [
+    {
+      "date": "2026-11-21",
+      "wechat": [],
+      "xiaohongshu": [
+        {
+          "title": "一个差点死于新冠的俄罗斯导演，把拍电影当成了康复训练",
+          "source": "The Guardian · Xan Brooks 对导演 Andrey Zvyagintsev 的采访",
+          "published": "2026 年 11 月 20 日；经历发生于 2021—2026 年",
+          "text": "《利维坦》《无爱可诉》导演 Andrey Zvyagintsev 2021 年感染新冠后病重，在德国医院经历 40 天人工昏迷、92% 肺部损伤，住院 11 个月，一度需要重新学习使用刀叉。2022 年他在病房得知俄乌战争爆发，随后选择流亡。新片《Minotaur》在拉脱维亚拍摄，并获得 2026 年戛纳电影节评审团大奖。他说拍摄过程仿佛成了自己的康复训练。",
+          "links": [
+            {
+              "label": "The Guardian 完整导演采访",
+              "url": "https://www.theguardian.com/film/2026/nov/20/andrey-zvyagintsev-covid-putin-russia-life-in-exile"
+            }
+          ]
+        },
+        {
+          "title": "一位拍过朋克电影的导演，准备众筹续集，讲述无人驾驶汽车的世界",
+          "source": "The Guardian · Rich Pelley 对导演 Alex Cox 的采访",
+          "published": "2026 年 11 月 19 日；原作《Repo Man》于 1984 年上映",
+          "text": "导演 Alex Cox 回忆，1984 年拍摄《Repo Man》时，音乐人 Michael Nesmith 因喜欢剧本开头的四页漫画而帮助融资，电影后来加入大量朋克歌曲。Cox 正通过众筹筹备《Repo Man 2》，将故事放进自动驾驶时代：过去回收汽车的人需要亲自偷车，如今只需坐在电脑前远程控制。他认为众筹支持者至少真正想看到电影，而大制片厂更关注大型 IP。",
+          "links": [
+            {
+              "label": "The Guardian 导演问答原文",
+              "url": "https://www.theguardian.com/film/2026/nov/19/alex-cox-john-lydon-said-sid-and-nancy-was-a-nightmarish-piece-of-garbage"
+            }
+          ]
+        },
+        {
+          "title": "一位福建女孩，把故乡药店和深夜山林的声音做成了电子音乐",
+          "source": "The Guardian · Safi Bugel 对音乐人 Stella Z 的专辑评论",
+          "published": "2026 年 11 月 20 日；专辑《Thunder Is the Sky Dreaming》于 2026 年推出",
+          "text": "出生于福建、现居伦敦的制作人 Stella Z 回国旅行时采集药店环境声和福建山林夜间声音，将它们编织进八首电子音乐作品。她受到清醒梦启发，作品结合低语、虫鸣般音色、钟声、碎拍和反复出现的人声，试图模拟睡眠与清醒之间的模糊状态。现有材料主要来自乐评和专辑说明，尚缺艺术家完整采访及声音采集过程。",
+          "links": [
+            {
+              "label": "The Guardian 专辑评论",
+              "url": "https://www.theguardian.com/music/2026/nov/20/stella-z-thunder-is-the-sky-dreaming-review-cdr"
+            }
+          ]
+        },
+        {
+          "title": "五位经历过流离失所的导演，用五部短片讲述失去故乡",
+          "source": "Variety · Displacement Film Fund 与《纽约客》合作项目报道",
+          "published": "2026 年 10 月 24 日；短片于 2026 年鹿特丹电影节首映，11 月起陆续上线",
+          "text": "Cate Blanchett 发起的 Displacement Film Fund 与《纽约客》合作，推出五位电影人的短片，导演包括 Mohammad Rasoulof、Shahrbanoo Sadat、Mo Harawe、Maryna Er Gorbach 和 Hasan Kattan。作品涉及流亡、身份、归属和失去家园。首部上线的是 Hasan Kattan 的纪录短片《Allies in Exile》。项目于 11 月 11 日在纽约 Film Forum 举办放映和创作者对谈。",
+          "links": [
+            {
+              "label": "Variety 项目报道",
+              "url": "https://au.variety.com/2026/film/global/cate-blanchett-displacement-film-fund-new-yorker-41841/"
+            }
+          ]
+        },
+        {
+          "title": "年轻人开始反向训练推荐算法，让自己的信息流变得快乐一点",
+          "source": "The Guardian · Bloomscrolling 现象报道",
+          "published": "2026 年 11 月 18 日；现象近期出现",
+          "text": "与 Doomscrolling 相对，Bloomscrolling 指有意识地让社交媒体推荐更多带来愉悦、启发或希望的内容。作家 Lucy Bloom 重新开设 Instagram 账号，只关注艺术相关账户，随后推荐内容逐渐出现更多艺术作品、驻留项目和绘画。她表示这让自己更平静，也更愿意创作。报道提及学者 Ruha Benjamin 关于主动关注组织者、艺术家和教育者的倡议，但现有材料不足以证明这已成为普遍的年轻人行为。",
+          "links": [
+            {
+              "label": "The Guardian 原始报道",
+              "url": "https://www.theguardian.com/media/2026/nov/18/bloomscrolling-train-algorithm-social-media"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-20",
       "wechat": [
