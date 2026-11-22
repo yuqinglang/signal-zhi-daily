@@ -57,7 +57,68 @@
           ]
         }
       ],
-      "xiaohongshu": []
+      "xiaohongshu": [
+        {
+          "title": "《出租车司机》的编剧，80 岁时发现 AI 已经能模仿自己写剧本",
+          "source": "The Guardian · Robert Booth 对 Paul Schrader 的采访",
+          "published": "2026 年 11 月 21 日；采访涉及 2026 年正在推进的电影项目",
+          "text": "Paul Schrader 让 AI 为自己构思十个电影故事，认为其中三个达到自己平时的构思水平。随后，他让 AI 把其中一个故事拆成三幕、四十多个场景，最后写出第一场戏。他发现连舞台说明的简洁风格都像自己的笔法，于是害怕得停止了实验。但他并没有因此放弃 AI，新片《The Doors of Perception》准备与 AI 影像公司 Fable 合作制作幻觉场景。他还在测试 AI 演员，并认为未来可能用 AI 完成整部电影。",
+          "links": [
+            {
+              "label": "The Guardian 完整采访",
+              "url": "https://www.theguardian.com/film/2026/nov/21/taxi-driver-scriptwriter-paul-schrader-ai-film-making-martin-scorsese"
+            }
+          ]
+        },
+        {
+          "title": "一个摇滚歌手，曾经与倭黑猩猩一起弹钢琴",
+          "source": "The Guardian · Alexis Petridis 对 Peter Gabriel 的采访",
+          "published": "2026 年 11 月 20 日；回顾过去数十年的实验，新专辑《o\\i》计划于 2026 年 11 月 27 日发行",
+          "text": "Peter Gabriel 在采访中展示自己与倭黑猩猩 Kanzi 合奏的视频：他弹合成器，Kanzi 在键盘上选择音符。这段实验由灵长类研究者 Sue Savage-Rumbaugh 参与。Gabriel 对跨物种交流、植物意识和生物电研究有浓厚兴趣，还提出过把亲人骨灰与树木联系起来、通过手机位置触发逝者声音和影像的数字纪念设想。新专辑《o\\i》包含 13 首歌，接近 90 分钟，其中一首早在 1989 年就开始创作。",
+          "links": [
+            {
+              "label": "The Guardian 完整采访",
+              "url": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants"
+            }
+          ]
+        },
+        {
+          "title": "一位巴基斯坦画家，把马奈的巴黎酒吧搬到了纽约",
+          "source": "The Guardian · Malik Meer 对 Salman Toor 的采访",
+          "published": "2026 年 9 月 21 日；伦敦展览于 2026 年 10 月 2 日至 2027 年 1 月 10 日举办",
+          "text": "出生于巴基斯坦拉合尔、2002 年前往美国学习艺术的 Salman Toor，绘画常出现南亚男性在酒吧、出租车和卧室里的生活场景。2019 年，他创作《The Bar on East 13th》，重新演绎马奈的《女神游乐厅的吧台》：原画里的巴黎女招待变成纽约东村的棕色皮肤酒保，背景是亲密交谈的人群。Toor 说自己曾通过绘画表达长期难以公开的身份认同，也特别喜欢兼具华丽与危险感的绿色。",
+          "links": [
+            {
+              "label": "The Guardian 画家采访及作品",
+              "url": "https://www.theguardian.com/artanddesign/2026/sep/21/salman-toor-artist-interview-clubbing-queerness-new-york-muslim-moment"
+            }
+          ]
+        },
+        {
+          "title": "《黑客帝国》导演的新电影筹不到钱，于是先把演员叫来公开读剧本",
+          "source": "Variety · 对 Lilly Wachowski 电影项目及 KCRW《The Business》播客的报道",
+          "published": "2026 年 8 月 13 日；公开剧本朗读于 2026 年 8 月 7—8 日举行",
+          "text": "Lilly Wachowski 正在开发约 1000 万美元预算的惊悚片《The Hunted》。她在播客中表示，业内人士喜欢剧本，却不愿意投资，因为影片几乎全部由跨性别演员出演。她与伴侣 Mickey Ray Mahoney 共同编剧，随后在洛杉矶 Dynasty Typewriter 剧场组织现场剧本朗读，让演员和观众先接触这个尚未获得融资的故事。这是导演对融资困难原因的解释，尚不能视为投资方已经证实的理由。",
+          "links": [
+            {
+              "label": "Variety 原始报道",
+              "url": "https://au.variety.com/2026/film/global/lilly-wachowski-trans-movie-no-financing-39344/"
+            }
+          ]
+        },
+        {
+          "title": "研究者发现，同样是 Z 世代，网络文化可能比国籍更能解释他们的差异",
+          "source": "Wisevoter · 转述 Andreessen Horowitz 的 Electric Twin 分析",
+          "published": "2026 年 11 月 21 日；所引分析于 2026 年 11 月 20 日发布",
+          "text": "报道转述一项使用四个国家政治态度调查数据的分析，比较不同世代的观点与国籍之间的关系。据报道，模型从受访者回答中判断婴儿潮一代国籍的准确率约为 42%，对 Z 世代仅为 29%。分析者据此提出，Z 世代可能正在分化为由网络内容与社群塑造的微型文化群体。当前仍需核实原始研究的方法、样本和指标，不能把这一判断写成已经证实的全球趋势。",
+          "links": [
+            {
+              "label": "Wisevoter 研究转述",
+              "url": "https://wisevoter.com/world/2026/11/21/gen-z-splits-online-microcultures"
+            }
+          ]
+        }
+      ]
     },
     {
       "date": "2026-11-21",
